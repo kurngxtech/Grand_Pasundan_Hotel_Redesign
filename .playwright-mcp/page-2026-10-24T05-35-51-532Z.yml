@@ -1,0 +1,283 @@
+- generic [active] [ref=f28e1]:
+  - generic:
+    - link "×" [ref=f28e2] [cursor=pointer]:
+      - /url: javascript:void(0)
+    - generic [ref=f28e3]:
+      - navigation:
+        - generic:
+          - list:
+            - listitem:
+              - link "Home":
+                - /url: https://grandpasundanhotel.com/
+            - listitem:
+              - link "Facilities":
+                - /url: https://grandpasundanhotel.com/facilities/
+            - listitem:
+              - link "Meetings & Convention":
+                - /url: https://grandpasundanhotel.com/meetings/
+            - listitem:
+              - link "Weddings":
+                - /url: https://grandpasundanhotel.com/weddings/
+            - listitem:
+              - link "News":
+                - /url: https://grandpasundanhotel.com/news/
+            - listitem:
+              - link "Contact":
+                - /url: https://grandpasundanhotel.com/contact/
+  - generic [ref=f28e4]:
+    - link "×" [ref=f28e5] [cursor=pointer]:
+      - /url: javascript:void(0)
+    - generic [ref=f28e8]:
+      - heading "Your Booking" [level=3] [ref=f28e10]
+      - generic [ref=f28e11]:
+        - generic [ref=f28e12]:
+          - table [ref=f28e17]:
+            - rowgroup [ref=f28e18]:
+              - row "october 2026" [ref=f28e19]:
+                - columnheader [ref=f28e20]:
+                  - generic [ref=f28e21] [cursor=pointer]
+                - columnheader "october 2026" [ref=f28e23]:
+                  - generic [ref=f28e24]: october
+                  - generic [ref=f28e25]: "2026"
+                - columnheader [ref=f28e26]:
+                  - generic [ref=f28e27] [cursor=pointer]
+              - row [ref=f28e29]:
+                - columnheader "su" [ref=f28e30]
+                - columnheader "mo" [ref=f28e31]
+                - columnheader "tu" [ref=f28e32]
+                - columnheader "we" [ref=f28e33]
+                - columnheader "th" [ref=f28e34]
+                - columnheader "fr" [ref=f28e35]
+                - columnheader "sa" [ref=f28e36]
+            - rowgroup [ref=f28e37]:
+              - row [ref=f28e38]:
+                - cell [ref=f28e39]
+                - cell [ref=f28e40]
+                - cell [ref=f28e41]
+                - cell [ref=f28e42]
+                - cell "1" [ref=f28e43]
+                - cell "2" [ref=f28e45]
+                - cell "3" [ref=f28e47]
+              - row [ref=f28e49]:
+                - cell "4" [ref=f28e50]
+                - cell "5" [ref=f28e52]
+                - cell "6" [ref=f28e54]
+                - cell "7" [ref=f28e56]
+                - cell "8" [ref=f28e58]
+                - cell "9" [ref=f28e60]
+                - cell "10" [ref=f28e62]
+              - row [ref=f28e64]:
+                - cell "11" [ref=f28e65]
+                - cell "12" [ref=f28e67]
+                - cell "13" [ref=f28e69]
+                - cell "14" [ref=f28e71]
+                - cell "15" [ref=f28e73]
+                - cell "16" [ref=f28e75]
+                - cell "17" [ref=f28e77]
+              - row [ref=f28e79]:
+                - cell "18" [ref=f28e80]
+                - cell "19" [ref=f28e82]
+                - cell "20" [ref=f28e84]
+                - cell "21" [ref=f28e86]
+                - cell "22" [ref=f28e88]
+                - cell "23" [ref=f28e90]
+                - cell "24 608K" [ref=f28e92]
+              - row [ref=f28e94]:
+                - cell "25 395.2K" [ref=f28e95]
+                - cell "26 395.2K" [ref=f28e97]
+                - cell "27 395.2K" [ref=f28e99]
+                - cell "28 395.2K" [ref=f28e101]
+                - cell "29 395.2K" [ref=f28e103]
+                - cell "30 494K" [ref=f28e105]
+                - cell "31 494K" [ref=f28e107]
+          - generic [ref=f28e110]:
+            - paragraph [ref=f28e111]:
+              - generic [ref=f28e112]: Checkin - Checkout
+            - generic [ref=f28e115]:
+              - generic [ref=f28e116]: Date
+              - strong [ref=f28e118]: Sat, Oct 24 2026 - Sun, Oct 25 2026
+          - generic [ref=f28e119]:
+            - paragraph [ref=f28e120]:
+              - generic [ref=f28e121]: Guest
+            - generic [ref=f28e124]:
+              - generic [ref=f28e125]:
+                - paragraph [ref=f28e126]: Adult
+                - paragraph [ref=f28e127]: Ages 18 or above
+              - generic [ref=f28e129]:
+                - generic [ref=f28e130] [cursor=pointer]: "-"
+                - generic [ref=f28e131]: "2"
+                - generic [ref=f28e132] [cursor=pointer]: +
+            - generic [ref=f28e133]:
+              - generic [ref=f28e134]:
+                - paragraph [ref=f28e135]: Children
+                - paragraph [ref=f28e136]: Ages 0 - 17
+              - generic [ref=f28e138]:
+                - generic [ref=f28e139] [cursor=pointer]: "-"
+                - generic [ref=f28e140]: "0"
+                - generic [ref=f28e141] [cursor=pointer]: +
+          - generic [ref=f28e142]:
+            - paragraph [ref=f28e143]:
+              - generic [ref=f28e144]: Promocode
+            - textbox "Enter promo code" [ref=f28e148]
+        - button "Check Availability" [ref=f28e150] [cursor=pointer]
+  - generic [ref=f28e151]:
+    - banner [ref=f28e152]:
+      - generic [ref=f28e153]:
+        - link "menu" [ref=f28e155] [cursor=pointer]:
+          - /url: "#"
+        - list [ref=f28e161]:
+          - listitem [ref=f28e162]:
+            - link "Rooms" [ref=f28e163] [cursor=pointer]:
+              - /url: https://grandpasundanhotel.com/rooms/
+          - listitem [ref=f28e164]:
+            - link "Offers" [ref=f28e165] [cursor=pointer]:
+              - /url: https://grandpasundanhotel.com/offers/
+          - listitem [ref=f28e166]:
+            - link "Gallery" [ref=f28e167] [cursor=pointer]:
+              - /url: https://grandpasundanhotel.com/gallery/
+        - link [ref=f28e170] [cursor=pointer]:
+          - /url: https://grandpasundanhotel.com/
+          - img "Grand Pasundan Hotel" [ref=f28e171]
+        - link "book now" [ref=f28e173] [cursor=pointer]:
+          - /url: "#"
+    - generic [ref=f28e174]:
+      - generic [ref=f28e175]:
+        - link "Scroll Down":
+          - /url: "#main"
+          - generic [ref=f28e180] [cursor=pointer]
+      - generic [ref=f28e181]:
+        - main [ref=f28e183]:
+          - heading "Facilities" [level=1] [ref=f28e185]
+          - paragraph [ref=f28e186]: Beside suites & rooms we also provide facilities to bring the best experience for our costumer.
+        - generic [ref=f28e189]:
+          - generic [ref=f28e192]:
+            - heading "Pustaka Pasundan" [level=2] [ref=f28e193]
+            - list [ref=f28e194]:
+              - listitem [ref=f28e195]:
+                - generic [aria-hidden] [ref=f28e196]: 
+                - text: Main Building
+              - listitem [ref=f28e197]:
+                - generic [aria-hidden] [ref=f28e198]: 
+                - text: 06.00 - 21.00
+            - paragraph [ref=f28e199]: There's nothing more fun than exploring a library
+            - link "Discover" [ref=f28e200] [cursor=pointer]:
+              - /url: https://grandpasundanhotel.com/facility/pustaka-pasunda/
+          - generic [ref=f28e207]:
+            - heading "Kids Corner" [level=2] [ref=f28e208]
+            - list [ref=f28e209]:
+              - listitem [ref=f28e210]:
+                - generic [aria-hidden] [ref=f28e211]: 
+                - text: Main Building
+              - listitem [ref=f28e212]:
+                - generic [aria-hidden] [ref=f28e213]: 
+                - text: 06.00 - 21.00
+            - paragraph [ref=f28e214]: We can't wait to see you play and have a fun at our playground!
+            - link "Discover" [ref=f28e215] [cursor=pointer]:
+              - /url: https://grandpasundanhotel.com/facility/kids-corner/
+          - generic [ref=f28e218]:
+            - heading "Coffee Shop / Restaurant" [level=2] [ref=f28e219]
+            - list [ref=f28e220]:
+              - listitem [ref=f28e221]:
+                - generic [aria-hidden] [ref=f28e222]: 
+                - text: Main Building
+              - listitem [ref=f28e223]:
+                - generic [aria-hidden] [ref=f28e224]: 
+                - text: 07.00 - 18.00
+            - paragraph [ref=f28e225]: Enjoy the morning breakfast atmosphere with Indonesian, Western and Asian dishes, stalls with various kinds of food.
+            - link "Discover" [ref=f28e226] [cursor=pointer]:
+              - /url: https://grandpasundanhotel.com/facility/coffee-shop/
+          - generic [ref=f28e233]:
+            - heading "D’linda Poolside Cafetaria" [level=2] [ref=f28e234]
+            - list [ref=f28e235]:
+              - listitem [ref=f28e236]:
+                - generic [aria-hidden] [ref=f28e237]: 
+                - text: Pool Side
+            - paragraph [ref=f28e238]: Relax after swimming, enjoying the breeze while accompanied by a cup of coffee and snacks.
+            - link "Discover" [ref=f28e239] [cursor=pointer]:
+              - /url: https://grandpasundanhotel.com/facility/dlinda-poolside/
+          - generic [ref=f28e242]:
+            - heading "Pool" [level=2] [ref=f28e243]
+            - list [ref=f28e244]:
+              - listitem [ref=f28e245]:
+                - generic [aria-hidden] [ref=f28e246]: 
+                - text: West Building
+              - listitem [ref=f28e247]:
+                - generic [aria-hidden] [ref=f28e248]: 
+                - text: 07.00 - 18.00
+            - paragraph [ref=f28e249]: Very large swimming pool, provided with a pool for children with a very comfortable waiting room for families
+            - link "Discover" [ref=f28e250] [cursor=pointer]:
+              - /url: https://grandpasundanhotel.com/facility/pool/
+          - generic [ref=f28e257]:
+            - heading "Fitness & SPA" [level=2] [ref=f28e258]
+            - list [ref=f28e259]:
+              - listitem [ref=f28e260]:
+                - generic [aria-hidden] [ref=f28e261]: 
+                - text: West Building
+              - listitem [ref=f28e262]:
+                - generic [aria-hidden] [ref=f28e263]: 
+                - text: 07.00 - 21.00
+            - paragraph [ref=f28e264]: Health doesn't come continuously, strengthen your muscles by exercising every day.
+            - link "Discover" [ref=f28e265] [cursor=pointer]:
+              - /url: https://grandpasundanhotel.com/facility/fitness-spa/
+          - generic [ref=f28e268]:
+            - heading "Family Karaoke" [level=2] [ref=f28e269]
+            - list [ref=f28e270]:
+              - listitem [ref=f28e271]:
+                - generic [aria-hidden] [ref=f28e272]: 
+                - text: UM Floor Main Building
+              - listitem [ref=f28e273]:
+                - generic [aria-hidden] [ref=f28e274]: 
+                - text: 17.00 - 21.00
+            - paragraph [ref=f28e275]: Singing with friends, family and colleagues can strengthen friendships and create a lively atmosphere.
+            - link "Discover" [ref=f28e276] [cursor=pointer]:
+              - /url: https://grandpasundanhotel.com/facility/family-karaoke/
+  - contentinfo [ref=f28e279]:
+    - generic [ref=f28e282]:
+      - generic [ref=f28e283]:
+        - link [ref=f28e285] [cursor=pointer]:
+          - /url: https://grandpasundanhotel.com/wp-content/themes/Alaric/img/logo-hotel/logo-color-footer.png)
+          - img "Grand Pasundan Hotel" [ref=f28e286]
+        - generic [ref=f28e287]:
+          - strong [ref=f28e288]: Grand Pasundan Hotel & Convention
+          - text: Jl. Peta No.147 - 149, Suka Asih, Kec. Bojongloa Kaler, Kota Bandung, Jawa Barat 40232 - Indonesia Telp. 022 6043135 Email. reservation@grandpasundanhotel.com
+      - list [ref=f28e291]:
+        - listitem [ref=f28e292]:
+          - link "Home" [ref=f28e293] [cursor=pointer]:
+            - /url: https://grandpasundanhotel.com/
+        - listitem [ref=f28e294]:
+          - link "Facilities" [ref=f28e295] [cursor=pointer]:
+            - /url: https://grandpasundanhotel.com/facilities/
+        - listitem [ref=f28e296]:
+          - link "Meetings & Convention" [ref=f28e297] [cursor=pointer]:
+            - /url: https://grandpasundanhotel.com/meetings/
+        - listitem [ref=f28e298]:
+          - link "Weddings" [ref=f28e299] [cursor=pointer]:
+            - /url: https://grandpasundanhotel.com/weddings/
+        - listitem [ref=f28e300]:
+          - link "News" [ref=f28e301] [cursor=pointer]:
+            - /url: https://grandpasundanhotel.com/news/
+        - listitem [ref=f28e302]:
+          - link "Contact" [ref=f28e303] [cursor=pointer]:
+            - /url: https://grandpasundanhotel.com/contact/
+      - generic [ref=f28e304]:
+        - list [ref=f28e305]:
+          - listitem [ref=f28e306]: Stay Connected
+          - listitem [ref=f28e307]:
+            - link "" [ref=f28e308] [cursor=pointer]:
+              - /url: https://www.instagram.com/grandpasundan
+          - listitem [ref=f28e310]:
+            - link "" [ref=f28e311] [cursor=pointer]:
+              - /url: https://www.facebook.com/grandpasundanhotel
+          - listitem [ref=f28e313]:
+            - link "" [ref=f28e314] [cursor=pointer]:
+              - /url: https://wa.me/08112266959
+        - separator [ref=f28e316]: "*"
+        - list [ref=f28e317]:
+          - listitem [ref=f28e318]
+          - listitem [ref=f28e320]
+          - listitem [ref=f28e322]
+          - listitem [ref=f28e324]
+  - text:     
+  - link "Whatsapp" [ref=f28e328] [cursor=pointer]:
+    - /url: https://web.whatsapp.com/send?phone=628112266959&text=
+    - paragraph [ref=f28e336]: Contact us

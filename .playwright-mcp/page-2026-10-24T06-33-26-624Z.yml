@@ -1,0 +1,620 @@
+- generic [ref=f80e1]:
+  - generic [ref=f80e2]:
+    - banner:
+      - generic:
+        - generic:
+          - generic:
+            - link "Vouchers":
+              - /url: /en/vouchers
+            - generic:
+              - link "Book" [ref=f80e3] [cursor=pointer]:
+                - /url: https://www.schlosshotel-kitzbuehel.com/booking/
+              - link "Enquire" [ref=f80e5] [cursor=pointer]:
+                - /url: /en/enquiry
+          - link "Schlosshotel Kitzbühel":
+            - /url: /en
+            - img "Schlosshotel Kitzbühel"
+          - generic:
+            - generic:
+              - generic:
+                - link "Spa":
+                  - /url: /en/wellness-hotel-kitzbuhel
+              - generic:
+                - link "Rooms and Suites":
+                  - /url: /en/rooms-suites
+              - generic:
+                - link "Meetings & Events":
+                  - /url: /en/meetings-events
+              - generic:
+                - link "Photos":
+                  - /url: /en/photos
+              - generic:
+                - link "Restaurants":
+                  - /url: /en/restaurant-kitzbuhel
+            - button "Open/close menu" [ref=f80e7] [cursor=pointer]
+      - generic:
+        - generic:
+          - generic:
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - link "Book" [ref=f80e11] [cursor=pointer]:
+                      - /url: https://www.schlosshotel-kitzbuehel.com/booking/
+                    - link "Enquire" [ref=f80e13] [cursor=pointer]:
+                      - /url: /en/enquiry
+                  - link "Vouchers":
+                    - /url: /en/vouchers
+                - generic:
+                  - button "Open/close menu"
+            - generic:
+              - navigation "Main navigation":
+                - list:
+                  - listitem:
+                    - generic:
+                      - link "Kitzbühel":
+                        - /url: /en/kitzbuhel-hotel-5-star
+                    - generic:
+                      - list:
+                        - listitem:
+                          - link "For families":
+                            - /url: /en/family-hotel-tyrol
+                        - listitem:
+                          - link "For sports enthusiasts":
+                            - /url: /en/sports-enthusiasts
+                        - listitem:
+                          - link "For culture lovers":
+                            - /url: /en/culture-lovers
+                        - listitem:
+                          - link "Concierge tips":
+                            - /url: /en/concierge-tips
+                  - listitem:
+                    - generic:
+                      - link "Rooms and Suites":
+                        - /url: /en/rooms-suites
+                    - generic:
+                      - list:
+                        - listitem:
+                          - link "Packages":
+                            - /url: /en/arrangements
+                        - listitem:
+                          - link "Inclusive services":
+                            - /url: /en/inclusive-services
+                  - listitem:
+                    - generic:
+                      - link "Spa":
+                        - /url: /en/wellness-hotel-kitzbuhel
+                    - generic:
+                      - list:
+                        - listitem:
+                          - link "Day spa":
+                            - /url: /en/day-spa
+                        - listitem:
+                          - link "Treatments":
+                            - /url: /en/treatments
+                        - listitem:
+                          - link "Pool & saunas":
+                            - /url: /en/hotel-kitzbuhel-swimming-pool
+                  - listitem:
+                    - generic:
+                      - link "Restaurants":
+                        - /url: /en/restaurant-kitzbuhel
+                    - generic:
+                      - list:
+                        - listitem:
+                          - link "Kaps":
+                            - /url: https://offers.schlosshotel-kitzbuehel.com/en/daskaps
+                        - listitem:
+                          - link "Rozu":
+                            - /url: https://offers.schlosshotel-kitzbuehel.com/en/rozusushi
+                        - listitem:
+                          - link "Bar & lobby":
+                            - /url: /en/bar-lobby
+                        - listitem:
+                          - link "Restaurant Streif":
+                            - /url: /en/restaurant-streif
+                  - listitem:
+                    - generic:
+                      - link "Sport":
+                        - /url: /en/sport-hotel-austria
+                    - generic:
+                      - list:
+                        - listitem:
+                          - link "Ski":
+                            - /url: /en/kitzbuhel-ski-hotel
+                        - listitem:
+                          - link "Golf":
+                            - /url: /en/golfhotel-kitzbuhel
+                        - listitem:
+                          - link "Hike & bike":
+                            - /url: /en/austria-hiking-holidays
+                        - listitem:
+                          - link "Leisurely or action-fuelled":
+                            - /url: /en/austria-walking-holidays
+                        - listitem:
+                          - link "Gym":
+                            - /url: /en/yoga-hotel-austria
+                  - listitem:
+                    - generic:
+                      - link "Meetings & Events":
+                        - /url: /en/meetings-events
+                    - generic:
+                      - list:
+                        - listitem:
+                          - link "Conferences and corporate events":
+                            - /url: /en/conference-hotel-austria
+                        - listitem:
+                          - link "Weddings & family celebrations":
+                            - /url: /en/wedding-venue-austria
+                        - listitem:
+                          - link "Castle events":
+                            - /url: /en/events-kitzbuhel
+                          - list:
+                            - listitem:
+                              - link "Hahnenkamm Fever – Kitzbühel, Before the World Watches":
+                                - /url: /en/events-kitzbuhel/hahnenkamm-fever-kitzbuehel-before-the-world-watches
+                            - listitem:
+                              - link "Hochfilzen Biathlon Trilogy":
+                                - /url: /en/events-kitzbuhel/hochfilzen-biathlon-trilogy
+                  - listitem:
+                    - generic:
+                      - link "By the way":
+                        - /url: /en/by-the-way
+                    - generic:
+                      - list:
+                        - listitem:
+                          - link "Children":
+                            - /url: /en/kitzbuhel-holiday-children
+                        - listitem:
+                          - link "Dogs":
+                            - /url: /en/dog-friendly-hotel-tyrol
+                        - listitem:
+                          - link "Arrival":
+                            - /url: /en/arrival
+                        - listitem:
+                          - link "Newsletter":
+                            - /url: /en/newsletter
+                        - listitem:
+                          - link "FAQs":
+                            - /url: /en/faqs
+                  - listitem:
+                    - generic:
+                      - link "Photos":
+                        - /url: /en/photos
+                    - generic:
+                      - list:
+                        - listitem:
+                          - link "Social media wall":
+                            - /url: /en/social-media-wall
+                  - listitem:
+                    - generic:
+                      - link "Blog":
+                        - /url: /en/blog
+                    - generic:
+                      - list:
+                        - listitem:
+                          - link "Winter":
+                            - /url: /en/blog/winter
+                        - listitem:
+                          - link "Summer":
+                            - /url: /en/blog/summer
+                        - listitem:
+                          - link "Castle":
+                            - /url: /en/blog/castle
+                        - listitem:
+                          - link "Kitzbühel":
+                            - /url: /en/blog/kitzbuehel
+    - generic:
+      - generic:
+        - generic:
+          - link [ref=f80e15] [cursor=pointer]:
+            - /url: /en
+            - img "Schlosshotel Kitzbühel" [ref=f80e16]
+          - generic:
+            - generic:
+              - generic:
+                - navigation "Language selection" [ref=f80e17]:
+                  - button "EN" [ref=f80e18] [cursor=pointer]
+                - link "Tel. +43 5356 65660-0" [ref=f80e23] [cursor=pointer]:
+                  - /url: tel:/00435356656600
+              - button "Open/close menu" [ref=f80e24] [cursor=pointer]
+    - main [ref=f80e28]:
+      - generic [ref=f80e29]:
+        - generic [ref=f80e32]:
+          - generic [ref=f80e34]:
+            - heading [level=1] [ref=f80e35]:
+              - generic [ref=f80e36]: You’ll never want to leave:your stay in Kitzbühel
+            - heading "Room | Suite" [level=2] [ref=f80e37]
+          - generic [ref=f80e39]:
+            - paragraph [ref=f80e40]:
+              - text: "Noun – complete with pillows, vistas, and a wonderfully large, cosy bedRefers to: a personal escape where one or more guests can enjoy life a little more fully than they do at home. Perfect for anyone looking for more than just"
+              - strong [ref=f80e41]: a night in Kitzbühel
+              - text: .
+            - paragraph [ref=f80e42]: "Available in various styles – with balcony, bathtub, or mountain view – but always offering what truly counts: tranquillity, style, and those small touches that speak louder than any category.Best entered with a contented sigh: “Ah, it’s so nice here.”From cosy to spacious, there’s a version to suit every guest – and it’s always the right choice."
+        - generic [ref=f80e45]:
+          - generic [ref=f80e47]:
+            - link [ref=f80e49] [cursor=pointer]:
+              - /url: /en/rooms-suites/rooms/classic-double-room
+              - img "Modern bedroom with red accents at Schlosshotel Kitzbühel" [ref=f80e51]
+            - generic [ref=f80e52]:
+              - generic [ref=f80e53]:
+                - link "Classic double room" [ref=f80e54] [cursor=pointer]:
+                  - /url: /en/rooms-suites/rooms/classic-double-room
+                - generic [ref=f80e55]: from €129.00 per person incl. half board
+                - generic:
+                  - link "Book" [ref=f80e56] [cursor=pointer]:
+                    - /url: https://www.schlosshotel-kitzbuehel.com/booking/?roomtype=DCL_1_H1,DCL_2_H1&adults=1&filter=true
+                  - link "Enquire" [ref=f80e58] [cursor=pointer]:
+                    - /url: /en/enquiry?room_code=SUPERIOR
+              - link "Details" [ref=f80e61] [cursor=pointer]:
+                - /url: /en/rooms-suites/rooms/classic-double-room
+          - generic [ref=f80e64]:
+            - link [ref=f80e66] [cursor=pointer]:
+              - /url: /en/rooms-suites/rooms/comfort-double-room
+              - img "Modern room at Schlosshotel Kitzbühel with sofa and balcony" [ref=f80e68]
+            - generic [ref=f80e69]:
+              - generic [ref=f80e70]:
+                - link "Comfort double room" [ref=f80e71] [cursor=pointer]:
+                  - /url: /en/rooms-suites/rooms/comfort-double-room
+                - generic [ref=f80e72]: from €189.00 per person incl. half board
+                - generic:
+                  - link "Book" [ref=f80e73] [cursor=pointer]:
+                    - /url: https://www.schlosshotel-kitzbuehel.com/booking/?roomtype=DCO_1_H1,DCO_2_H1,DCO_3_H1&adults=2&filter=true
+                  - link "Enquire" [ref=f80e75] [cursor=pointer]:
+                    - /url: /en/enquiry?room_code=DZCF
+              - link "Details" [ref=f80e78] [cursor=pointer]:
+                - /url: /en/rooms-suites/rooms/comfort-double-room
+          - generic [ref=f80e81]:
+            - link [ref=f80e83] [cursor=pointer]:
+              - /url: /en/rooms-suites/rooms/deluxe-double-room
+              - img "Bedroom at Schlosshotel Kitzbühel with double bed and seating area" [ref=f80e85]
+            - generic [ref=f80e86]:
+              - generic [ref=f80e87]:
+                - link "Deluxe double room" [ref=f80e88] [cursor=pointer]:
+                  - /url: /en/rooms-suites/rooms/deluxe-double-room
+                - generic [ref=f80e89]: from €229.00 per person incl. half board
+                - generic:
+                  - link "Book" [ref=f80e90] [cursor=pointer]:
+                    - /url: https://www.schlosshotel-kitzbuehel.com/booking/?roomtype=DZD_1_H1,DZD_2_H1,DZD_3_H1&adults=1&filter=true
+                  - link "Enquire" [ref=f80e92] [cursor=pointer]:
+                    - /url: /en/enquiry?room_code=DELUXE
+              - link "Details" [ref=f80e95] [cursor=pointer]:
+                - /url: /en/rooms-suites/rooms/deluxe-double-room
+          - generic [ref=f80e98]:
+            - link [ref=f80e100] [cursor=pointer]:
+              - /url: /en/rooms-suites/rooms/comfort-double-room-with-balcony-or-terrace
+              - img "Modern hotel room at Schlosshotel Kitzbühel with comfortable bed and sitting area" [ref=f80e102]
+            - generic [ref=f80e103]:
+              - generic [ref=f80e104]:
+                - link "Comfort double room with balcony or terrace" [ref=f80e105] [cursor=pointer]:
+                  - /url: /en/rooms-suites/rooms/comfort-double-room-with-balcony-or-terrace
+                - generic [ref=f80e106]: from €180.00 per person incl. half board
+                - generic:
+                  - link "Book" [ref=f80e107] [cursor=pointer]:
+                    - /url: https://www.schlosshotel-kitzbuehel.com/booking/?roomtype=DCOBA_1_H1,DCOBA_2_H1,DCOBA_3_H1&adults=2&filter=true
+                  - link "Enquire" [ref=f80e109] [cursor=pointer]:
+                    - /url: /en/enquiry?room_code=DZC
+              - link "Details" [ref=f80e112] [cursor=pointer]:
+                - /url: /en/rooms-suites/rooms/comfort-double-room-with-balcony-or-terrace
+          - generic [ref=f80e115]:
+            - link [ref=f80e117] [cursor=pointer]:
+              - /url: /en/rooms-suites/rooms/maisonette
+              - img "Schlosshotel Kitzbühel room with patterned bedspread and red headboard" [ref=f80e119]
+            - generic [ref=f80e120]:
+              - generic [ref=f80e121]:
+                - link "Maisonette" [ref=f80e122] [cursor=pointer]:
+                  - /url: /en/rooms-suites/rooms/maisonette
+                - generic [ref=f80e123]: from €249.00 per person incl. half board
+                - generic:
+                  - link "Book" [ref=f80e124] [cursor=pointer]:
+                    - /url: https://www.schlosshotel-kitzbuehel.com/booking/?roomtype=MS_1_H2,MS_2_H2,MS_3_H2&adults=1&filter=true
+                  - link "Enquire" [ref=f80e126] [cursor=pointer]:
+                    - /url: /en/enquiry?room_code=MAISONETTE
+              - link "Details" [ref=f80e129] [cursor=pointer]:
+                - /url: /en/rooms-suites/rooms/maisonette
+          - generic [ref=f80e132]:
+            - link [ref=f80e134] [cursor=pointer]:
+              - /url: /en/rooms-suites/rooms/junior-suite
+              - img "Modern room with columns at Schlosshotel Kitzbühel" [ref=f80e136]
+            - generic [ref=f80e137]:
+              - generic [ref=f80e138]:
+                - link "Junior suite" [ref=f80e139] [cursor=pointer]:
+                  - /url: /en/rooms-suites/rooms/junior-suite
+                - generic [ref=f80e140]: from €269.00 per person incl. half board
+                - generic:
+                  - link "Book" [ref=f80e141] [cursor=pointer]:
+                    - /url: https://www.schlosshotel-kitzbuehel.com/booking/?roomtype=JS_1_H2,JS_2_H2,JS_3_H2&adults=2&filter=true
+                  - link "Enquire" [ref=f80e143] [cursor=pointer]:
+                    - /url: /en/enquiry?room_code=JSUITE
+              - link "Details" [ref=f80e146] [cursor=pointer]:
+                - /url: /en/rooms-suites/rooms/junior-suite
+          - generic [ref=f80e149]:
+            - link [ref=f80e151] [cursor=pointer]:
+              - /url: /en/rooms-suites/rooms/deluxe-junior-suite
+              - img "Bright hotel room with seating area at Schlosshotel Kitzbühel" [ref=f80e153]
+            - generic [ref=f80e154]:
+              - generic [ref=f80e155]:
+                - link "Deluxe junior suite" [ref=f80e156] [cursor=pointer]:
+                  - /url: /en/rooms-suites/rooms/deluxe-junior-suite
+                - generic [ref=f80e157]: from €319.00 per person incl. half board
+                - generic:
+                  - link "Book" [ref=f80e158] [cursor=pointer]:
+                    - /url: https://www.schlosshotel-kitzbuehel.com/booking/?roomtype=JSD_1_H2,JSD_2_H2,JSD_3_H2&adults=2&filter=true
+                  - link "Enquire" [ref=f80e160] [cursor=pointer]:
+                    - /url: /en/enquiry?room_code=JSDELX
+              - link "Details" [ref=f80e163] [cursor=pointer]:
+                - /url: /en/rooms-suites/rooms/deluxe-junior-suite
+          - generic [ref=f80e166]:
+            - link [ref=f80e168] [cursor=pointer]:
+              - /url: /en/rooms-suites/rooms/suite
+              - img "Sleeping area at Schlosshotel Kitzbühel with white and yellow pillows" [ref=f80e170]
+            - generic [ref=f80e171]:
+              - generic [ref=f80e172]:
+                - link "Suite" [ref=f80e173] [cursor=pointer]:
+                  - /url: /en/rooms-suites/rooms/suite
+                - generic [ref=f80e174]: from €339.00 per person incl. half board
+                - generic:
+                  - link "Book" [ref=f80e175] [cursor=pointer]:
+                    - /url: https://www.schlosshotel-kitzbuehel.com/booking/?roomtype=SU_1_H2,SU_2_H2,SU_3_H2,SU_4_H2&adults=1&filter=true
+                  - link "Enquire" [ref=f80e177] [cursor=pointer]:
+                    - /url: /en/enquiry?room_code=SUITE
+              - link "Details" [ref=f80e180] [cursor=pointer]:
+                - /url: /en/rooms-suites/rooms/suite
+          - generic [ref=f80e183]:
+            - link [ref=f80e185] [cursor=pointer]:
+              - /url: /en/rooms-suites/rooms/deluxe-suite
+              - img "Cozy room at Schlosshotel Kitzbühel with large window and warm lighting" [ref=f80e187]
+            - generic [ref=f80e188]:
+              - generic [ref=f80e189]:
+                - link "Deluxe suite" [ref=f80e190] [cursor=pointer]:
+                  - /url: /en/rooms-suites/rooms/deluxe-suite
+                - generic [ref=f80e191]: from €419.00 per person incl. half board
+                - generic:
+                  - link "Book" [ref=f80e192] [cursor=pointer]:
+                    - /url: https://www.schlosshotel-kitzbuehel.com/booking/?roomtype=SUD_1_H2,SUD_2_H2,SUD_3_H2,SUD_4_H2&adults=2&filter=true
+                  - link "Enquire" [ref=f80e194] [cursor=pointer]:
+                    - /url: /en/enquiry?room_code=SUITDELUX
+              - link "Details" [ref=f80e197] [cursor=pointer]:
+                - /url: /en/rooms-suites/rooms/deluxe-suite
+          - generic [ref=f80e200]:
+            - link [ref=f80e202] [cursor=pointer]:
+              - /url: /en/rooms-suites/rooms/imperial-suite
+              - img "Cozy bedroom at Schlosshotel Kitzbühel with large window and balcony" [ref=f80e204]
+            - generic [ref=f80e205]:
+              - generic [ref=f80e206]:
+                - link "Imperial suite" [ref=f80e207] [cursor=pointer]:
+                  - /url: /en/rooms-suites/rooms/imperial-suite
+                - generic [ref=f80e208]: from €519.00 per person incl. half board
+                - generic:
+                  - link "Book" [ref=f80e209] [cursor=pointer]:
+                    - /url: https://www.schlosshotel-kitzbuehel.com/booking/?roomtype=KSU_1_H2,KSU_2_H2,KSU_3_H2,KSU_4_H2&adults=1&filter=true
+                  - link "Enquire" [ref=f80e211] [cursor=pointer]:
+                    - /url: /en/enquiry?room_code=KSUITE
+              - link "Details" [ref=f80e214] [cursor=pointer]:
+                - /url: /en/rooms-suites/rooms/imperial-suite
+          - generic [ref=f80e217]:
+            - link [ref=f80e219] [cursor=pointer]:
+              - /url: /en/rooms-suites/rooms/spa-suite
+              - img "Cozy room with bathtub at Schlosshotel Kitzbühel" [ref=f80e221]
+            - generic [ref=f80e222]:
+              - generic [ref=f80e223]:
+                - link "Spa suite" [ref=f80e224] [cursor=pointer]:
+                  - /url: /en/rooms-suites/rooms/spa-suite
+                - generic [ref=f80e225]: from €669.00 per person incl. half board
+                - generic:
+                  - link "Book" [ref=f80e226] [cursor=pointer]:
+                    - /url: https://www.schlosshotel-kitzbuehel.com/booking/?roomtype=SPS_1_H2,SPS_2_H2&adults=2&filter=true
+                  - link "Enquire" [ref=f80e228] [cursor=pointer]:
+                    - /url: /en/enquiry?room_code=SPA
+              - link "Details" [ref=f80e231] [cursor=pointer]:
+                - /url: /en/rooms-suites/rooms/spa-suite
+          - generic [ref=f80e234]:
+            - link [ref=f80e236] [cursor=pointer]:
+              - /url: /en/rooms-suites/rooms/sissi-and-franz-suite
+              - img "Cozy double bed in Schlosshotel Kitzbühel room with wooden accents and window view" [ref=f80e238]
+            - generic [ref=f80e239]:
+              - generic [ref=f80e240]:
+                - link "Sissi and Franz suite" [ref=f80e241] [cursor=pointer]:
+                  - /url: /en/rooms-suites/rooms/sissi-and-franz-suite
+                - generic [ref=f80e242]: from €869.00 per person incl. half board
+                - generic:
+                  - link "Book" [ref=f80e243] [cursor=pointer]:
+                    - /url: https://www.schlosshotel-kitzbuehel.com/booking/?roomtype=&adults=2&filter=true
+                  - link "Enquire" [ref=f80e245] [cursor=pointer]:
+                    - /url: /en/enquiry?room_code=SISSI
+              - link "Details" [ref=f80e248] [cursor=pointer]:
+                - /url: /en/rooms-suites/rooms/sissi-and-franz-suite
+          - generic [ref=f80e251]:
+            - link [ref=f80e253] [cursor=pointer]:
+              - /url: /en/rooms-suites/rooms/adler-suite
+              - img "Cozy bedroom with bathtub at Schlosshotel Kitzbühel" [ref=f80e255]
+            - generic [ref=f80e256]:
+              - generic [ref=f80e257]:
+                - link "Adler suite" [ref=f80e258] [cursor=pointer]:
+                  - /url: /en/rooms-suites/rooms/adler-suite
+                - generic [ref=f80e259]: from €1,069.00 per person incl. half board
+                - generic:
+                  - link "Book" [ref=f80e260] [cursor=pointer]:
+                    - /url: https://www.schlosshotel-kitzbuehel.com/booking/?roomtype=ASU_1_H2,ASU_2_H2,ASU_3_H2,ASU_4_H2&adults=2&filter=true
+                  - link "Enquire" [ref=f80e262] [cursor=pointer]:
+                    - /url: /en/enquiry?room_code=ADLER
+              - link "Details" [ref=f80e265] [cursor=pointer]:
+                - /url: /en/rooms-suites/rooms/adler-suite
+        - generic [ref=f80e268]:
+          - img "Glittery high-heeled women's shoes on a light floor" [ref=f80e272]
+          - generic [ref=f80e275]:
+            - generic [ref=f80e276]: The Spa Momentum
+            - generic [ref=f80e277]: The Spa Momentum
+        - paragraph [ref=f80e287]: A pause can lead you straight to yourself.
+        - generic [ref=f80e292]:
+          - generic:
+            - img "Woman making bed in stylish hotel room with bathtub" [ref=f80e295]
+            - img "Modern restaurant with wooden ceiling, pendant lights, and cozy seating areas" [ref=f80e298]
+          - generic:
+            - generic:
+              - generic:
+                - generic:
+                  - img "Woman applying body scrub on shoulder in bathroom"
+            - generic:
+              - generic:
+                - generic:
+                  - img "Dim room with beds behind sheer curtains and warm wall lighting"
+          - generic:
+            - generic:
+              - generic:
+                - generic:
+                  - img "Hand holding sushi with chopsticks above plate with assorted sushi"
+            - generic:
+              - generic:
+                - generic:
+                  - img "Cozy restaurant with leather chairs and set dining tables"
+          - generic [ref=f80e299]:
+            - link "Inclusive services" [ref=f80e301] [cursor=pointer]:
+              - /url: /en/inclusive-services
+            - link "Packages" [ref=f80e303] [cursor=pointer]:
+              - /url: /en/arrangements
+            - link "Restaurants" [ref=f80e305] [cursor=pointer]:
+              - /url: /en/restaurant-kitzbuhel
+    - contentinfo [ref=f80e306]:
+      - generic [ref=f80e310]:
+        - link "Golfer hitting ball from a sand bunker Golf" [ref=f80e312] [cursor=pointer]:
+          - /url: /en/golfhotel-kitzbuhel
+          - img "Golfer hitting ball from a sand bunker" [ref=f80e315]
+          - generic [ref=f80e316]: Golf
+        - generic [ref=f80e318]:
+          - link "Wooden sauna with bundles of dried herbs hanging and spot lighting Spa":
+            - /url: /en/wellness-hotel-kitzbuhel
+            - generic:
+              - generic:
+                - img "Wooden sauna with bundles of dried herbs hanging and spot lighting"
+            - generic [ref=f80e319] [cursor=pointer]: Spa
+        - link "Assorted sushi and sashimi served on a plate Restaurants" [ref=f80e322] [cursor=pointer]:
+          - /url: /en/restaurant-kitzbuhel
+          - img "Assorted sushi and sashimi served on a plate" [ref=f80e325]
+          - generic [ref=f80e326]: Restaurants
+      - generic [ref=f80e330]:
+        - generic [ref=f80e332]:
+          - link [ref=f80e333] [cursor=pointer]:
+            - /url: /en
+            - img "Schlosshotel Kitzbühel" [ref=f80e334]
+          - generic [ref=f80e335]:
+            - generic [ref=f80e336]: Schlosshotel Kitzbühel
+            - generic [ref=f80e337]: Ried Kaps 7 6370 Kitzbühel (Tirol) Austria
+          - generic [ref=f80e338]:
+            - generic [ref=f80e339]: Contact
+            - generic [ref=f80e340]:
+              - link "Tel. +43 5356 65660-0" [ref=f80e342] [cursor=pointer]:
+                - /url: tel:/00435356656600
+              - link "contact@ schlosshotel-kitzbuehel. com" [ref=f80e344] [cursor=pointer]:
+                - /url: "#"
+              - link "reservation@ schlosshotel-kitzbuehel. com" [ref=f80e346] [cursor=pointer]:
+                - /url: "#"
+        - generic [ref=f80e350]:
+          - link "Career" [ref=f80e351] [cursor=pointer]:
+            - /url: /en/career
+          - link "Arrival" [ref=f80e352] [cursor=pointer]:
+            - /url: /en/arrival
+          - link "Vouchers" [ref=f80e353] [cursor=pointer]:
+            - /url: /en/vouchers
+        - generic [ref=f80e356]:
+          - link "Facebook" [ref=f80e357] [cursor=pointer]:
+            - /url: https://www.facebook.com/people/Schlosshotel-Kitzb%C3%BChel/61574740257326/
+          - link "Instagram" [ref=f80e361] [cursor=pointer]:
+            - /url: https://www.instagram.com/schlosshotelkitzbuehel/
+        - generic [ref=f80e367]:
+          - generic [ref=f80e368]: SchlosshotelLetters
+          - button [ref=f80e370] [cursor=pointer]:
+            - generic [ref=f80e371]: Sign upfor the newsletter now
+      - generic [ref=f80e375]:
+        - generic:
+          - img "Schlosshotel Kitzbühel"
+        - navigation "Crumb trail" [ref=f80e376]:
+          - list [ref=f80e377]:
+            - listitem [ref=f80e378]: Breadcrumb navigation
+            - listitem [ref=f80e379]: ":"
+            - listitem [ref=f80e380]:
+              - link "Home" [ref=f80e381] [cursor=pointer]:
+                - /url: /en
+            - listitem [ref=f80e382]: /
+            - listitem [ref=f80e383]: Rooms and Suites
+        - generic [ref=f80e384]:
+          - generic [ref=f80e385]:
+            - navigation "Legal navigation" [ref=f80e386]:
+              - link "Imprint" [ref=f80e387] [cursor=pointer]:
+                - /url: /en/imprint
+              - text: "|"
+              - link "Privacy" [ref=f80e388] [cursor=pointer]:
+                - /url: /en/privacy
+              - text: "|"
+              - link "AGB" [ref=f80e389] [cursor=pointer]:
+                - /url: https://www.schlosshotel-kitzbuehel.com/fileadmin/files/PDF/AGBs/202503_schlosshotel_kitzbuehel_AGB_EN.pdf
+              - text: "|"
+              - link "AGB Events" [ref=f80e390] [cursor=pointer]:
+                - /url: https://www.schlosshotel-kitzbuehel.com/fileadmin/files/PDF/AGBs/202503_schlosshotel_kitzbuehel_AGB_Events_EN.pdf
+              - text: "|"
+              - link "Privacy settings" [ref=f80e391] [cursor=pointer]:
+                - /url: "#"
+              - text: "|"
+              - link "Accessibility" [ref=f80e392] [cursor=pointer]:
+                - /url: /en/accessibility
+              - text: "|"
+              - link "Site map" [ref=f80e393] [cursor=pointer]:
+                - /url: /en/site-map
+              - text: "| VAT no.: ATU81895549 © 2026 Schlosshotel Kitzbühel"
+            - generic [ref=f80e394]:
+              - button "Partner logos" [ref=f80e395] [cursor=pointer]
+              - button "Interesting pages" [ref=f80e400] [cursor=pointer]
+              - button "Reviews" [ref=f80e405] [cursor=pointer]
+              - button "Awards" [ref=f80e410] [cursor=pointer]
+          - generic:
+            - link "Brandnamic GmbH | Leading Hospitality Solutions":
+              - /url: https://www.brandnamic.com/en
+              - img "Brandnamic GmbH | Leading Hospitality Solutions"
+      - paragraph [ref=f80e418]:
+        - text: "Interesting pages:"
+        - link "Schlosshotel Kitzbühel" [ref=f80e419] [cursor=pointer]:
+          - /url: /en
+        - text: ","
+        - link "Kitzbühel Hotel 5 star" [ref=f80e420] [cursor=pointer]:
+          - /url: /en/kitzbuhel-hotel-5-star
+        - text: ","
+        - link "Wellness Hotel Kitzbühel" [ref=f80e421] [cursor=pointer]:
+          - /url: /en/wellness-hotel-kitzbuhel
+        - text: ","
+        - link "Golf Hotel Kitzbühel" [ref=f80e422] [cursor=pointer]:
+          - /url: /en/golfhotel-kitzbuhel
+        - text: ","
+        - link "Conference Hotel (Austria)" [ref=f80e423] [cursor=pointer]:
+          - /url: /en/conference-hotel-austria
+        - text: ","
+        - link "Hotel with standalone tubs (Tyrol)" [ref=f80e424] [cursor=pointer]:
+          - /url: /en/hotel-with-stand-alone-tub-tyrol
+        - text: ","
+        - link "(Kitzbühel) New Year’s Eve Hotel" [ref=f80e425] [cursor=pointer]:
+          - /url: /en/kitzbuhel-new-years-eve-hotel
+        - text: ","
+        - link "Sights" [ref=f80e426] [cursor=pointer]:
+          - /url: /en/attractions-kitzbuehel
+  - complementary [active]:
+    - group "Consent Management Platform Interface":
+      - dialog [ref=f80e429]:
+        - generic [ref=f80e431]:
+          - button "Select language" [ref=f80e433] [cursor=pointer]
+          - generic [ref=f80e434]:
+            - heading "Privacy Settings" [level=2] [ref=f80e435]
+            - generic: By using this website, you declare that you are over 16 years of age. We use cookies to improve your website experience. Some of these cookies are necessary for our website to function properly (essential cookies), while others collect anonymous statistical data to help us improve your browsing experience (functional cookies) or to show you personalised third-party advertisements (advertising cookies). You can use the corresponding opt-out buttons to choose which categories of cookies we can use. By clicking on “Accept all” or “Save settings”, you consent to the use of cookies based on your settings. You can withdraw your consent at any time. For more information and setting options, please click on “More”.
+          - navigation "Header including language selection and external links" [ref=f80e436]:
+            - button "more" [ref=f80e437] [cursor=pointer]
+          - generic [ref=f80e438]:
+            - generic [ref=f80e439] [cursor=pointer]:
+              - generic: Marketing
+              - switch "Marketing" [ref=f80e440]
+            - generic [ref=f80e441] [cursor=pointer]:
+              - generic: Functional
+              - switch "Functional" [ref=f80e442]
+            - generic [aria-hidden] [ref=f80e443]:
+              - generic: Essential
+              - switch [checked] [disabled] [aria-hidden] [ref=f80e444]
+        - generic [ref=f80e447]:
+          - button "Save Services" [ref=f80e448] [cursor=pointer]
+          - button "Accept All" [ref=f80e449] [cursor=pointer]

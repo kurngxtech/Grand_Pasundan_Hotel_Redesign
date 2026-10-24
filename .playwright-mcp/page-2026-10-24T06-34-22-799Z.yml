@@ -1,0 +1,376 @@
+- generic [ref=f84e1]:
+  - generic [ref=f84e2]:
+    - banner:
+      - generic:
+        - generic:
+          - generic:
+            - link "Vouchers":
+              - /url: /en/vouchers
+            - generic:
+              - link "Book" [ref=f84e3] [cursor=pointer]:
+                - /url: https://www.schlosshotel-kitzbuehel.com/booking/
+              - link "Enquire" [ref=f84e5] [cursor=pointer]:
+                - /url: /en/enquiry
+          - link "Schlosshotel Kitzbühel":
+            - /url: /en
+            - img "Schlosshotel Kitzbühel"
+          - generic:
+            - generic:
+              - generic:
+                - link "Spa":
+                  - /url: /en/wellness-hotel-kitzbuhel
+              - generic:
+                - link "Rooms and Suites":
+                  - /url: /en/rooms-suites
+              - generic:
+                - link "Meetings & Events":
+                  - /url: /en/meetings-events
+              - generic:
+                - link "Photos":
+                  - /url: /en/photos
+              - generic:
+                - link "Restaurants":
+                  - /url: /en/restaurant-kitzbuhel
+            - button "Open/close menu" [ref=f84e7] [cursor=pointer]
+      - generic:
+        - generic:
+          - generic:
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - link "Book" [ref=f84e11] [cursor=pointer]:
+                      - /url: https://www.schlosshotel-kitzbuehel.com/booking/
+                    - link "Enquire" [ref=f84e13] [cursor=pointer]:
+                      - /url: /en/enquiry
+                  - link "Vouchers":
+                    - /url: /en/vouchers
+                - generic:
+                  - button "Open/close menu"
+            - generic:
+              - navigation "Main navigation":
+                - list:
+                  - listitem:
+                    - generic:
+                      - link "Kitzbühel":
+                        - /url: /en/kitzbuhel-hotel-5-star
+                    - generic:
+                      - list:
+                        - listitem:
+                          - link "For families":
+                            - /url: /en/family-hotel-tyrol
+                        - listitem:
+                          - link "For sports enthusiasts":
+                            - /url: /en/sports-enthusiasts
+                        - listitem:
+                          - link "For culture lovers":
+                            - /url: /en/culture-lovers
+                        - listitem:
+                          - link "Concierge tips":
+                            - /url: /en/concierge-tips
+                  - listitem:
+                    - generic:
+                      - link "Rooms and Suites":
+                        - /url: /en/rooms-suites
+                    - generic:
+                      - list:
+                        - listitem:
+                          - link "Packages":
+                            - /url: /en/arrangements
+                        - listitem:
+                          - link "Inclusive services":
+                            - /url: /en/inclusive-services
+                  - listitem:
+                    - generic:
+                      - link "Spa":
+                        - /url: /en/wellness-hotel-kitzbuhel
+                    - generic:
+                      - list:
+                        - listitem:
+                          - link "Day spa":
+                            - /url: /en/day-spa
+                        - listitem:
+                          - link "Treatments":
+                            - /url: /en/treatments
+                        - listitem:
+                          - link "Pool & saunas":
+                            - /url: /en/hotel-kitzbuhel-swimming-pool
+                  - listitem:
+                    - generic:
+                      - link "Restaurants":
+                        - /url: /en/restaurant-kitzbuhel
+                    - generic:
+                      - list:
+                        - listitem:
+                          - link "Kaps":
+                            - /url: https://offers.schlosshotel-kitzbuehel.com/en/daskaps
+                        - listitem:
+                          - link "Rozu":
+                            - /url: https://offers.schlosshotel-kitzbuehel.com/en/rozusushi
+                        - listitem:
+                          - link "Bar & lobby":
+                            - /url: /en/bar-lobby
+                        - listitem:
+                          - link "Restaurant Streif":
+                            - /url: /en/restaurant-streif
+                  - listitem:
+                    - generic:
+                      - link "Sport":
+                        - /url: /en/sport-hotel-austria
+                    - generic:
+                      - list:
+                        - listitem:
+                          - link "Ski":
+                            - /url: /en/kitzbuhel-ski-hotel
+                        - listitem:
+                          - link "Golf":
+                            - /url: /en/golfhotel-kitzbuhel
+                        - listitem:
+                          - link "Hike & bike":
+                            - /url: /en/austria-hiking-holidays
+                        - listitem:
+                          - link "Leisurely or action-fuelled":
+                            - /url: /en/austria-walking-holidays
+                        - listitem:
+                          - link "Gym":
+                            - /url: /en/yoga-hotel-austria
+                  - listitem:
+                    - generic:
+                      - link "Meetings & Events":
+                        - /url: /en/meetings-events
+                    - generic:
+                      - list:
+                        - listitem:
+                          - link "Conferences and corporate events":
+                            - /url: /en/conference-hotel-austria
+                        - listitem:
+                          - link "Weddings & family celebrations":
+                            - /url: /en/wedding-venue-austria
+                        - listitem:
+                          - link "Castle events":
+                            - /url: /en/events-kitzbuhel
+                          - list:
+                            - listitem:
+                              - link "Hahnenkamm Fever – Kitzbühel, Before the World Watches":
+                                - /url: /en/events-kitzbuhel/hahnenkamm-fever-kitzbuehel-before-the-world-watches
+                            - listitem:
+                              - link "Hochfilzen Biathlon Trilogy":
+                                - /url: /en/events-kitzbuhel/hochfilzen-biathlon-trilogy
+                  - listitem:
+                    - generic:
+                      - link "By the way":
+                        - /url: /en/by-the-way
+                    - generic:
+                      - list:
+                        - listitem:
+                          - link "Children":
+                            - /url: /en/kitzbuhel-holiday-children
+                        - listitem:
+                          - link "Dogs":
+                            - /url: /en/dog-friendly-hotel-tyrol
+                        - listitem:
+                          - link "Arrival":
+                            - /url: /en/arrival
+                        - listitem:
+                          - link "Newsletter":
+                            - /url: /en/newsletter
+                        - listitem:
+                          - link "FAQs":
+                            - /url: /en/faqs
+                  - listitem:
+                    - generic:
+                      - link "Photos":
+                        - /url: /en/photos
+                    - generic:
+                      - list:
+                        - listitem:
+                          - link "Social media wall":
+                            - /url: /en/social-media-wall
+                  - listitem:
+                    - generic:
+                      - link "Blog":
+                        - /url: /en/blog
+                    - generic:
+                      - list:
+                        - listitem:
+                          - link "Winter":
+                            - /url: /en/blog/winter
+                        - listitem:
+                          - link "Summer":
+                            - /url: /en/blog/summer
+                        - listitem:
+                          - link "Castle":
+                            - /url: /en/blog/castle
+                        - listitem:
+                          - link "Kitzbühel":
+                            - /url: /en/blog/kitzbuehel
+    - generic:
+      - generic:
+        - generic:
+          - link [ref=f84e15] [cursor=pointer]:
+            - /url: /en
+            - img "Schlosshotel Kitzbühel" [ref=f84e16]
+          - generic:
+            - generic:
+              - generic:
+                - navigation "Language selection" [ref=f84e17]:
+                  - button "EN" [ref=f84e18] [cursor=pointer]
+                - link "Tel. +43 5356 65660-0" [ref=f84e23] [cursor=pointer]:
+                  - /url: tel:/00435356656600
+              - button "Open/close menu" [ref=f84e24] [cursor=pointer]
+    - main [ref=f84e28]:
+      - generic [ref=f84e29]:
+        - generic [ref=f84e32]:
+          - generic [ref=f84e34]:
+            - 'heading "You say when. We say: with pleasure." [level=1] [ref=f84e35]'
+            - heading "Because you’re already dreaming of Schlosshotel." [level=2] [ref=f84e36]
+          - generic [ref=f84e38]:
+            - paragraph [ref=f84e39]: "Sometimes it’s too soon to commit – but never too soon to start looking forward. Simply send us your enquiry. We’ll reply: with a tailored package, availability details, and a few thoughtful words along the way."
+            - paragraph [ref=f84e40]:
+              - strong [ref=f84e41]: "Please note our new phone number:"
+              - link "+43 5356 65660-0" [ref=f84e42] [cursor=pointer]:
+                - /url: tel:/00435356656600
+        - generic [ref=f84e43]: Just a moment - the content is loading …
+    - contentinfo [ref=f84e53]:
+      - generic [ref=f84e57]:
+        - link "Golfer hitting ball from a sand bunker Golf" [ref=f84e59] [cursor=pointer]:
+          - /url: /en/golfhotel-kitzbuhel
+          - img "Golfer hitting ball from a sand bunker" [ref=f84e62]
+          - generic [ref=f84e63]: Golf
+        - link "Wooden sauna with bundles of dried herbs hanging and spot lighting Spa" [ref=f84e66] [cursor=pointer]:
+          - /url: /en/wellness-hotel-kitzbuhel
+          - img "Wooden sauna with bundles of dried herbs hanging and spot lighting" [ref=f84e69]
+          - generic [ref=f84e70]: Spa
+        - link "Assorted sushi and sashimi served on a plate Restaurants" [ref=f84e73] [cursor=pointer]:
+          - /url: /en/restaurant-kitzbuhel
+          - img "Assorted sushi and sashimi served on a plate" [ref=f84e76]
+          - generic [ref=f84e77]: Restaurants
+      - generic [ref=f84e81]:
+        - generic [ref=f84e83]:
+          - link [ref=f84e84] [cursor=pointer]:
+            - /url: /en
+            - img "Schlosshotel Kitzbühel" [ref=f84e85]
+          - generic [ref=f84e86]:
+            - generic [ref=f84e87]: Schlosshotel Kitzbühel
+            - generic [ref=f84e88]: Ried Kaps 7 6370 Kitzbühel (Tirol) Austria
+          - generic [ref=f84e89]:
+            - generic [ref=f84e90]: Contact
+            - generic [ref=f84e91]:
+              - link "Tel. +43 5356 65660-0" [ref=f84e93] [cursor=pointer]:
+                - /url: tel:/00435356656600
+              - link "contact@ schlosshotel-kitzbuehel. com" [ref=f84e95] [cursor=pointer]:
+                - /url: "#"
+              - link "reservation@ schlosshotel-kitzbuehel. com" [ref=f84e97] [cursor=pointer]:
+                - /url: "#"
+        - generic [ref=f84e101]:
+          - link "Career" [ref=f84e102] [cursor=pointer]:
+            - /url: /en/career
+          - link "Arrival" [ref=f84e103] [cursor=pointer]:
+            - /url: /en/arrival
+          - link "Vouchers" [ref=f84e104] [cursor=pointer]:
+            - /url: /en/vouchers
+        - generic [ref=f84e107]:
+          - link "Facebook" [ref=f84e108] [cursor=pointer]:
+            - /url: https://www.facebook.com/people/Schlosshotel-Kitzb%C3%BChel/61574740257326/
+          - link "Instagram" [ref=f84e112] [cursor=pointer]:
+            - /url: https://www.instagram.com/schlosshotelkitzbuehel/
+        - generic [ref=f84e118]:
+          - generic [ref=f84e119]: SchlosshotelLetters
+          - button [ref=f84e121] [cursor=pointer]:
+            - generic [ref=f84e122]: Sign upfor the newsletter now
+      - generic [ref=f84e126]:
+        - generic:
+          - img "Schlosshotel Kitzbühel"
+        - navigation "Crumb trail" [ref=f84e127]:
+          - list [ref=f84e128]:
+            - listitem [ref=f84e129]: Breadcrumb navigation
+            - listitem [ref=f84e130]: ":"
+            - listitem [ref=f84e131]:
+              - link "Home" [ref=f84e132] [cursor=pointer]:
+                - /url: /en
+            - listitem [ref=f84e133]: /
+            - listitem [ref=f84e134]: Rooms and Suites
+        - generic [ref=f84e135]:
+          - generic [ref=f84e136]:
+            - navigation "Legal navigation" [ref=f84e137]:
+              - link "Imprint" [ref=f84e138] [cursor=pointer]:
+                - /url: /en/imprint
+              - text: "|"
+              - link "Privacy" [ref=f84e139] [cursor=pointer]:
+                - /url: /en/privacy
+              - text: "|"
+              - link "AGB" [ref=f84e140] [cursor=pointer]:
+                - /url: https://www.schlosshotel-kitzbuehel.com/fileadmin/files/PDF/AGBs/202503_schlosshotel_kitzbuehel_AGB_EN.pdf
+              - text: "|"
+              - link "AGB Events" [ref=f84e141] [cursor=pointer]:
+                - /url: https://www.schlosshotel-kitzbuehel.com/fileadmin/files/PDF/AGBs/202503_schlosshotel_kitzbuehel_AGB_Events_EN.pdf
+              - text: "|"
+              - link "Privacy settings" [ref=f84e142] [cursor=pointer]:
+                - /url: "#"
+              - text: "|"
+              - link "Accessibility" [ref=f84e143] [cursor=pointer]:
+                - /url: /en/accessibility
+              - text: "|"
+              - link "Site map" [ref=f84e144] [cursor=pointer]:
+                - /url: /en/site-map
+              - text: "| VAT no.: ATU81895549 © 2026 Schlosshotel Kitzbühel"
+            - generic [ref=f84e145]:
+              - button "Partner logos" [ref=f84e146] [cursor=pointer]
+              - button "Interesting pages" [ref=f84e151] [cursor=pointer]
+              - button "Reviews" [ref=f84e156] [cursor=pointer]
+              - button "Awards" [ref=f84e161] [cursor=pointer]
+          - link [ref=f84e167] [cursor=pointer]:
+            - /url: https://www.brandnamic.com/en
+            - img "Brandnamic GmbH | Leading Hospitality Solutions" [ref=f84e168]
+      - paragraph [ref=f84e172]:
+        - text: "Interesting pages:"
+        - link "Schlosshotel Kitzbühel" [ref=f84e173] [cursor=pointer]:
+          - /url: /en
+        - text: ","
+        - link "Kitzbühel Hotel 5 star" [ref=f84e174] [cursor=pointer]:
+          - /url: /en/kitzbuhel-hotel-5-star
+        - text: ","
+        - link "Wellness Hotel Kitzbühel" [ref=f84e175] [cursor=pointer]:
+          - /url: /en/wellness-hotel-kitzbuhel
+        - text: ","
+        - link "Golf Hotel Kitzbühel" [ref=f84e176] [cursor=pointer]:
+          - /url: /en/golfhotel-kitzbuhel
+        - text: ","
+        - link "Conference Hotel (Austria)" [ref=f84e177] [cursor=pointer]:
+          - /url: /en/conference-hotel-austria
+        - text: ","
+        - link "Hotel with standalone tubs (Tyrol)" [ref=f84e178] [cursor=pointer]:
+          - /url: /en/hotel-with-stand-alone-tub-tyrol
+        - text: ","
+        - link "(Kitzbühel) New Year’s Eve Hotel" [ref=f84e179] [cursor=pointer]:
+          - /url: /en/kitzbuhel-new-years-eve-hotel
+        - text: ","
+        - link "Sights" [ref=f84e180] [cursor=pointer]:
+          - /url: /en/attractions-kitzbuehel
+  - complementary [active]:
+    - group "Consent Management Platform Interface":
+      - dialog [ref=f84e183]:
+        - generic [ref=f84e185]:
+          - button "Select language" [ref=f84e187] [cursor=pointer]
+          - generic [ref=f84e188]:
+            - heading "Privacy Settings" [level=2] [ref=f84e189]
+            - generic: By using this website, you declare that you are over 16 years of age. We use cookies to improve your website experience. Some of these cookies are necessary for our website to function properly (essential cookies), while others collect anonymous statistical data to help us improve your browsing experience (functional cookies) or to show you personalised third-party advertisements (advertising cookies). You can use the corresponding opt-out buttons to choose which categories of cookies we can use. By clicking on “Accept all” or “Save settings”, you consent to the use of cookies based on your settings. You can withdraw your consent at any time. For more information and setting options, please click on “More”.
+          - navigation "Header including language selection and external links" [ref=f84e190]:
+            - button "more" [ref=f84e191] [cursor=pointer]
+          - generic [ref=f84e192]:
+            - generic [ref=f84e193] [cursor=pointer]:
+              - generic: Marketing
+              - switch "Marketing" [ref=f84e194]
+            - generic [ref=f84e195] [cursor=pointer]:
+              - generic: Functional
+              - switch "Functional" [ref=f84e196]
+            - generic [aria-hidden] [ref=f84e197]:
+              - generic: Essential
+              - switch [checked] [disabled] [aria-hidden] [ref=f84e198]
+        - generic [ref=f84e201]:
+          - button "Save Services" [ref=f84e202] [cursor=pointer]
+          - button "Accept All" [ref=f84e203] [cursor=pointer]
+  - generic [ref=f84e204]:
+    - button "Chat on WhatsApp" [ref=f84e205] [cursor=pointer]
+    - button "open chat" [ref=f84e209] [cursor=pointer]:
+      - img "AI Assistant" [ref=f84e211]

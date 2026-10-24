@@ -1,0 +1,585 @@
+- generic [active] [ref=e1]:
+  - generic:
+    - link "×" [ref=e2] [cursor=pointer]:
+      - /url: javascript:void(0)
+    - generic [ref=e3]:
+      - navigation:
+        - generic:
+          - list:
+            - listitem:
+              - link "Home":
+                - /url: https://grandpasundanhotel.com/
+            - listitem:
+              - link "Facilities":
+                - /url: https://grandpasundanhotel.com/facilities/
+            - listitem:
+              - link "Meetings & Convention":
+                - /url: https://grandpasundanhotel.com/meetings/
+            - listitem:
+              - link "Weddings":
+                - /url: https://grandpasundanhotel.com/weddings/
+            - listitem:
+              - link "News":
+                - /url: https://grandpasundanhotel.com/news/
+            - listitem:
+              - link "Contact":
+                - /url: https://grandpasundanhotel.com/contact/
+  - generic [ref=e4]:
+    - link "×" [ref=e5] [cursor=pointer]:
+      - /url: javascript:void(0)
+    - generic [ref=e8]:
+      - heading "Your Booking" [level=3] [ref=e10]
+      - generic [ref=e11]:
+        - generic [ref=e12]:
+          - table [ref=e17]:
+            - rowgroup [ref=e18]:
+              - row "october 2026" [ref=e19]:
+                - columnheader [ref=e20]:
+                  - generic [ref=e21] [cursor=pointer]
+                - columnheader "october 2026" [ref=e23]:
+                  - generic [ref=e24]: october
+                  - generic [ref=e25]: "2026"
+                - columnheader [ref=e26]:
+                  - generic [ref=e27] [cursor=pointer]
+              - row [ref=e29]:
+                - columnheader "su" [ref=e30]
+                - columnheader "mo" [ref=e31]
+                - columnheader "tu" [ref=e32]
+                - columnheader "we" [ref=e33]
+                - columnheader "th" [ref=e34]
+                - columnheader "fr" [ref=e35]
+                - columnheader "sa" [ref=e36]
+            - rowgroup [ref=e37]:
+              - row [ref=e38]:
+                - cell [ref=e39]
+                - cell [ref=e40]
+                - cell [ref=e41]
+                - cell [ref=e42]
+                - cell "1" [ref=e43]
+                - cell "2" [ref=e45]
+                - cell "3" [ref=e47]
+              - row [ref=e49]:
+                - cell "4" [ref=e50]
+                - cell "5" [ref=e52]
+                - cell "6" [ref=e54]
+                - cell "7" [ref=e56]
+                - cell "8" [ref=e58]
+                - cell "9" [ref=e60]
+                - cell "10" [ref=e62]
+              - row [ref=e64]:
+                - cell "11" [ref=e65]
+                - cell "12" [ref=e67]
+                - cell "13" [ref=e69]
+                - cell "14" [ref=e71]
+                - cell "15" [ref=e73]
+                - cell "16" [ref=e75]
+                - cell "17" [ref=e77]
+              - row [ref=e79]:
+                - cell "18" [ref=e80]
+                - cell "19" [ref=e82]
+                - cell "20" [ref=e84]
+                - cell "21" [ref=e86]
+                - cell "22" [ref=e88]
+                - cell "23" [ref=e90]
+                - cell "24 608K" [ref=e92]
+              - row [ref=e94]:
+                - cell "25 395.2K" [ref=e95]
+                - cell "26 395.2K" [ref=e97]
+                - cell "27 395.2K" [ref=e99]
+                - cell "28 395.2K" [ref=e101]
+                - cell "29 395.2K" [ref=e103]
+                - cell "30 494K" [ref=e105]
+                - cell "31 494K" [ref=e107]
+          - generic [ref=e110]:
+            - paragraph [ref=e111]:
+              - generic [ref=e112]: Checkin - Checkout
+            - generic [ref=e115]:
+              - generic [ref=e116]: Date
+              - strong [ref=e118]: Sat, Oct 24 2026 - Sun, Oct 25 2026
+          - generic [ref=e119]:
+            - paragraph [ref=e120]:
+              - generic [ref=e121]: Guest
+            - generic [ref=e124]:
+              - generic [ref=e125]:
+                - paragraph [ref=e126]: Adult
+                - paragraph [ref=e127]: Ages 18 or above
+              - generic [ref=e129]:
+                - generic [ref=e130] [cursor=pointer]: "-"
+                - generic [ref=e131]: "2"
+                - generic [ref=e132] [cursor=pointer]: +
+            - generic [ref=e133]:
+              - generic [ref=e134]:
+                - paragraph [ref=e135]: Children
+                - paragraph [ref=e136]: Ages 0 - 17
+              - generic [ref=e138]:
+                - generic [ref=e139] [cursor=pointer]: "-"
+                - generic [ref=e140]: "0"
+                - generic [ref=e141] [cursor=pointer]: +
+          - generic [ref=e142]:
+            - paragraph [ref=e143]:
+              - generic [ref=e144]: Promocode
+            - textbox "Enter promo code" [ref=e148]
+        - button "Check Availability" [ref=e150] [cursor=pointer]
+  - generic [ref=e151]:
+    - banner [ref=e152]:
+      - generic [ref=e153]:
+        - link "menu" [ref=e155] [cursor=pointer]:
+          - /url: "#"
+        - list [ref=e161]:
+          - listitem [ref=e162]:
+            - link "Rooms" [ref=e163] [cursor=pointer]:
+              - /url: https://grandpasundanhotel.com/rooms/
+          - listitem [ref=e164]:
+            - link "Offers" [ref=e165] [cursor=pointer]:
+              - /url: https://grandpasundanhotel.com/offers/
+          - listitem [ref=e166]:
+            - link "Gallery" [ref=e167] [cursor=pointer]:
+              - /url: https://grandpasundanhotel.com/gallery/
+        - link [ref=e170] [cursor=pointer]:
+          - /url: https://grandpasundanhotel.com/
+          - img "Grand Pasundan Hotel" [ref=e171]
+        - link "book now" [ref=e173] [cursor=pointer]:
+          - /url: "#"
+    - generic [ref=e174]:
+      - generic [ref=e175]:
+        - generic [ref=e176]:
+          - button "Previous" [ref=e184] [cursor=pointer]
+          - button "Next" [ref=e185] [cursor=pointer]
+          - list [ref=e186]:
+            - listitem [ref=e187] [cursor=pointer]:
+              - button "• 1" [ref=e188]
+            - listitem [ref=e189] [cursor=pointer]:
+              - button "• 2" [ref=e190]
+            - listitem [ref=e191] [cursor=pointer]:
+              - button "• 3" [ref=e192]
+        - link "Scroll Down":
+          - /url: "#after-full"
+          - generic [ref=e193] [cursor=pointer]
+      - generic [ref=e194]:
+        - generic [ref=e199]:
+          - heading "Preserving Tradition with Modern Comfort" [level=5] [ref=e200]
+          - heading "Grand Pasundan Convention Hotel" [level=1] [ref=e201]
+          - paragraph
+          - paragraph [ref=e202]: Enjoy Grand Pasundan Convention Hotel Bandung an exceptional and luxurious 4-star hotel in the heart of West Java. Featuring contemporary decor and elegant accommodation with complete business and leisure facilities. It is part of our culture and true heart service with a touch of unique hospitality, in harmony with our concept “Preserve Pasundan Tradition.”
+          - paragraph [ref=e203]: Offering spacious 155 Rooms, 7 Suites, and our newest 3-Bedroom Pasundan Suite, stunning Malibu Dome convention hall to reserve memorable moments, and 13 meeting rooms to serve your business events. Delicious dining at Coffee Shop and De’Linda Poolside Cafeteria, Dandanggula, and a cozy reading experience at our Pustaka Pasundan
+          - paragraph
+        - generic [ref=e208]:
+          - heading "Rooms & Suites" [level=2] [ref=e209]
+          - paragraph [ref=e210]: If you are looking for functionality and comfort, then our rooms are for you.
+          - generic [ref=e212]:
+            - generic [ref=e214]:
+              - generic [ref=e216]:
+                - paragraph [ref=e218]: "Tonight's rate: 1,900,000"
+                - generic [ref=e219]:
+                  - heading "President Suite" [level=3] [ref=e220]
+                  - paragraph [ref=e221]:
+                    - link "discover " [ref=e222] [cursor=pointer]:
+                      - /url: https://grandpasundanhotel.com/room/president-suite/
+                      - text: discover
+                      - generic [ref=e223]: 
+              - generic [ref=e225]:
+                - paragraph [ref=e227]: "Tonight's rate: 2,660,000"
+                - generic [ref=e228]:
+                  - heading "3-Bedroom Pasundan Suite" [level=3] [ref=e229]
+                  - paragraph [ref=e230]:
+                    - link "discover " [ref=e231] [cursor=pointer]:
+                      - /url: https://grandpasundanhotel.com/room/3-bedroom-pasundan-suite/
+                      - text: discover
+                      - generic [ref=e232]: 
+              - generic [ref=e235]:
+                - heading "Standard Twin" [level=3] [ref=e236]
+                - paragraph [ref=e237]:
+                  - link "discover " [ref=e238] [cursor=pointer]:
+                    - /url: https://grandpasundanhotel.com/room/standard-twin/
+                    - text: discover
+                    - generic [ref=e239]: 
+              - generic [ref=e242]:
+                - heading "Standard King" [level=3] [ref=e243]
+                - paragraph [ref=e244]:
+                  - link "discover " [ref=e245] [cursor=pointer]:
+                    - /url: https://grandpasundanhotel.com/room/standard-king/
+                    - text: discover
+                    - generic [ref=e246]: 
+              - generic [ref=e248]:
+                - paragraph [ref=e250]: "Tonight's rate: 608,000"
+                - generic [ref=e251]:
+                  - heading "Deluxe Room A Twin" [level=3] [ref=e252]
+                  - paragraph [ref=e253]:
+                    - link "discover " [ref=e254] [cursor=pointer]:
+                      - /url: https://grandpasundanhotel.com/room/deluxe-room-a-twin/
+                      - text: discover
+                      - generic [ref=e255]: 
+              - generic [ref=e257]:
+                - paragraph [ref=e259]: "Tonight's rate: 608,000"
+                - generic [ref=e260]:
+                  - heading "Deluxe Room A King" [level=3] [ref=e261]
+                  - paragraph [ref=e262]:
+                    - link "discover " [ref=e263] [cursor=pointer]:
+                      - /url: https://grandpasundanhotel.com/room/deluxe-room-a-king/
+                      - text: discover
+                      - generic [ref=e264]: 
+              - generic [ref=e267]:
+                - heading "Deluxe B Twin" [level=3] [ref=e268]
+                - paragraph [ref=e269]:
+                  - link "discover " [ref=e270] [cursor=pointer]:
+                    - /url: https://grandpasundanhotel.com/room/deluxe-b-twin/
+                    - text: discover
+                    - generic [ref=e271]: 
+              - generic [ref=e273]:
+                - paragraph [ref=e275]: "Tonight's rate: 608,000"
+                - generic [ref=e276]:
+                  - heading "Deluxe B King" [level=3] [ref=e277]
+                  - paragraph [ref=e278]:
+                    - link "discover " [ref=e279] [cursor=pointer]:
+                      - /url: https://grandpasundanhotel.com/room/deluxe-b-king/
+                      - text: discover
+                      - generic [ref=e280]: 
+              - generic [ref=e282]:
+                - paragraph [ref=e284]: "Tonight's rate: 666,900"
+                - generic [ref=e285]:
+                  - heading "Executive Suite Twin" [level=3] [ref=e286]
+                  - paragraph [ref=e287]:
+                    - link "discover " [ref=e288] [cursor=pointer]:
+                      - /url: https://grandpasundanhotel.com/room/executive-suite-twin/
+                      - text: discover
+                      - generic [ref=e289]: 
+              - generic [ref=e291]:
+                - paragraph [ref=e293]: "Tonight's rate: 666,900"
+                - generic [ref=e294]:
+                  - heading "Executive Suite King" [level=3] [ref=e295]
+                  - paragraph [ref=e296]:
+                    - link "discover " [ref=e297] [cursor=pointer]:
+                      - /url: https://grandpasundanhotel.com/room/executive-suite-king/
+                      - text: discover
+                      - generic [ref=e298]: 
+              - generic [ref=e300]:
+                - paragraph [ref=e302]: "Tonight's rate: 666,900"
+                - generic [ref=e303]:
+                  - heading "Executive Twin" [level=3] [ref=e304]
+                  - paragraph [ref=e305]:
+                    - link "discover " [ref=e306] [cursor=pointer]:
+                      - /url: https://grandpasundanhotel.com/room/executive-twin/
+                      - text: discover
+                      - generic [ref=e307]: 
+              - generic [ref=e309]:
+                - paragraph [ref=e311]: "Tonight's rate: 666,900"
+                - generic [ref=e312]:
+                  - heading "Executive King" [level=3] [ref=e313]
+                  - paragraph [ref=e314]:
+                    - link "discover " [ref=e315] [cursor=pointer]:
+                      - /url: https://grandpasundanhotel.com/room/executive-king/
+                      - text: discover
+                      - generic [ref=e316]: 
+              - generic [ref=e318]:
+                - paragraph [ref=e320]: "Tonight's rate: 1,406,000"
+                - generic [ref=e321]:
+                  - heading "Premiere Suite Room" [level=3] [ref=e322]
+                  - paragraph [ref=e323]:
+                    - link "discover " [ref=e324] [cursor=pointer]:
+                      - /url: https://grandpasundanhotel.com/room/premiere-suite-rooms/
+                      - text: discover
+                      - generic [ref=e325]: 
+              - generic [ref=e327]:
+                - paragraph [ref=e329]: "Tonight's rate: 1,900,000"
+                - generic [ref=e330]:
+                  - heading "Grand Family Suite" [level=3] [ref=e331]
+                  - paragraph [ref=e332]:
+                    - link "discover " [ref=e333] [cursor=pointer]:
+                      - /url: https://grandpasundanhotel.com/room/grand-family-suite/
+                      - text: discover
+                      - generic [ref=e334]: 
+              - generic [ref=e336]:
+                - paragraph [ref=e338]: "Tonight's rate: 1,900,000"
+                - generic [ref=e339]:
+                  - heading "President Suite" [level=3] [ref=e340]
+                  - paragraph [ref=e341]:
+                    - link "discover " [ref=e342] [cursor=pointer]:
+                      - /url: https://grandpasundanhotel.com/room/president-suite/
+                      - text: discover
+                      - generic [ref=e343]: 
+              - generic [ref=e345]:
+                - paragraph [ref=e347]: "Tonight's rate: 2,660,000"
+                - generic [ref=e348]:
+                  - heading "3-Bedroom Pasundan Suite" [level=3] [ref=e349]
+                  - paragraph [ref=e350]:
+                    - link "discover " [ref=e351] [cursor=pointer]:
+                      - /url: https://grandpasundanhotel.com/room/3-bedroom-pasundan-suite/
+                      - text: discover
+                      - generic [ref=e352]: 
+              - generic [ref=e355]:
+                - heading "Standard Twin" [level=3] [ref=e356]
+                - paragraph [ref=e357]:
+                  - link "discover " [ref=e358] [cursor=pointer]:
+                    - /url: https://grandpasundanhotel.com/room/standard-twin/
+                    - text: discover
+                    - generic [ref=e359]: 
+              - generic [ref=e362]:
+                - heading "Standard King" [level=3] [ref=e363]
+                - paragraph [ref=e364]:
+                  - link "discover " [ref=e365] [cursor=pointer]:
+                    - /url: https://grandpasundanhotel.com/room/standard-king/
+                    - text: discover
+                    - generic [ref=e366]: 
+            - button "Previous" [ref=e367] [cursor=pointer]
+            - button "Next" [ref=e368] [cursor=pointer]
+            - list [ref=e369]:
+              - listitem [ref=e370] [cursor=pointer]:
+                - button "• 1" [ref=e371]
+              - listitem [ref=e372] [cursor=pointer]:
+                - button "• 2" [ref=e373]
+              - listitem [ref=e374] [cursor=pointer]:
+                - button "• 3" [ref=e375]
+              - listitem [ref=e376] [cursor=pointer]:
+                - button "• 4" [ref=e377]
+              - listitem [ref=e378] [cursor=pointer]:
+                - button "• 5" [ref=e379]
+              - listitem [ref=e380] [cursor=pointer]:
+                - button "• 6" [ref=e381]
+              - listitem [ref=e382] [cursor=pointer]:
+                - button "• 7" [ref=e383]
+              - listitem [ref=e384] [cursor=pointer]:
+                - button "• 8" [ref=e385]
+              - listitem [ref=e386] [cursor=pointer]:
+                - button "• 9" [ref=e387]
+              - listitem [ref=e388] [cursor=pointer]:
+                - button "• 10" [ref=e389]
+              - listitem [ref=e390] [cursor=pointer]:
+                - button "• 11" [ref=e391]
+              - listitem [ref=e392] [cursor=pointer]:
+                - button "• 12" [ref=e393]
+              - listitem [ref=e394] [cursor=pointer]:
+                - button "• 13" [ref=e395]
+              - listitem [ref=e396] [cursor=pointer]:
+                - button "• 14" [ref=e397]
+        - generic [ref=e400]:
+          - generic [ref=e403]:
+            - heading "Meeting & Convention" [level=2] [ref=e404]
+            - paragraph [ref=e405]: From intimate gatherings to grand celebrations, our Malibu Dome Convention Hall and 13 fully equipped meeting rooms provide the perfect setting for any occasion. With professional services and modern technology, we ensure that every event is executed seamlessly and successfully.
+            - link "Plan your Meeting" [ref=e406] [cursor=pointer]:
+              - /url: https://grandpasundanhotel.com/meetings/
+          - generic [ref=e409]:
+            - button "Previous" [ref=e426] [cursor=pointer]
+            - button "Next" [ref=e427] [cursor=pointer]
+            - list [ref=e428]:
+              - listitem [ref=e429] [cursor=pointer]:
+                - button "1" [ref=e430]
+              - listitem [ref=e431] [cursor=pointer]:
+                - button "2" [ref=e432]
+              - listitem [ref=e433] [cursor=pointer]:
+                - button "3" [ref=e434]
+              - listitem [ref=e435] [cursor=pointer]:
+                - button "4" [ref=e436]
+              - listitem [ref=e437] [cursor=pointer]:
+                - button "5" [ref=e438]
+        - generic [ref=e440]:
+          - heading "Facility" [level=2] [ref=e441]
+          - paragraph [ref=e442]: Discover your ideal style.
+          - generic [ref=e444]:
+            - generic [ref=e446]:
+              - link "Family Karaoke discover " [ref=e448] [cursor=pointer]:
+                - /url: https://grandpasundanhotel.com/facility/family-karaoke/
+                - generic [ref=e450]:
+                  - heading "Family Karaoke" [level=3] [ref=e451]
+                  - paragraph [ref=e452]:
+                    - text: discover
+                    - generic [ref=e453]: 
+              - link "Fitness & SPA discover " [ref=e455] [cursor=pointer]:
+                - /url: https://grandpasundanhotel.com/facility/fitness-spa/
+                - generic [ref=e457]:
+                  - heading "Fitness & SPA" [level=3] [ref=e458]
+                  - paragraph [ref=e459]:
+                    - text: discover
+                    - generic [ref=e460]: 
+              - link "Pool discover " [ref=e462] [cursor=pointer]:
+                - /url: https://grandpasundanhotel.com/facility/pool/
+                - generic [ref=e464]:
+                  - heading "Pool" [level=3] [ref=e465]
+                  - paragraph [ref=e466]:
+                    - text: discover
+                    - generic [ref=e467]: 
+              - link "Kids Corner discover " [ref=e469] [cursor=pointer]:
+                - /url: https://grandpasundanhotel.com/facility/kids-corner/
+                - generic [ref=e471]:
+                  - heading "Kids Corner" [level=3] [ref=e472]
+                  - paragraph [ref=e473]:
+                    - text: discover
+                    - generic [ref=e474]: 
+              - link "Pustaka Pasundan discover " [ref=e476] [cursor=pointer]:
+                - /url: https://grandpasundanhotel.com/facility/pustaka-pasunda/
+                - generic [ref=e478]:
+                  - heading "Pustaka Pasundan" [level=3] [ref=e479]
+                  - paragraph [ref=e480]:
+                    - text: discover
+                    - generic [ref=e481]: 
+              - link "Coffee Shop / Restaurant discover " [ref=e483] [cursor=pointer]:
+                - /url: https://grandpasundanhotel.com/facility/coffee-shop/
+                - generic [ref=e485]:
+                  - heading "Coffee Shop / Restaurant" [level=3] [ref=e486]
+                  - paragraph [ref=e487]:
+                    - text: discover
+                    - generic [ref=e488]: 
+              - link "D’linda Poolside Cafetaria discover " [ref=e490] [cursor=pointer]:
+                - /url: https://grandpasundanhotel.com/facility/dlinda-poolside/
+                - generic [ref=e492]:
+                  - heading "D’linda Poolside Cafetaria" [level=3] [ref=e493]
+                  - paragraph [ref=e494]:
+                    - text: discover
+                    - generic [ref=e495]: 
+              - link "Family Karaoke discover " [ref=e497] [cursor=pointer]:
+                - /url: https://grandpasundanhotel.com/facility/family-karaoke/
+                - generic [ref=e499]:
+                  - heading "Family Karaoke" [level=3] [ref=e500]
+                  - paragraph [ref=e501]:
+                    - text: discover
+                    - generic [ref=e502]: 
+              - link "Fitness & SPA discover " [ref=e504] [cursor=pointer]:
+                - /url: https://grandpasundanhotel.com/facility/fitness-spa/
+                - generic [ref=e506]:
+                  - heading "Fitness & SPA" [level=3] [ref=e507]
+                  - paragraph [ref=e508]:
+                    - text: discover
+                    - generic [ref=e509]: 
+              - link "Pool discover " [ref=e511] [cursor=pointer]:
+                - /url: https://grandpasundanhotel.com/facility/pool/
+                - generic [ref=e513]:
+                  - heading "Pool" [level=3] [ref=e514]
+                  - paragraph [ref=e515]:
+                    - text: discover
+                    - generic [ref=e516]: 
+              - link "Kids Corner discover " [ref=e518] [cursor=pointer]:
+                - /url: https://grandpasundanhotel.com/facility/kids-corner/
+                - generic [ref=e520]:
+                  - heading "Kids Corner" [level=3] [ref=e521]
+                  - paragraph [ref=e522]:
+                    - text: discover
+                    - generic [ref=e523]: 
+              - link "Pustaka Pasundan discover " [ref=e525] [cursor=pointer]:
+                - /url: https://grandpasundanhotel.com/facility/pustaka-pasunda/
+                - generic [ref=e527]:
+                  - heading "Pustaka Pasundan" [level=3] [ref=e528]
+                  - paragraph [ref=e529]:
+                    - text: discover
+                    - generic [ref=e530]: 
+              - link "Coffee Shop / Restaurant discover " [ref=e532] [cursor=pointer]:
+                - /url: https://grandpasundanhotel.com/facility/coffee-shop/
+                - generic [ref=e534]:
+                  - heading "Coffee Shop / Restaurant" [level=3] [ref=e535]
+                  - paragraph [ref=e536]:
+                    - text: discover
+                    - generic [ref=e537]: 
+            - button "Previous" [ref=e538] [cursor=pointer]
+            - button "Next" [ref=e539] [cursor=pointer]
+            - list [ref=e540]:
+              - listitem [ref=e541] [cursor=pointer]:
+                - button "• 1" [ref=e542]
+              - listitem [ref=e543] [cursor=pointer]:
+                - button "• 2" [ref=e544]
+              - listitem [ref=e545] [cursor=pointer]:
+                - button "• 3" [ref=e546]
+              - listitem [ref=e547] [cursor=pointer]:
+                - button "• 4" [ref=e548]
+              - listitem [ref=e549] [cursor=pointer]:
+                - button "• 5" [ref=e550]
+              - listitem [ref=e551] [cursor=pointer]:
+                - button "• 6" [ref=e552]
+              - listitem [ref=e553] [cursor=pointer]:
+                - button "• 7" [ref=e554]
+        - generic [ref=e558]:
+          - heading "Weddings" [level=2] [ref=e559]
+          - paragraph [ref=e560]: With the selection of bespoke wedding venues from indoors to outdoors, we ready to organize your wedding experience to be your everlasting moment.
+          - link "Plan your Wedding" [ref=e561] [cursor=pointer]:
+            - /url: https://grandpasundanhotel.com/weddings/
+        - generic [ref=e563]:
+          - heading "Exclusive Offers" [level=2] [ref=e564]
+          - paragraph [ref=e565]: Discover all the unique packages and special savings available at our sophisticated star hotel
+          - generic [ref=e573]:
+            - heading "Flash Sale" [level=4] [ref=e574]
+            - paragraph [ref=e575]: 395,200
+            - link "Details" [ref=e576] [cursor=pointer]:
+              - /url: "#0"
+            - link "BOOK NOW" [ref=e577] [cursor=pointer]:
+              - /url: https://booking.grandpasundanhotel.com//offers_promo?hotel=GPSH&room_id=TBD&checkin=2026-10-25&checkout=2026-10-26&utm_source=ibe_website
+        - generic [ref=e579]:
+          - heading "Guest Review" [level=2] [ref=e580]
+          - generic [ref=e584]:
+            - generic [ref=e586]:
+              - generic [ref=e589]:
+                - img "Tetap Semangat" [ref=e592]
+                - generic [ref=e594]:
+                  - heading "Tetap Semangat" [level=4] [ref=e595]
+                  - paragraph [ref=e596]: a month ago via Google
+                  - generic [ref=e597]:
+                    - generic [ref=e598]: 
+                    - generic [ref=e599]: 
+                    - generic [ref=e600]: 
+                    - generic [ref=e601]: 
+                    - generic [ref=e602]: 
+                - paragraph [ref=e604]: One of the best hotels in Bandung, the price and facilities are so great
+              - generic [ref=e607]:
+                - img "Azka Habbab Muhammad" [ref=e610]
+                - generic [ref=e612]:
+                  - heading "Azka Habbab Muhammad" [level=4] [ref=e613]
+                  - paragraph [ref=e614]: 5 months ago via Google
+                  - generic [ref=e615]:
+                    - generic [ref=e616]: 
+                    - generic [ref=e617]: 
+                    - generic [ref=e618]: 
+                    - generic [ref=e619]: 
+                    - generic [ref=e620]: 
+                - paragraph [ref=e622]:
+                  - text: Good experience, good room, clean, nice services, but little bit disappointed because they have slow...
+                  - link "Show More >" [ref=e624] [cursor=pointer]:
+                    - /url: ""
+            - text:  
+        - heading "Find us on instagram" [level=2] [ref=e627]
+  - contentinfo [ref=e631]:
+    - generic [ref=e634]:
+      - generic [ref=e635]:
+        - generic:
+          - link "Grand Pasundan Hotel":
+            - /url: https://grandpasundanhotel.com/wp-content/themes/Alaric/img/logo-hotel/logo-color-footer.png)
+            - img "Grand Pasundan Hotel"
+        - generic [ref=e636]:
+          - strong [ref=e637]: Grand Pasundan Hotel & Convention
+          - text: Jl. Peta No.147 - 149, Suka Asih, Kec. Bojongloa Kaler, Kota Bandung, Jawa Barat 40232 - Indonesia Telp. 022 6043135 Email. reservation@grandpasundanhotel.com
+      - list [ref=e640]:
+        - listitem [ref=e641]:
+          - link "Home" [ref=e642] [cursor=pointer]:
+            - /url: https://grandpasundanhotel.com/
+        - listitem [ref=e643]:
+          - link "Facilities" [ref=e644] [cursor=pointer]:
+            - /url: https://grandpasundanhotel.com/facilities/
+        - listitem [ref=e645]:
+          - link "Meetings & Convention" [ref=e646] [cursor=pointer]:
+            - /url: https://grandpasundanhotel.com/meetings/
+        - listitem [ref=e647]:
+          - link "Weddings" [ref=e648] [cursor=pointer]:
+            - /url: https://grandpasundanhotel.com/weddings/
+        - listitem [ref=e649]:
+          - link "News" [ref=e650] [cursor=pointer]:
+            - /url: https://grandpasundanhotel.com/news/
+        - listitem [ref=e651]:
+          - link "Contact" [ref=e652] [cursor=pointer]:
+            - /url: https://grandpasundanhotel.com/contact/
+      - generic [ref=e653]:
+        - list [ref=e654]:
+          - listitem [ref=e655]: Stay Connected
+          - listitem [ref=e656]:
+            - link "" [ref=e657] [cursor=pointer]:
+              - /url: https://www.instagram.com/grandpasundan
+          - listitem [ref=e659]:
+            - link "" [ref=e660] [cursor=pointer]:
+              - /url: https://www.facebook.com/grandpasundanhotel
+          - listitem [ref=e662]:
+            - link "" [ref=e663] [cursor=pointer]:
+              - /url: https://wa.me/08112266959
+        - separator [ref=e665]: "*"
+        - list [ref=e666]:
+          - listitem [ref=e667]
+          - listitem [ref=e669]
+          - listitem [ref=e671]
+          - listitem [ref=e673]
+  - text:     
+  - link "Whatsapp" [ref=e677] [cursor=pointer]:
+    - /url: https://web.whatsapp.com/send?phone=628112266959&text=
+    - paragraph [ref=e685]: Contact us

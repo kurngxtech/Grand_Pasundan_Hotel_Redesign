@@ -1,0 +1,211 @@
+- generic [active] [ref=f56e1]:
+  - generic:
+    - link "×" [ref=f56e2] [cursor=pointer]:
+      - /url: javascript:void(0)
+    - generic [ref=f56e3]:
+      - navigation:
+        - generic:
+          - list:
+            - listitem:
+              - link "Home":
+                - /url: https://grandpasundanhotel.com/
+            - listitem:
+              - link "Facilities":
+                - /url: https://grandpasundanhotel.com/facilities/
+            - listitem:
+              - link "Meetings & Convention":
+                - /url: https://grandpasundanhotel.com/meetings/
+            - listitem:
+              - link "Weddings":
+                - /url: https://grandpasundanhotel.com/weddings/
+            - listitem:
+              - link "News":
+                - /url: https://grandpasundanhotel.com/news/
+            - listitem:
+              - link "Contact":
+                - /url: https://grandpasundanhotel.com/contact/
+  - generic [ref=f56e4]:
+    - link "×" [ref=f56e5] [cursor=pointer]:
+      - /url: javascript:void(0)
+    - generic [ref=f56e8]:
+      - heading "Your Booking" [level=3] [ref=f56e10]
+      - generic [ref=f56e11]:
+        - generic [ref=f56e12]:
+          - table [ref=f56e17]:
+            - rowgroup [ref=f56e18]:
+              - row "october 2026" [ref=f56e19]:
+                - columnheader [ref=f56e20]:
+                  - generic [ref=f56e21] [cursor=pointer]
+                - columnheader "october 2026" [ref=f56e23]:
+                  - generic [ref=f56e24]: october
+                  - generic [ref=f56e25]: "2026"
+                - columnheader [ref=f56e26]:
+                  - generic [ref=f56e27] [cursor=pointer]
+              - row [ref=f56e29]:
+                - columnheader "su" [ref=f56e30]
+                - columnheader "mo" [ref=f56e31]
+                - columnheader "tu" [ref=f56e32]
+                - columnheader "we" [ref=f56e33]
+                - columnheader "th" [ref=f56e34]
+                - columnheader "fr" [ref=f56e35]
+                - columnheader "sa" [ref=f56e36]
+            - rowgroup [ref=f56e37]:
+              - row [ref=f56e38]:
+                - cell [ref=f56e39]
+                - cell [ref=f56e40]
+                - cell [ref=f56e41]
+                - cell [ref=f56e42]
+                - cell "1" [ref=f56e43]
+                - cell "2" [ref=f56e45]
+                - cell "3" [ref=f56e47]
+              - row [ref=f56e49]:
+                - cell "4" [ref=f56e50]
+                - cell "5" [ref=f56e52]
+                - cell "6" [ref=f56e54]
+                - cell "7" [ref=f56e56]
+                - cell "8" [ref=f56e58]
+                - cell "9" [ref=f56e60]
+                - cell "10" [ref=f56e62]
+              - row [ref=f56e64]:
+                - cell "11" [ref=f56e65]
+                - cell "12" [ref=f56e67]
+                - cell "13" [ref=f56e69]
+                - cell "14" [ref=f56e71]
+                - cell "15" [ref=f56e73]
+                - cell "16" [ref=f56e75]
+                - cell "17" [ref=f56e77]
+              - row [ref=f56e79]:
+                - cell "18" [ref=f56e80]
+                - cell "19" [ref=f56e82]
+                - cell "20" [ref=f56e84]
+                - cell "21" [ref=f56e86]
+                - cell "22" [ref=f56e88]
+                - cell "23" [ref=f56e90]
+                - cell "24 608K" [ref=f56e92]
+              - row [ref=f56e94]:
+                - cell "25 395.2K" [ref=f56e95]
+                - cell "26 395.2K" [ref=f56e97]
+                - cell "27 395.2K" [ref=f56e99]
+                - cell "28 395.2K" [ref=f56e101]
+                - cell "29 395.2K" [ref=f56e103]
+                - cell "30 494K" [ref=f56e105]
+                - cell "31 494K" [ref=f56e107]
+          - generic [ref=f56e110]:
+            - paragraph [ref=f56e111]:
+              - generic [ref=f56e112]: Checkin - Checkout
+            - generic [ref=f56e115]:
+              - generic [ref=f56e116]: Date
+              - strong [ref=f56e118]: Sat, Oct 24 2026 - Sun, Oct 25 2026
+          - generic [ref=f56e119]:
+            - paragraph [ref=f56e120]:
+              - generic [ref=f56e121]: Guest
+            - generic [ref=f56e124]:
+              - generic [ref=f56e125]:
+                - paragraph [ref=f56e126]: Adult
+                - paragraph [ref=f56e127]: Ages 18 or above
+              - generic [ref=f56e129]:
+                - generic [ref=f56e130] [cursor=pointer]: "-"
+                - generic [ref=f56e131]: "2"
+                - generic [ref=f56e132] [cursor=pointer]: +
+            - generic [ref=f56e133]:
+              - generic [ref=f56e134]:
+                - paragraph [ref=f56e135]: Children
+                - paragraph [ref=f56e136]: Ages 0 - 17
+              - generic [ref=f56e138]:
+                - generic [ref=f56e139] [cursor=pointer]: "-"
+                - generic [ref=f56e140]: "0"
+                - generic [ref=f56e141] [cursor=pointer]: +
+          - generic [ref=f56e142]:
+            - paragraph [ref=f56e143]:
+              - generic [ref=f56e144]: Promocode
+            - textbox "Enter promo code" [ref=f56e148]
+        - button "Check Availability" [ref=f56e150] [cursor=pointer]
+  - generic [ref=f56e151]:
+    - banner [ref=f56e152]:
+      - generic [ref=f56e153]:
+        - link "menu" [ref=f56e155] [cursor=pointer]:
+          - /url: "#"
+        - list [ref=f56e161]:
+          - listitem [ref=f56e162]:
+            - link "Rooms" [ref=f56e163] [cursor=pointer]:
+              - /url: https://grandpasundanhotel.com/rooms/
+          - listitem [ref=f56e164]:
+            - link "Offers" [ref=f56e165] [cursor=pointer]:
+              - /url: https://grandpasundanhotel.com/offers/
+          - listitem [ref=f56e166]:
+            - link "Gallery" [ref=f56e167] [cursor=pointer]:
+              - /url: https://grandpasundanhotel.com/gallery/
+        - link [ref=f56e170] [cursor=pointer]:
+          - /url: https://grandpasundanhotel.com/
+          - img "Grand Pasundan Hotel" [ref=f56e171]
+        - link "book now" [ref=f56e173] [cursor=pointer]:
+          - /url: "#"
+    - generic [ref=f56e174]:
+      - generic [ref=f56e181]:
+        - region "Map" [ref=f56e182]
+        - generic [ref=f56e183]:
+          - button [ref=f56e236] [cursor=pointer]
+          - iframe [aria-hidden] [ref=f56e237]
+      - main [ref=f56e240]:
+        - heading "Contact" [level=1] [ref=f56e242]
+        - generic [ref=f56e243]:
+          - paragraph [ref=f56e244]: Grand Pasundan Convention Hotel Bandung – an exceptional and luxurious 4-star hotel in the heart of West Java. Featuring contemporary decor and elegant accommodation to business and leisure facilities. It is part of our culture and true heart service with a touch of unique hospitality, in harmonious with our concept “Preserve Pasundan Tradition”.
+          - paragraph [ref=f56e245]
+          - generic [ref=f56e247]:
+            - strong [ref=f56e248]: "Address:"
+            - text: Jl. Peta No. 147 – 149, Suka Asih, Bojongloa Kaler 40233 Bandung
+            - strong [ref=f56e249]: "Contact:"
+            - strong [ref=f56e250]: Tel.
+            - text: 022 6043135
+            - strong [ref=f56e251]: "Email:"
+            - text: reservation@grandpasundanhotel.com
+  - contentinfo [ref=f56e252]:
+    - generic [ref=f56e255]:
+      - generic [ref=f56e256]:
+        - link [ref=f56e258] [cursor=pointer]:
+          - /url: https://grandpasundanhotel.com/wp-content/themes/Alaric/img/logo-hotel/logo-color-footer.png)
+          - img "Grand Pasundan Hotel" [ref=f56e259]
+        - generic [ref=f56e260]:
+          - strong [ref=f56e261]: Grand Pasundan Hotel & Convention
+          - text: Jl. Peta No.147 - 149, Suka Asih, Kec. Bojongloa Kaler, Kota Bandung, Jawa Barat 40232 - Indonesia Telp. 022 6043135 Email. reservation@grandpasundanhotel.com
+      - list [ref=f56e264]:
+        - listitem [ref=f56e265]:
+          - link "Home" [ref=f56e266] [cursor=pointer]:
+            - /url: https://grandpasundanhotel.com/
+        - listitem [ref=f56e267]:
+          - link "Facilities" [ref=f56e268] [cursor=pointer]:
+            - /url: https://grandpasundanhotel.com/facilities/
+        - listitem [ref=f56e269]:
+          - link "Meetings & Convention" [ref=f56e270] [cursor=pointer]:
+            - /url: https://grandpasundanhotel.com/meetings/
+        - listitem [ref=f56e271]:
+          - link "Weddings" [ref=f56e272] [cursor=pointer]:
+            - /url: https://grandpasundanhotel.com/weddings/
+        - listitem [ref=f56e273]:
+          - link "News" [ref=f56e274] [cursor=pointer]:
+            - /url: https://grandpasundanhotel.com/news/
+        - listitem [ref=f56e275]:
+          - link "Contact" [ref=f56e276] [cursor=pointer]:
+            - /url: https://grandpasundanhotel.com/contact/
+      - generic [ref=f56e277]:
+        - list [ref=f56e278]:
+          - listitem [ref=f56e279]: Stay Connected
+          - listitem [ref=f56e280]:
+            - link "" [ref=f56e281] [cursor=pointer]:
+              - /url: https://www.instagram.com/grandpasundan
+          - listitem [ref=f56e283]:
+            - link "" [ref=f56e284] [cursor=pointer]:
+              - /url: https://www.facebook.com/grandpasundanhotel
+          - listitem [ref=f56e286]:
+            - link "" [ref=f56e287] [cursor=pointer]:
+              - /url: https://wa.me/08112266959
+        - separator [ref=f56e289]: "*"
+        - list [ref=f56e290]:
+          - listitem [ref=f56e291]
+          - listitem [ref=f56e293]
+          - listitem [ref=f56e295]
+          - listitem [ref=f56e297]
+  - text:     
+  - link "Whatsapp" [ref=f56e301] [cursor=pointer]:
+    - /url: https://web.whatsapp.com/send?phone=628112266959&text=
+    - paragraph [ref=f56e309]: Contact us

@@ -1,0 +1,2 @@
+[     355ms] [INFO] Usercentrics: If you're not using Content Security Policy, please use loader.js instead of bundle.js according to https://docs.usercentrics.com/#/browser-ui?id=implementation @ https://app.usercentrics.eu/browser-ui/latest/bundle.js:0
+[    7388ms] [WARNING] <meta name="apple-mobile-web-app-capable" content="yes"> is deprecated. Please include <meta name="mobile-web-app-capable" content="yes"> @ https://www.schlosshotel-kitzbuehel.com/booking/:0

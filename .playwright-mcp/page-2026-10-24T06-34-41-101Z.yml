@@ -1,0 +1,848 @@
+- generic [ref=f86e1]:
+  - generic [ref=f86e2]:
+    - banner:
+      - generic:
+        - generic:
+          - generic:
+            - link "Vouchers":
+              - /url: /en/vouchers
+            - generic:
+              - link "Book" [ref=f86e3] [cursor=pointer]:
+                - /url: https://www.schlosshotel-kitzbuehel.com/booking/
+              - link "Enquire" [ref=f86e5] [cursor=pointer]:
+                - /url: /en/enquiry
+          - link "Schlosshotel Kitzbühel":
+            - /url: /en
+            - img "Schlosshotel Kitzbühel"
+          - generic:
+            - generic:
+              - generic:
+                - link "Spa":
+                  - /url: /en/wellness-hotel-kitzbuhel
+              - generic:
+                - link "Rooms and Suites":
+                  - /url: /en/rooms-suites
+              - generic:
+                - link "Meetings & Events":
+                  - /url: /en/meetings-events
+              - generic:
+                - link "Photos":
+                  - /url: /en/photos
+              - generic:
+                - link "Restaurants":
+                  - /url: /en/restaurant-kitzbuhel
+            - button "Open/close menu" [ref=f86e7] [cursor=pointer]
+      - generic:
+        - generic:
+          - generic:
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - link "Book" [ref=f86e11] [cursor=pointer]:
+                      - /url: https://www.schlosshotel-kitzbuehel.com/booking/
+                    - link "Enquire" [ref=f86e13] [cursor=pointer]:
+                      - /url: /en/enquiry
+                  - link "Vouchers":
+                    - /url: /en/vouchers
+                - generic:
+                  - button "Open/close menu"
+            - generic:
+              - navigation "Main navigation":
+                - list:
+                  - listitem:
+                    - generic:
+                      - link "Kitzbühel":
+                        - /url: /en/kitzbuhel-hotel-5-star
+                    - generic:
+                      - list:
+                        - listitem:
+                          - link "For families":
+                            - /url: /en/family-hotel-tyrol
+                        - listitem:
+                          - link "For sports enthusiasts":
+                            - /url: /en/sports-enthusiasts
+                        - listitem:
+                          - link "For culture lovers":
+                            - /url: /en/culture-lovers
+                        - listitem:
+                          - link "Concierge tips":
+                            - /url: /en/concierge-tips
+                  - listitem:
+                    - generic:
+                      - link "Rooms and Suites":
+                        - /url: /en/rooms-suites
+                    - generic:
+                      - list:
+                        - listitem:
+                          - link "Packages":
+                            - /url: /en/arrangements
+                        - listitem:
+                          - link "Inclusive services":
+                            - /url: /en/inclusive-services
+                  - listitem:
+                    - generic:
+                      - link "Spa":
+                        - /url: /en/wellness-hotel-kitzbuhel
+                    - generic:
+                      - list:
+                        - listitem:
+                          - link "Day spa":
+                            - /url: /en/day-spa
+                        - listitem:
+                          - link "Treatments":
+                            - /url: /en/treatments
+                        - listitem:
+                          - link "Pool & saunas":
+                            - /url: /en/hotel-kitzbuhel-swimming-pool
+                  - listitem:
+                    - generic:
+                      - link "Restaurants":
+                        - /url: /en/restaurant-kitzbuhel
+                    - generic:
+                      - list:
+                        - listitem:
+                          - link "Kaps":
+                            - /url: https://offers.schlosshotel-kitzbuehel.com/en/daskaps
+                        - listitem:
+                          - link "Rozu":
+                            - /url: https://offers.schlosshotel-kitzbuehel.com/en/rozusushi
+                        - listitem:
+                          - link "Bar & lobby":
+                            - /url: /en/bar-lobby
+                        - listitem:
+                          - link "Restaurant Streif":
+                            - /url: /en/restaurant-streif
+                  - listitem:
+                    - generic:
+                      - link "Sport":
+                        - /url: /en/sport-hotel-austria
+                    - generic:
+                      - list:
+                        - listitem:
+                          - link "Ski":
+                            - /url: /en/kitzbuhel-ski-hotel
+                        - listitem:
+                          - link "Golf":
+                            - /url: /en/golfhotel-kitzbuhel
+                        - listitem:
+                          - link "Hike & bike":
+                            - /url: /en/austria-hiking-holidays
+                        - listitem:
+                          - link "Leisurely or action-fuelled":
+                            - /url: /en/austria-walking-holidays
+                        - listitem:
+                          - link "Gym":
+                            - /url: /en/yoga-hotel-austria
+                  - listitem:
+                    - generic:
+                      - link "Meetings & Events":
+                        - /url: /en/meetings-events
+                    - generic:
+                      - list:
+                        - listitem:
+                          - link "Conferences and corporate events":
+                            - /url: /en/conference-hotel-austria
+                        - listitem:
+                          - link "Weddings & family celebrations":
+                            - /url: /en/wedding-venue-austria
+                        - listitem:
+                          - link "Castle events":
+                            - /url: /en/events-kitzbuhel
+                          - list:
+                            - listitem:
+                              - link "Hahnenkamm Fever – Kitzbühel, Before the World Watches":
+                                - /url: /en/events-kitzbuhel/hahnenkamm-fever-kitzbuehel-before-the-world-watches
+                            - listitem:
+                              - link "Hochfilzen Biathlon Trilogy":
+                                - /url: /en/events-kitzbuhel/hochfilzen-biathlon-trilogy
+                  - listitem:
+                    - generic:
+                      - link "By the way":
+                        - /url: /en/by-the-way
+                    - generic:
+                      - list:
+                        - listitem:
+                          - link "Children":
+                            - /url: /en/kitzbuhel-holiday-children
+                        - listitem:
+                          - link "Dogs":
+                            - /url: /en/dog-friendly-hotel-tyrol
+                        - listitem:
+                          - link "Arrival":
+                            - /url: /en/arrival
+                        - listitem:
+                          - link "Newsletter":
+                            - /url: /en/newsletter
+                        - listitem:
+                          - link "FAQs":
+                            - /url: /en/faqs
+                  - listitem:
+                    - generic:
+                      - link "Photos":
+                        - /url: /en/photos
+                    - generic:
+                      - list:
+                        - listitem:
+                          - link "Social media wall":
+                            - /url: /en/social-media-wall
+                  - listitem:
+                    - generic:
+                      - link "Blog":
+                        - /url: /en/blog
+                    - generic:
+                      - list:
+                        - listitem:
+                          - link "Winter":
+                            - /url: /en/blog/winter
+                        - listitem:
+                          - link "Summer":
+                            - /url: /en/blog/summer
+                        - listitem:
+                          - link "Castle":
+                            - /url: /en/blog/castle
+                        - listitem:
+                          - link "Kitzbühel":
+                            - /url: /en/blog/kitzbuehel
+    - generic [ref=f86e16]:
+      - generic [ref=f86e18]:
+        - img "Hotel complex at the foot of wooded hills, surrounded by green lawns" [ref=f86e22]
+        - generic:
+          - generic:
+            - generic:
+              - generic:
+                - img "Modern round sauna room with wooden benches and soft ceiling lighting"
+        - generic:
+          - generic:
+            - generic:
+              - generic:
+                - img "Woman relaxing in steamy water"
+        - generic:
+          - generic:
+            - generic:
+              - generic:
+                - img "Garnished salmon platter with cucumbers, strawberries, and fresh herbs"
+      - link "Schlosshotel Kitzbühel Upgrade your October & November with the Schlosshotel arrangements + KitzCard included" [ref=f86e24] [cursor=pointer]:
+        - /url: /en/arrangements
+        - img "Schlosshotel Kitzbühel" [ref=f86e26]
+        - generic [ref=f86e27]:
+          - generic [ref=f86e28]: Upgrade your October & November
+          - generic [ref=f86e29]: with the Schlosshotel arrangements + KitzCard included
+      - generic:
+        - link [ref=f86e33] [cursor=pointer]:
+          - /url: /en
+          - img "Schlosshotel Kitzbühel" [ref=f86e34]
+        - generic:
+          - generic:
+            - generic:
+              - navigation "Language selection" [ref=f86e35]:
+                - button "EN" [ref=f86e36] [cursor=pointer]
+              - link "Tel. +43 5356 65660-0" [ref=f86e41] [cursor=pointer]:
+                - /url: tel:/00435356656600
+            - generic:
+              - link "Vouchers" [ref=f86e42] [cursor=pointer]:
+                - /url: /en/vouchers
+              - button "Open/close menu" [ref=f86e46] [cursor=pointer]
+        - generic:
+          - generic:
+            - generic:
+              - generic:
+                - link "Book" [ref=f86e50] [cursor=pointer]:
+                  - /url: https://www.schlosshotel-kitzbuehel.com/booking/
+                - link "Enquire" [ref=f86e52] [cursor=pointer]:
+                  - /url: /en/enquiry
+    - main [ref=f86e54]:
+      - generic [ref=f86e55]:
+        - generic [ref=f86e57]:
+          - generic [ref=f86e58]:
+            - link [ref=f86e60] [cursor=pointer]:
+              - /url: /fileadmin/_processed_/d/1/csm_AROSA_KIZ_05_Innenpool_179_79e22f93f0.webp
+              - img "Indoor swimming pool with columns and a person swimming in the center" [ref=f86e62]
+            - generic [ref=f86e63]:
+              - generic [ref=f86e65]:
+                - heading "Schlosshotel Kitzbühel" [level=1] [ref=f86e66]
+                - heading "Welcome to the threshold of the extraordinary" [level=2] [ref=f86e67]
+              - generic [ref=f86e69]:
+                - paragraph [ref=f86e70]:
+                  - text: Some places whisper rather than shout.
+                  - strong [ref=f86e71]: Schlosshotel Kitzbühel
+                  - text: is one of them.
+                - paragraph [ref=f86e72]: "No flashy façade. No hollow shine. Instead: real stone beneath your fingertips. Hand-polished glass that catches the light. Wood that tells its story through every ring."
+                - paragraph [ref=f86e73]: The Spa Momentum
+                - paragraph [ref=f86e74]: "From the very first step inside, you feel it. This depth. This substance. Welcome to a place that needs no pretence. It simply is: Schlosshotel Kitzbühel."
+              - link "Step inside" [ref=f86e76] [cursor=pointer]:
+                - /url: /en/arrangements
+          - link [ref=f86e79] [cursor=pointer]:
+            - /url: /fileadmin/_processed_/3/c/csm_SH-L1150426_682285eaa5.webp
+            - img "Oval glass ceiling with view of sky and clouds" [ref=f86e81]
+        - generic [ref=f86e82]:
+          - generic [ref=f86e84]:
+            - heading "For people of refined taste. For you." [level=2] [ref=f86e87]
+            - link "Show all rooms" [ref=f86e89] [cursor=pointer]:
+              - /url: /en/rooms-suites
+          - generic [ref=f86e95]:
+            - generic [ref=f86e97]:
+              - link [ref=f86e99] [cursor=pointer]:
+                - /url: /en/rooms-suites/rooms/classic-double-room
+                - img "Modern bedroom with red accents at Schlosshotel Kitzbühel" [ref=f86e101]
+              - generic [ref=f86e102]:
+                - generic [ref=f86e103]:
+                  - link "Classic double room" [ref=f86e104] [cursor=pointer]:
+                    - /url: /en/rooms-suites/rooms/classic-double-room
+                  - generic [ref=f86e105]: from €129.00 per person incl. half board
+                  - generic:
+                    - link "Book" [ref=f86e106] [cursor=pointer]:
+                      - /url: https://www.schlosshotel-kitzbuehel.com/booking/?roomtype=DCL_1_H1,DCL_2_H1&adults=1&filter=true
+                    - link "Enquire" [ref=f86e108] [cursor=pointer]:
+                      - /url: /en/enquiry?room_code=SUPERIOR
+                - link "Details" [ref=f86e111] [cursor=pointer]:
+                  - /url: /en/rooms-suites/rooms/classic-double-room
+            - generic [ref=f86e114]:
+              - link [ref=f86e116] [cursor=pointer]:
+                - /url: /en/rooms-suites/rooms/comfort-double-room
+                - img "Modern room at Schlosshotel Kitzbühel with sofa and balcony" [ref=f86e118]
+              - generic [ref=f86e119]:
+                - generic [ref=f86e120]:
+                  - link "Comfort double room" [ref=f86e121] [cursor=pointer]:
+                    - /url: /en/rooms-suites/rooms/comfort-double-room
+                  - generic [ref=f86e122]: from €189.00 per person incl. half board
+                  - generic:
+                    - link "Book" [ref=f86e123] [cursor=pointer]:
+                      - /url: https://www.schlosshotel-kitzbuehel.com/booking/?roomtype=DCO_1_H1,DCO_2_H1,DCO_3_H1&adults=2&filter=true
+                    - link "Enquire" [ref=f86e125] [cursor=pointer]:
+                      - /url: /en/enquiry?room_code=DZCF
+                - link "Details" [ref=f86e128] [cursor=pointer]:
+                  - /url: /en/rooms-suites/rooms/comfort-double-room
+            - generic [ref=f86e131]:
+              - link [ref=f86e133] [cursor=pointer]:
+                - /url: /en/rooms-suites/rooms/deluxe-double-room
+                - img "Bedroom at Schlosshotel Kitzbühel with double bed and seating area" [ref=f86e135]
+              - generic [ref=f86e136]:
+                - generic [ref=f86e137]:
+                  - link "Deluxe double room" [ref=f86e138] [cursor=pointer]:
+                    - /url: /en/rooms-suites/rooms/deluxe-double-room
+                  - generic [ref=f86e139]: from €229.00 per person incl. half board
+                  - generic:
+                    - link "Book" [ref=f86e140] [cursor=pointer]:
+                      - /url: https://www.schlosshotel-kitzbuehel.com/booking/?roomtype=DZD_1_H1,DZD_2_H1,DZD_3_H1&adults=1&filter=true
+                    - link "Enquire" [ref=f86e142] [cursor=pointer]:
+                      - /url: /en/enquiry?room_code=DELUXE
+                - link "Details" [ref=f86e145] [cursor=pointer]:
+                  - /url: /en/rooms-suites/rooms/deluxe-double-room
+            - generic [ref=f86e148]:
+              - link [ref=f86e150] [cursor=pointer]:
+                - /url: /en/rooms-suites/rooms/comfort-double-room-with-balcony-or-terrace
+                - img "Modern hotel room at Schlosshotel Kitzbühel with comfortable bed and sitting area" [ref=f86e152]
+              - generic [ref=f86e153]:
+                - generic [ref=f86e154]:
+                  - link "Comfort double room with balcony or terrace" [ref=f86e155] [cursor=pointer]:
+                    - /url: /en/rooms-suites/rooms/comfort-double-room-with-balcony-or-terrace
+                  - generic [ref=f86e156]: from €180.00 per person incl. half board
+                  - generic:
+                    - link "Book" [ref=f86e157] [cursor=pointer]:
+                      - /url: https://www.schlosshotel-kitzbuehel.com/booking/?roomtype=DCOBA_1_H1,DCOBA_2_H1,DCOBA_3_H1&adults=2&filter=true
+                    - link "Enquire" [ref=f86e159] [cursor=pointer]:
+                      - /url: /en/enquiry?room_code=DZC
+                - link "Details" [ref=f86e162] [cursor=pointer]:
+                  - /url: /en/rooms-suites/rooms/comfort-double-room-with-balcony-or-terrace
+        - generic [ref=f86e165]:
+          - img "Sunlight shining on a wooden windowsill and a white curtain" [ref=f86e169]
+          - generic [ref=f86e174]:
+            - paragraph [ref=f86e177]: "“Good hosts know how to listen. They sense the need behind a request, the longing behind the small talk. At Schlosshotel, there are countless wonderful places where the team takes time to do just that. It is in these moments that the Schlosshotel Momentum comes to life: the charm of the hotel quietly unfolds, and the true meaning of hospitality at Schlosshotel begins to shine.”"
+            - button "Uwe Schramm" [ref=f86e179]
+            - generic [ref=f86e180]: Direktor
+        - generic [ref=f86e181]:
+          - generic [ref=f86e183]:
+            - heading "Schlosshotel offers Not for all. But definitely for you." [level=2] [ref=f86e186]
+            - link "Show all offers" [ref=f86e189] [cursor=pointer]:
+              - /url: /en/arrangements
+          - generic [ref=f86e195]:
+            - generic [ref=f86e197]:
+              - link [ref=f86e199] [cursor=pointer]:
+                - /url: /en/arrangements/golden-autumn-in-kitzbuehel-43
+                - img "Schlosshotel Kitzbühel beside a lake, with autumn-colored mountains in the background" [ref=f86e201]
+              - generic [ref=f86e203]:
+                - link "Golden Autumn in Kitzbühel (4=3)" [ref=f86e204] [cursor=pointer]:
+                  - /url: /en/arrangements/golden-autumn-in-kitzbuehel-43
+                - generic [ref=f86e205]: 04/10–26/11/2026
+                - generic [ref=f86e206]: 4 nights
+                - generic [ref=f86e208]: from €723.00 per person incl. half board
+                - generic:
+                  - link "Book" [ref=f86e210] [cursor=pointer]:
+                    - /url: https://www.schlosshotel-kitzbuehel.com/booking/packages/68444
+                  - link "Enquire" [ref=f86e212] [cursor=pointer]:
+                    - /url: /en/enquiry?offer_id=107073
+                - link "Details" [ref=f86e215] [cursor=pointer]:
+                  - /url: /en/arrangements/golden-autumn-in-kitzbuehel-43
+            - generic [ref=f86e218]:
+              - link [ref=f86e220] [cursor=pointer]:
+                - /url: /en/arrangements/november-spa-yoga-retreat-2026
+                - img "Abstract close-up of two rolled textured forms in darkness, Schlosshotel Kitzbühel" [ref=f86e222]
+              - generic [ref=f86e224]:
+                - link "November Spa Yoga Retreat 2026" [ref=f86e225] [cursor=pointer]:
+                  - /url: /en/arrangements/november-spa-yoga-retreat-2026
+                - generic [ref=f86e226]: 13/11–15/11/2026
+                - generic [ref=f86e227]: 2 nights
+                - generic [ref=f86e229]: from €536.00 per person incl. half board
+                - link "Enquire" [ref=f86e231] [cursor=pointer]:
+                  - /url: /en/enquiry?offer_id=106588
+                - link "Details" [ref=f86e234] [cursor=pointer]:
+                  - /url: /en/arrangements/november-spa-yoga-retreat-2026
+            - generic [ref=f86e237]:
+              - link [ref=f86e239] [cursor=pointer]:
+                - /url: /en/arrangements/long-stay-in-autumn-and-winter-75
+                - img "Frosty meadow, trees and misty mountains near Schlosshotel Kitzbühel" [ref=f86e241]
+              - generic [ref=f86e243]:
+                - link "Long Stay in Autumn and Winter (7=5)" [ref=f86e244] [cursor=pointer]:
+                  - /url: /en/arrangements/long-stay-in-autumn-and-winter-75
+                - generic [ref=f86e245]: 11/10–20/12/2026
+                - generic [ref=f86e246]: 7 nights
+                - generic [ref=f86e248]: from €777.00 per person incl. half board
+                - link "Enquire" [ref=f86e250] [cursor=pointer]:
+                  - /url: /en/enquiry?offer_id=107079
+                - link "Details" [ref=f86e253] [cursor=pointer]:
+                  - /url: /en/arrangements/long-stay-in-autumn-and-winter-75
+            - generic [ref=f86e256]:
+              - link [ref=f86e258] [cursor=pointer]:
+                - /url: /en/arrangements/the-magic-of-advent
+                - img "Advent wreath with candles, evergreen branches and stars at Schlosshotel Kitzbühel" [ref=f86e260]
+              - generic [ref=f86e262]:
+                - link "The Magic of Advent" [ref=f86e263] [cursor=pointer]:
+                  - /url: /en/arrangements/the-magic-of-advent
+                - generic [ref=f86e264]: 18/11–23/12/2026
+                - generic [ref=f86e265]: 2 nights
+                - generic [ref=f86e267]: from €344.00 per person incl. half board
+                - link "Enquire" [ref=f86e269] [cursor=pointer]:
+                  - /url: /en/enquiry?offer_id=107082
+                - link "Details" [ref=f86e272] [cursor=pointer]:
+                  - /url: /en/arrangements/the-magic-of-advent
+        - generic [ref=f86e275]:
+          - img "Barefoot person in sheer dress near bathtub and window" [ref=f86e279]
+          - generic [ref=f86e282]:
+            - generic [ref=f86e283]: The Spa Momentum
+            - generic [ref=f86e284]: The Spa Momentum
+        - generic [ref=f86e288]:
+          - img "Modern fireplace with burning fire in cozy living room" [ref=f86e291]
+          - img "Woman in pool holding pretzel-shaped snacks in front of her face" [ref=f86e294]
+          - img "View through house windows of shingled roof towers and green landscape outside" [ref=f86e297]
+          - img "Hand holding fork, taking warm chocolate cake with berries and ice cream from plate" [ref=f86e300]
+        - heading "What you’re looking for" [level=2] [ref=f86e306]
+        - generic [ref=f86e307]:
+          - img "Glittery high-heeled women's shoes on a light floor" [ref=f86e311]
+          - generic [ref=f86e315]:
+            - generic [ref=f86e318]:
+              - generic [ref=f86e319]:
+                - generic [ref=f86e320]: "First: peace."
+                - generic [ref=f86e322]:
+                  - img "View of golf course and mountains at sunset" [ref=f86e324]
+                  - generic [ref=f86e329]:
+                    - generic [ref=f86e330] [cursor=pointer]: "1"
+                    - generic [ref=f86e331] [cursor=pointer]: "2"
+                    - generic [ref=f86e332] [cursor=pointer]: "3"
+              - generic [ref=f86e333]:
+                - img "View through a window of a traditional building with a stone wall and mountains in the background" [ref=f86e336]
+                - generic [ref=f86e337]:
+                  - paragraph [ref=f86e341]: Not the absence of noise. That would be too simple. But the presence of peace. Peace that adjusts to you. That awaits you in your room, accompanies you on your hike, or joins you during a sauna session. In the cosy lounge, it makes room for music. You will find this peace in your own rhythm, alongside your Schlosshotel Kitzbühel Momentum.
+                  - link "Find peace" [ref=f86e343] [cursor=pointer]:
+                    - /url: /en/bar-lobby
+            - generic [ref=f86e347]:
+              - generic [ref=f86e348]:
+                - generic [ref=f86e349]: "Second: connections."
+                - generic [ref=f86e351]:
+                  - img "Wine bottle and glasses on set wooden table in restaurant" [ref=f86e353]
+                  - generic [ref=f86e358]:
+                    - generic [ref=f86e359] [cursor=pointer]: "1"
+                    - generic [ref=f86e360] [cursor=pointer]: "2"
+                    - generic [ref=f86e361] [cursor=pointer]: "3"
+              - generic [ref=f86e362]:
+                - img "Person cutting an artistically plated dish on a blue plate" [ref=f86e365]
+                - generic [ref=f86e366]:
+                  - paragraph [ref=f86e370]:
+                    - text: "Here, connections form effortlessly. They spark during dinners, when laughter rings around the table, when you joke and toast together. They grow over a glass of wine at the bar, where stories are shared: “What a day it’s been …” They deepen on the terrace, while you’re watching the sunset with your partner, or while you’re planning the day ahead over breakfast eggs. At our hotel in Kitzbühel in Austria, you will experience a"
+                    - strong [ref=f86e371]: way of life
+                    - text: that moves you – with ease and warmth.
+                  - link "Find indulgence" [ref=f86e373] [cursor=pointer]:
+                    - /url: /en/restaurant-kitzbuhel
+            - generic [ref=f86e377]:
+              - generic [ref=f86e378]:
+                - generic [ref=f86e379]: "Third: the Spa Momentum."
+                - generic [ref=f86e381]:
+                  - img "Man relaxing while receiving a head massage" [ref=f86e383]
+                  - generic [ref=f86e388]:
+                    - generic [ref=f86e389] [cursor=pointer]: "1"
+                    - generic [ref=f86e390] [cursor=pointer]: "2"
+                    - generic [ref=f86e391] [cursor=pointer]: "3"
+              - generic [ref=f86e392]:
+                - img "Woman relaxing with eyes closed and hand on neck against bright background" [ref=f86e395]
+                - generic [ref=f86e396]:
+                  - paragraph [ref=f86e400]:
+                    - text: "It’s not a concept. Nor a marketing idea. It’s an experience that reaches deep beneath the surface. That lingers. That transforms. An encounter with a place that knows no compromise. That pretends nothing. That doesn’t try to please. It simply is: genuine. Valuable. Unique."
+                    - strong [ref=f86e401]: For people like you
+                    - text: "– who recognise authenticity. Who appreciate it. Who seek it. And find it here: at the extraordinary Schlosshotel in Austria."
+                    - link "In Kitzbühel" [ref=f86e402] [cursor=pointer]:
+                      - /url: /en/kitzbuhel-hotel-5-star
+                    - text: .
+                  - link "Find authenticity" [ref=f86e404] [cursor=pointer]:
+                    - /url: /en/wellness-hotel-kitzbuhel
+        - generic [ref=f86e407]:
+          - img "Aerial view of a hotel beside a lake and golf course in a green landscape" [ref=f86e410]
+          - generic:
+            - generic [ref=f86e411] [cursor=pointer]:
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Hand holding yellow-orange cocktail glass at sunset"
+                - generic:
+                  - generic: Bar with panoramic terrace
+                  - generic: Style. Flavour. Wonder.
+            - generic [ref=f86e416] [cursor=pointer]:
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Assorted sushi and sashimi served on a plate"
+                - generic:
+                  - generic: Rōzu Sushi Lounge
+                  - generic: Tyrol meets Tokyo
+            - generic [ref=f86e421] [cursor=pointer]:
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Cozy restaurant with wooden tables and view of trees through open door"
+                - generic:
+                  - generic: STREIF Restaurant with terrace
+                  - generic: Indulgence from breakfast to sunset
+            - generic [ref=f86e426] [cursor=pointer]:
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Woman exercising legs on machine while man supports as trainer"
+                - generic:
+                  - generic: Gym
+                  - generic: Cardio, strength, kettlebells
+            - generic [ref=f86e431] [cursor=pointer]:
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Two women doing yoga on red mats outdoors with mountains in the background"
+                - generic:
+                  - generic: Yoga platform
+                  - generic: Asanas with view of Mt Kitzbüheler Horn
+            - generic [ref=f86e436] [cursor=pointer]:
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Woman relaxing in water with falling snow in the background"
+                - generic:
+                  - generic: Outdoor pool and sunbathing lawn
+                  - generic: Your spa moment(um) amidst nature
+            - generic [ref=f86e441] [cursor=pointer]:
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Cozy bedroom with round mirror and heart-shaped pillow"
+                - generic:
+                  - generic: Adler suite
+                  - generic: Sweeping views and wow factor
+            - generic [ref=f86e446] [cursor=pointer]:
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Child's hand covered in blue paint while painting"
+                - generic:
+                  - generic: Kitzclub
+                  - generic: Hauntingly good fun and games
+            - generic [ref=f86e451] [cursor=pointer]:
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Wooden bridges over ponds in green park with people walking"
+                - generic:
+                  - generic: Schlosshotel with drawbrige
+                  - generic: Alpine sophistication, full of charm
+            - generic [ref=f86e456] [cursor=pointer]:
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Conference room with chairs, tables, projector and large screen"
+                - generic:
+                  - generic: Conference rooms
+                  - generic: Business at its best
+            - generic [ref=f86e461] [cursor=pointer]:
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Two black dogs sitting on wood chips in front of a stone wall"
+                - generic:
+                  - generic: Dog playground
+                  - generic: Freedom on four paws
+            - generic [ref=f86e466] [cursor=pointer]:
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Golfer hitting ball from a sand bunker"
+                - generic:
+                  - generic: 9-hole Kaps golf course
+                  - generic: Drives. Greens. Castle views.
+            - generic [ref=f86e471] [cursor=pointer]:
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Drinks with straws on a restaurant table with utensils and napkin"
+                - generic:
+                  - generic: DAS Kaps Restaurant
+                  - generic: Delicious dining, made casual
+        - generic [ref=f86e478]:
+          - generic [ref=f86e479]:
+            - generic:
+              - img "Schlosshotel Kitzbühel"
+            - generic [ref=f86e481]:
+              - heading "Uwe Schramm | Hotel Manager" [level=2] [ref=f86e484]
+              - list [ref=f86e487]:
+                - listitem [ref=f86e488]: "Expertise: the Schlosshotel itself, along with its team and guests"
+                - listitem [ref=f86e489]: "What sets him apart: a passion for nature and staying active"
+                - listitem [ref=f86e490]: "What drives him: satisfied guests and a strong team that grows together beyond its limits"
+                - listitem [ref=f86e491]: "Favourite spot at Schlosshotel: the outdoor pool at Momentum Spa. Fresh mountain air, warm water, and views of nature provide the perfect balance for him."
+                - listitem [ref=f86e492]: "Motto: primus inter pares. Leading with trust and on equal terms"
+          - link [ref=f86e494] [cursor=pointer]:
+            - /url: /fileadmin/_processed_/5/5/csm_SH-1140273_c1ef9a57f2.webp
+            - img "Older man in black shirt smiling thoughtfully against red background" [ref=f86e496]
+        - generic [ref=f86e501]:
+          - generic [ref=f86e503]:
+            - generic [ref=f86e505]:
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Couple sitting on flower meadow looking at mountains at sunset"
+                - generic [ref=f86e506]: 5.45 a.m.
+              - generic [ref=f86e508]:
+                - heading "Out and about around Schlosshotel in Austria" [level=2] [ref=f86e511]
+                - paragraph [ref=f86e514]: "The first light strikes the summit. A sharp, golden point. You’re almost there. Breathing steady: four seconds in, six seconds out. Heart rate up, but perfectly controlled. One last push. 27 metres to go. Solid footing on slick rock. The perfect balance between power and control. Then: the peak. And nobody but you. You’ve arrived before the sun fully illuminates the sky. The view: boundless. Pristine. Priceless."
+            - img "Two cyclists riding by a lake with mountains in the background at sunset" [ref=f86e518]
+          - generic [ref=f86e520]:
+            - generic [ref=f86e522]:
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Two skiers on snowy slope with alpine mountains in the background"
+                - generic [ref=f86e523]: 8.55 a.m.
+              - paragraph [ref=f86e528]:
+                - text: Crisp air, snow crunching under your ski boots. A first glance down into the valley – everything is glistening. The day begins with a tentative glide and a joyful smile when the first run goes perfectly. On the slopes, moments are made – stories you’ll share later at the
+                - link "bar" [ref=f86e529] [cursor=pointer]:
+                  - /url: /en/bar-lobby
+                - text: . Probably with rosy cheeks, definitely with happy eyes.
+            - img "Skier in red outfit skiing on snowy mountain near pine trees" [ref=f86e533]
+          - generic [ref=f86e535]:
+            - generic [ref=f86e537]:
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Golf club about to hit a golf ball in a sand bunker"
+                - generic [ref=f86e538]: 10 a.m.
+              - generic [ref=f86e540]:
+                - heading "Outside Schlosshotel. Austria’s most beautiful 9-hole course." [level=2] [ref=f86e543]
+                - paragraph [ref=f86e546]: The sun has risen above Mt Kitzbüheler Horn, the 4th green stretching out before you. A deep breath, sharp focus, a chip onto the green. Then that one perfect putt that brings a smile to your face. Golf at Schlosshotel Kitzbühel – a round with friends, just steps from the castle doors.
+            - img "Man playing golf on sunny course with mountains in the background" [ref=f86e550]
+          - generic [ref=f86e552]:
+            - generic [ref=f86e554]:
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Person slicing cooked meat with knife on wooden cutting board"
+                - generic [ref=f86e555]: 1.25 p.m.
+              - paragraph [ref=f86e560]: The plates are little works of art, the view a quiet poem. Light conversation, comfortable silence, wine perfectly paired with the moment. Lunch at the Schlosshotel bar is a delicate symphony of flavours – aromatic, Alpine, served with a smile. You stay a little longer than planned. Just as it should be.
+            - img "Cozy restaurant with leather chairs and set dining tables" [ref=f86e564]
+          - generic [ref=f86e566]:
+            - generic [ref=f86e568]:
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Woman relaxing in a steam bath with water and mist"
+                - generic [ref=f86e569]: 4.10 p.m.
+              - paragraph [ref=f86e574]: The water in the Schlosshotel pool is still, your body light. Your thoughts drift along. The rush of the day slips away, almost silently. Maybe you swim a few laps. Or perhaps you simply float. Outside, the sun shines bright; inside, everything glows a warm gold.
+            - img "Indoor pool area with large arched windows and green outdoor view" [ref=f86e578]
+          - generic [ref=f86e580]:
+            - generic [ref=f86e582]:
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Trainer encouraging woman doing plank exercise in gym"
+                - generic [ref=f86e583]: 6 p.m.
+              - generic [ref=f86e585]:
+                - heading "at your hotel in Kitzbühel" [level=2] [ref=f86e588]
+                - paragraph [ref=f86e591]:
+                  - text: "The day is drawing to a close, but you give it one more push. Focus. Strength. Music in your ears, rhythm in your body. The gym is quiet, almost meditative. Movement becomes balance, a source of energy. Afterward: a glass of water, a deep breath – and the satisfying sense that you’ve done it all. And truly earned that"
+                  - link "dinner" [ref=f86e592] [cursor=pointer]:
+                    - /url: /en/restaurant-kitzbuhel
+                  - text: at Schlosshotel Kitzbühel, the best hotel in Kitzbühel.
+            - img "Finely plated gourmet appetizer on black plate with vegetables and sauce" [ref=f86e596]
+        - generic [ref=f86e601]:
+          - generic:
+            - img "Woman exercising legs on machine while man supports as trainer" [ref=f86e604]
+            - img "Bright gym with treadmills and workout machines near large windows" [ref=f86e607]
+          - generic:
+            - generic:
+              - generic:
+                - generic:
+                  - img "Elegant dining table set with glasses, white roses, and cutlery in a bright room"
+            - generic:
+              - generic:
+                - generic:
+                  - img "Elegant staircase with wrought iron railing and red curtains in warmly lit interior"
+          - generic:
+            - generic:
+              - generic:
+                - generic:
+                  - img "Woman making bed in stylish hotel room with bathtub"
+            - generic:
+              - generic:
+                - generic:
+                  - img "Modern restaurant with wooden ceiling, pendant lights, and cozy seating areas"
+          - generic:
+            - generic:
+              - generic:
+                - generic:
+                  - img "Flowers in vase on table in front of burning fireplace"
+            - generic:
+              - generic:
+                - generic:
+                  - img "Aerial view of a mountain hotel with golf course and village in the background"
+          - generic [ref=f86e608]:
+            - link "Sport" [ref=f86e610] [cursor=pointer]:
+              - /url: /en/sport-hotel-austria
+            - link "Castle events" [ref=f86e612] [cursor=pointer]:
+              - /url: /en/events-kitzbuhel
+            - link "Inclusive services" [ref=f86e614] [cursor=pointer]:
+              - /url: /en/inclusive-services
+            - link "Your questions" [ref=f86e616] [cursor=pointer]:
+              - /url: /en/faqs
+    - contentinfo [ref=f86e617]:
+      - generic [ref=f86e621]:
+        - link "Golfer hitting ball from a sand bunker Golf" [ref=f86e623] [cursor=pointer]:
+          - /url: /en/golfhotel-kitzbuhel
+          - img "Golfer hitting ball from a sand bunker" [ref=f86e626]
+          - generic [ref=f86e627]: Golf
+        - link "Wooden sauna with bundles of dried herbs hanging and spot lighting Spa" [ref=f86e630] [cursor=pointer]:
+          - /url: /en/wellness-hotel-kitzbuhel
+          - img "Wooden sauna with bundles of dried herbs hanging and spot lighting" [ref=f86e633]
+          - generic [ref=f86e634]: Spa
+        - link "Assorted sushi and sashimi served on a plate Restaurants" [ref=f86e637] [cursor=pointer]:
+          - /url: /en/restaurant-kitzbuhel
+          - img "Assorted sushi and sashimi served on a plate" [ref=f86e640]
+          - generic [ref=f86e641]: Restaurants
+      - generic [ref=f86e645]:
+        - generic [ref=f86e647]:
+          - link [ref=f86e648] [cursor=pointer]:
+            - /url: /en
+            - img "Schlosshotel Kitzbühel" [ref=f86e649]
+          - generic [ref=f86e650]:
+            - generic [ref=f86e651]: Schlosshotel Kitzbühel
+            - generic [ref=f86e652]: Ried Kaps 7 6370 Kitzbühel (Tirol) Austria
+          - generic [ref=f86e653]:
+            - generic [ref=f86e654]: Contact
+            - generic [ref=f86e655]:
+              - link "Tel. +43 5356 65660-0" [ref=f86e657] [cursor=pointer]:
+                - /url: tel:/00435356656600
+              - link "contact@ schlosshotel-kitzbuehel. com" [ref=f86e659] [cursor=pointer]:
+                - /url: "#"
+              - link "reservation@ schlosshotel-kitzbuehel. com" [ref=f86e661] [cursor=pointer]:
+                - /url: "#"
+        - generic [ref=f86e665]:
+          - link "Career" [ref=f86e666] [cursor=pointer]:
+            - /url: /en/career
+          - link "Arrival" [ref=f86e667] [cursor=pointer]:
+            - /url: /en/arrival
+          - link "Vouchers" [ref=f86e668] [cursor=pointer]:
+            - /url: /en/vouchers
+        - generic [ref=f86e671]:
+          - link "Facebook" [ref=f86e672] [cursor=pointer]:
+            - /url: https://www.facebook.com/people/Schlosshotel-Kitzb%C3%BChel/61574740257326/
+          - link "Instagram" [ref=f86e676] [cursor=pointer]:
+            - /url: https://www.instagram.com/schlosshotelkitzbuehel/
+        - generic [ref=f86e682]:
+          - generic [ref=f86e683]: SchlosshotelLetters
+          - button [ref=f86e685] [cursor=pointer]:
+            - generic [ref=f86e686]: Sign upfor the newsletter now
+      - generic [ref=f86e690]:
+        - generic:
+          - img "Schlosshotel Kitzbühel"
+        - generic [ref=f86e691]:
+          - generic [ref=f86e692]:
+            - navigation "Legal navigation" [ref=f86e693]:
+              - link "Imprint" [ref=f86e694] [cursor=pointer]:
+                - /url: /en/imprint
+              - text: "|"
+              - link "Privacy" [ref=f86e695] [cursor=pointer]:
+                - /url: /en/privacy
+              - text: "|"
+              - link "AGB" [ref=f86e696] [cursor=pointer]:
+                - /url: https://www.schlosshotel-kitzbuehel.com/fileadmin/files/PDF/AGBs/202503_schlosshotel_kitzbuehel_AGB_EN.pdf
+              - text: "|"
+              - link "AGB Events" [ref=f86e697] [cursor=pointer]:
+                - /url: https://www.schlosshotel-kitzbuehel.com/fileadmin/files/PDF/AGBs/202503_schlosshotel_kitzbuehel_AGB_Events_EN.pdf
+              - text: "|"
+              - link "Privacy settings" [ref=f86e698] [cursor=pointer]:
+                - /url: "#"
+              - text: "|"
+              - link "Accessibility" [ref=f86e699] [cursor=pointer]:
+                - /url: /en/accessibility
+              - text: "|"
+              - link "Site map" [ref=f86e700] [cursor=pointer]:
+                - /url: /en/site-map
+              - text: "| VAT no.: ATU81895549 © 2026 Schlosshotel Kitzbühel"
+            - generic [ref=f86e701]:
+              - button "Partner logos" [ref=f86e702] [cursor=pointer]
+              - button "Interesting pages" [ref=f86e707] [cursor=pointer]
+              - button "Reviews" [ref=f86e712] [cursor=pointer]
+              - button "Awards" [ref=f86e717] [cursor=pointer]
+          - link [ref=f86e723] [cursor=pointer]:
+            - /url: https://www.brandnamic.com/en
+            - img "Brandnamic GmbH | Leading Hospitality Solutions" [ref=f86e724]
+      - paragraph [ref=f86e728]:
+        - text: "Interesting pages:"
+        - link "Schlosshotel Kitzbühel" [ref=f86e729] [cursor=pointer]:
+          - /url: /en
+        - text: ","
+        - link "Kitzbühel Hotel 5 star" [ref=f86e730] [cursor=pointer]:
+          - /url: /en/kitzbuhel-hotel-5-star
+        - text: ","
+        - link "Wellness Hotel Kitzbühel" [ref=f86e731] [cursor=pointer]:
+          - /url: /en/wellness-hotel-kitzbuhel
+        - text: ","
+        - link "Golf Hotel Kitzbühel" [ref=f86e732] [cursor=pointer]:
+          - /url: /en/golfhotel-kitzbuhel
+        - text: ","
+        - link "Conference Hotel (Austria)" [ref=f86e733] [cursor=pointer]:
+          - /url: /en/conference-hotel-austria
+        - text: ","
+        - link "Hotel with standalone tubs (Tyrol)" [ref=f86e734] [cursor=pointer]:
+          - /url: /en/hotel-with-stand-alone-tub-tyrol
+        - text: ","
+        - link "(Kitzbühel) New Year’s Eve Hotel" [ref=f86e735] [cursor=pointer]:
+          - /url: /en/kitzbuhel-new-years-eve-hotel
+        - text: ","
+        - link "Sights" [ref=f86e736] [cursor=pointer]:
+          - /url: /en/attractions-kitzbuehel
+  - text:         
+  - complementary [active]:
+    - group "Consent Management Platform Interface":
+      - dialog [ref=f86e739]:
+        - generic [ref=f86e741]:
+          - button "Select language" [ref=f86e743] [cursor=pointer]
+          - generic [ref=f86e744]:
+            - heading "Privacy Settings" [level=2] [ref=f86e745]
+            - generic: By using this website, you declare that you are over 16 years of age. We use cookies to improve your website experience. Some of these cookies are necessary for our website to function properly (essential cookies), while others collect anonymous statistical data to help us improve your browsing experience (functional cookies) or to show you personalised third-party advertisements (advertising cookies). You can use the corresponding opt-out buttons to choose which categories of cookies we can use. By clicking on “Accept all” or “Save settings”, you consent to the use of cookies based on your settings. You can withdraw your consent at any time. For more information and setting options, please click on “More”.
+          - navigation "Header including language selection and external links" [ref=f86e746]:
+            - button "more" [ref=f86e747] [cursor=pointer]
+          - generic [ref=f86e748]:
+            - generic [ref=f86e749] [cursor=pointer]:
+              - generic: Marketing
+              - switch "Marketing" [ref=f86e750]
+            - generic [ref=f86e751] [cursor=pointer]:
+              - generic: Functional
+              - switch "Functional" [ref=f86e752]
+            - generic [aria-hidden] [ref=f86e753]:
+              - generic: Essential
+              - switch [checked] [disabled] [aria-hidden] [ref=f86e754]
+        - generic [ref=f86e757]:
+          - button "Save Services" [ref=f86e758] [cursor=pointer]
+          - button "Accept All" [ref=f86e759] [cursor=pointer]

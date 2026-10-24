@@ -1,0 +1,525 @@
+- generic [active] [ref=f64e1]:
+  - generic:
+    - link "×" [ref=f64e2] [cursor=pointer]:
+      - /url: javascript:void(0)
+    - generic [ref=f64e3]:
+      - navigation:
+        - generic:
+          - list:
+            - listitem:
+              - link "Home":
+                - /url: https://grandpasundanhotel.com/
+            - listitem:
+              - link "Facilities":
+                - /url: https://grandpasundanhotel.com/facilities/
+            - listitem:
+              - link "Meetings & Convention":
+                - /url: https://grandpasundanhotel.com/meetings/
+            - listitem:
+              - link "Weddings":
+                - /url: https://grandpasundanhotel.com/weddings/
+            - listitem:
+              - link "News":
+                - /url: https://grandpasundanhotel.com/news/
+            - listitem:
+              - link "Contact":
+                - /url: https://grandpasundanhotel.com/contact/
+  - generic [ref=f64e4]:
+    - link "×" [ref=f64e5] [cursor=pointer]:
+      - /url: javascript:void(0)
+    - generic [ref=f64e8]:
+      - heading "Your Booking" [level=3] [ref=f64e10]
+      - generic [ref=f64e11]:
+        - generic [ref=f64e12]:
+          - table [ref=f64e17]:
+            - rowgroup [ref=f64e18]:
+              - row "october 2026" [ref=f64e19]:
+                - columnheader [ref=f64e20]:
+                  - generic [ref=f64e21] [cursor=pointer]
+                - columnheader "october 2026" [ref=f64e23]:
+                  - generic [ref=f64e24]: october
+                  - generic [ref=f64e25]: "2026"
+                - columnheader [ref=f64e26]:
+                  - generic [ref=f64e27] [cursor=pointer]
+              - row [ref=f64e29]:
+                - columnheader "su" [ref=f64e30]
+                - columnheader "mo" [ref=f64e31]
+                - columnheader "tu" [ref=f64e32]
+                - columnheader "we" [ref=f64e33]
+                - columnheader "th" [ref=f64e34]
+                - columnheader "fr" [ref=f64e35]
+                - columnheader "sa" [ref=f64e36]
+            - rowgroup [ref=f64e37]:
+              - row [ref=f64e38]:
+                - cell [ref=f64e39]
+                - cell [ref=f64e40]
+                - cell [ref=f64e41]
+                - cell [ref=f64e42]
+                - cell "1" [ref=f64e43]
+                - cell "2" [ref=f64e45]
+                - cell "3" [ref=f64e47]
+              - row [ref=f64e49]:
+                - cell "4" [ref=f64e50]
+                - cell "5" [ref=f64e52]
+                - cell "6" [ref=f64e54]
+                - cell "7" [ref=f64e56]
+                - cell "8" [ref=f64e58]
+                - cell "9" [ref=f64e60]
+                - cell "10" [ref=f64e62]
+              - row [ref=f64e64]:
+                - cell "11" [ref=f64e65]
+                - cell "12" [ref=f64e67]
+                - cell "13" [ref=f64e69]
+                - cell "14" [ref=f64e71]
+                - cell "15" [ref=f64e73]
+                - cell "16" [ref=f64e75]
+                - cell "17" [ref=f64e77]
+              - row [ref=f64e79]:
+                - cell "18" [ref=f64e80]
+                - cell "19" [ref=f64e82]
+                - cell "20" [ref=f64e84]
+                - cell "21" [ref=f64e86]
+                - cell "22" [ref=f64e88]
+                - cell "23" [ref=f64e90]
+                - cell "24 608K" [ref=f64e92]
+              - row [ref=f64e94]:
+                - cell "25 395.2K" [ref=f64e95]
+                - cell "26 395.2K" [ref=f64e97]
+                - cell "27 395.2K" [ref=f64e99]
+                - cell "28 395.2K" [ref=f64e101]
+                - cell "29 395.2K" [ref=f64e103]
+                - cell "30 494K" [ref=f64e105]
+                - cell "31 494K" [ref=f64e107]
+          - generic [ref=f64e110]:
+            - paragraph [ref=f64e111]:
+              - generic [ref=f64e112]: Checkin - Checkout
+            - generic [ref=f64e115]:
+              - generic [ref=f64e116]: Date
+              - strong [ref=f64e118]: Sat, Oct 24 2026 - Sun, Oct 25 2026
+          - generic [ref=f64e119]:
+            - paragraph [ref=f64e120]:
+              - generic [ref=f64e121]: Guest
+            - generic [ref=f64e124]:
+              - generic [ref=f64e125]:
+                - paragraph [ref=f64e126]: Adult
+                - paragraph [ref=f64e127]: Ages 18 or above
+              - generic [ref=f64e129]:
+                - generic [ref=f64e130] [cursor=pointer]: "-"
+                - generic [ref=f64e131]: "2"
+                - generic [ref=f64e132] [cursor=pointer]: +
+            - generic [ref=f64e133]:
+              - generic [ref=f64e134]:
+                - paragraph [ref=f64e135]: Children
+                - paragraph [ref=f64e136]: Ages 0 - 17
+              - generic [ref=f64e138]:
+                - generic [ref=f64e139] [cursor=pointer]: "-"
+                - generic [ref=f64e140]: "0"
+                - generic [ref=f64e141] [cursor=pointer]: +
+          - generic [ref=f64e142]:
+            - paragraph [ref=f64e143]:
+              - generic [ref=f64e144]: Promocode
+            - textbox "Enter promo code" [ref=f64e148]
+        - button "Check Availability" [ref=f64e150] [cursor=pointer]
+  - generic [ref=f64e151]:
+    - banner [ref=f64e152]:
+      - generic [ref=f64e153]:
+        - link "menu" [ref=f64e155] [cursor=pointer]:
+          - /url: "#"
+        - list [ref=f64e161]:
+          - listitem [ref=f64e162]:
+            - link "Rooms" [ref=f64e163] [cursor=pointer]:
+              - /url: https://grandpasundanhotel.com/rooms/
+          - listitem [ref=f64e164]:
+            - link "Offers" [ref=f64e165] [cursor=pointer]:
+              - /url: https://grandpasundanhotel.com/offers/
+          - listitem [ref=f64e166]:
+            - link "Gallery" [ref=f64e167] [cursor=pointer]:
+              - /url: https://grandpasundanhotel.com/gallery/
+        - link [ref=f64e170] [cursor=pointer]:
+          - /url: https://grandpasundanhotel.com/
+          - img "Grand Pasundan Hotel" [ref=f64e171]
+        - link "book now" [ref=f64e173] [cursor=pointer]:
+          - /url: "#"
+    - generic [ref=f64e174]:
+      - generic [ref=f64e175]:
+        - generic [ref=f64e176]:
+          - button "Previous" [ref=f64e196] [cursor=pointer]
+          - button "Next" [ref=f64e197] [cursor=pointer]
+          - list [ref=f64e198]:
+            - listitem [ref=f64e199] [cursor=pointer]:
+              - button "• 1" [ref=f64e200]
+            - listitem [ref=f64e201] [cursor=pointer]:
+              - button "• 2" [ref=f64e202]
+            - listitem [ref=f64e203] [cursor=pointer]:
+              - button "• 3" [ref=f64e204]
+            - listitem [ref=f64e205] [cursor=pointer]:
+              - button "• 4" [ref=f64e206]
+            - listitem [ref=f64e207] [cursor=pointer]:
+              - button "• 5" [ref=f64e208]
+            - listitem [ref=f64e209] [cursor=pointer]:
+              - button "• 6" [ref=f64e210]
+            - listitem [ref=f64e211] [cursor=pointer]:
+              - button "• 7" [ref=f64e212]
+            - listitem [ref=f64e213] [cursor=pointer]:
+              - button "• 8" [ref=f64e214]
+            - listitem [ref=f64e215] [cursor=pointer]:
+              - button "• 9" [ref=f64e216]
+            - listitem [ref=f64e217] [cursor=pointer]:
+              - button "• 10" [ref=f64e218]
+            - listitem [ref=f64e219] [cursor=pointer]:
+              - button "• 11" [ref=f64e220]
+            - listitem [ref=f64e221] [cursor=pointer]:
+              - button "• 12" [ref=f64e222]
+            - listitem [ref=f64e223] [cursor=pointer]:
+              - button "• 13" [ref=f64e224]
+            - listitem [ref=f64e225] [cursor=pointer]:
+              - button "• 14" [ref=f64e226]
+            - listitem [ref=f64e227] [cursor=pointer]:
+              - button "• 15" [ref=f64e228]
+        - link "Scroll Down":
+          - /url: "#main"
+          - generic [ref=f64e229] [cursor=pointer]
+      - text: • • • • • • • • • • • • • • •  
+      - generic [ref=f64e230]:
+        - main [ref=f64e232]:
+          - heading "President Suite" [level=1] [ref=f64e234]
+          - list [ref=f64e235]:
+            - listitem [ref=f64e236]:
+              - generic [aria-hidden] [ref=f64e237]: 
+              - text: 6 Guests
+            - listitem [ref=f64e238]:
+              - generic [aria-hidden] [ref=f64e239]: 
+              - text: 17m2 x 23m2
+          - paragraph [ref=f64e240]: Located on the 11 floor of Main Building, President Suite offers fully detail furnished with a large master bedroom and separate living room. You can also accommodate an important meeting with valuable client in it’s separated Meeting Room. With the astonishing view of Bandung City, The President Suite is a truly dedicated for a very special guest like you. Consist of 17 x 23 square meters
+          - generic [ref=f64e241]:
+            - heading "In-Room Facilities" [level=3] [ref=f64e242]
+            - list [ref=f64e244]:
+              - listitem [ref=f64e245]: Air Conditioning
+              - listitem [ref=f64e247]: Bath Robe
+              - listitem [ref=f64e249]: Bath Towel
+              - listitem [ref=f64e251]: Bathtub
+              - listitem [ref=f64e253]: Body Soap
+              - listitem [ref=f64e255]: Coffee Maker
+              - listitem [ref=f64e257]: Complimentary Bottled Water
+              - listitem [ref=f64e259]: Hot & Cold Shower
+              - listitem [ref=f64e261]: IDD Telephone
+              - listitem [ref=f64e263]: LCD Flat Panel TV
+              - listitem [ref=f64e265]: Living Room
+              - listitem [ref=f64e267]: Mini Bar
+              - listitem [ref=f64e269]: Non-Smoking
+              - listitem [ref=f64e271]: Shampoo
+              - listitem [ref=f64e273]: Slippers
+              - listitem [ref=f64e275]: Sofa Bed
+              - listitem [ref=f64e277]: Toothbrush and/or Toothpaste
+              - listitem [ref=f64e279]: Water Dispenser
+          - paragraph [ref=f64e282]:
+            - text: Tonight's Rate IDR 1,900,000
+            - link "book this room" [ref=f64e283] [cursor=pointer]:
+              - /url: https://booking.grandpasundanhotel.com//offers?hotel=GPSH&room=GPSR&checkin=2026-10-24&checkout=2026-10-25
+        - generic [ref=f64e285]:
+          - heading "Other Rooms" [level=2] [ref=f64e286]
+          - paragraph [ref=f64e287]: Explore more of our newly redesigned rooms that you’re staying somewhere special.
+          - generic [ref=f64e289]:
+            - generic [ref=f64e291]:
+              - link "Tonight's Rate IDR 1,406,000 Premiere Suite Room 8m2 x 15m2 More Details " [ref=f64e293] [cursor=pointer]:
+                - /url: https://grandpasundanhotel.com/room/premiere-suite-rooms/
+                - generic [ref=f64e295]:
+                  - paragraph [ref=f64e297]: Tonight's Rate IDR 1,406,000
+                  - generic [ref=f64e298]:
+                    - heading "Premiere Suite Room" [level=3] [ref=f64e299]
+                    - list [ref=f64e300]:
+                      - listitem [ref=f64e301]:
+                        - generic [aria-hidden] [ref=f64e302]: 
+                        - text: 8m2 x 15m2
+                    - paragraph [ref=f64e303]:
+                      - text: More Details
+                      - generic [ref=f64e304]: 
+              - link "Tonight's Rate IDR 1,900,000 Grand Family Suite 8m2 x 6m2 2 Twins More Details " [ref=f64e306] [cursor=pointer]:
+                - /url: https://grandpasundanhotel.com/room/grand-family-suite/
+                - generic [ref=f64e308]:
+                  - paragraph [ref=f64e310]: Tonight's Rate IDR 1,900,000
+                  - generic [ref=f64e311]:
+                    - heading "Grand Family Suite" [level=3] [ref=f64e312]
+                    - list [ref=f64e313]:
+                      - listitem [ref=f64e314]:
+                        - generic [aria-hidden] [ref=f64e315]: 
+                        - text: 8m2 x 6m2
+                      - listitem [ref=f64e316]:
+                        - generic [aria-hidden] [ref=f64e317]: 
+                        - text: 2 Twins
+                    - paragraph [ref=f64e318]:
+                      - text: More Details
+                      - generic [ref=f64e319]: 
+              - link "Tonight's Rate IDR 2,660,000 3-Bedroom Pasundan Suite 17m2 x 16m2 1 Kings More Details " [ref=f64e321] [cursor=pointer]:
+                - /url: https://grandpasundanhotel.com/room/3-bedroom-pasundan-suite/
+                - generic [ref=f64e323]:
+                  - paragraph [ref=f64e325]: Tonight's Rate IDR 2,660,000
+                  - generic [ref=f64e326]:
+                    - heading "3-Bedroom Pasundan Suite" [level=3] [ref=f64e327]
+                    - list [ref=f64e328]:
+                      - listitem [ref=f64e329]:
+                        - generic [aria-hidden] [ref=f64e330]: 
+                        - text: 17m2 x 16m2
+                      - listitem [ref=f64e331]:
+                        - generic [aria-hidden] [ref=f64e332]: 
+                        - text: 1 Kings
+                    - paragraph [ref=f64e333]:
+                      - text: More Details
+                      - generic [ref=f64e334]: 
+              - link "Standard Twin 3m2 x 5m2 More Details " [ref=f64e336] [cursor=pointer]:
+                - /url: https://grandpasundanhotel.com/room/standard-twin/
+                - generic [ref=f64e339]:
+                  - heading "Standard Twin" [level=3] [ref=f64e340]
+                  - list [ref=f64e341]:
+                    - listitem [ref=f64e342]:
+                      - generic [aria-hidden] [ref=f64e343]: 
+                      - text: 3m2 x 5m2
+                  - paragraph [ref=f64e344]:
+                    - text: More Details
+                    - generic [ref=f64e345]: 
+              - link "Standard King 3m2 x 5m2 More Details " [ref=f64e347] [cursor=pointer]:
+                - /url: https://grandpasundanhotel.com/room/standard-king/
+                - generic [ref=f64e350]:
+                  - heading "Standard King" [level=3] [ref=f64e351]
+                  - list [ref=f64e352]:
+                    - listitem [ref=f64e353]:
+                      - generic [aria-hidden] [ref=f64e354]: 
+                      - text: 3m2 x 5m2
+                  - paragraph [ref=f64e355]:
+                    - text: More Details
+                    - generic [ref=f64e356]: 
+              - link "Tonight's Rate IDR 608,000 Deluxe Room A Twin 4m2 x 8m2 More Details " [ref=f64e358] [cursor=pointer]:
+                - /url: https://grandpasundanhotel.com/room/deluxe-room-a-twin/
+                - generic [ref=f64e360]:
+                  - paragraph [ref=f64e362]: Tonight's Rate IDR 608,000
+                  - generic [ref=f64e363]:
+                    - heading "Deluxe Room A Twin" [level=3] [ref=f64e364]
+                    - list [ref=f64e365]:
+                      - listitem [ref=f64e366]:
+                        - generic [aria-hidden] [ref=f64e367]: 
+                        - text: 4m2 x 8m2
+                    - paragraph [ref=f64e368]:
+                      - text: More Details
+                      - generic [ref=f64e369]: 
+              - link "Tonight's Rate IDR 608,000 Deluxe Room A King 4m2 x 8m2 More Details " [ref=f64e371] [cursor=pointer]:
+                - /url: https://grandpasundanhotel.com/room/deluxe-room-a-king/
+                - generic [ref=f64e373]:
+                  - paragraph [ref=f64e375]: Tonight's Rate IDR 608,000
+                  - generic [ref=f64e376]:
+                    - heading "Deluxe Room A King" [level=3] [ref=f64e377]
+                    - list [ref=f64e378]:
+                      - listitem [ref=f64e379]:
+                        - generic [aria-hidden] [ref=f64e380]: 
+                        - text: 4m2 x 8m2
+                    - paragraph [ref=f64e381]:
+                      - text: More Details
+                      - generic [ref=f64e382]: 
+              - link "Deluxe B Twin 4m2 x 8m2 More Details " [ref=f64e384] [cursor=pointer]:
+                - /url: https://grandpasundanhotel.com/room/deluxe-b-twin/
+                - generic [ref=f64e387]:
+                  - heading "Deluxe B Twin" [level=3] [ref=f64e388]
+                  - list [ref=f64e389]:
+                    - listitem [ref=f64e390]:
+                      - generic [aria-hidden] [ref=f64e391]: 
+                      - text: 4m2 x 8m2
+                  - paragraph [ref=f64e392]:
+                    - text: More Details
+                    - generic [ref=f64e393]: 
+              - link "Tonight's Rate IDR 608,000 Deluxe B King 4m2 x 8m2 More Details " [ref=f64e395] [cursor=pointer]:
+                - /url: https://grandpasundanhotel.com/room/deluxe-b-king/
+                - generic [ref=f64e397]:
+                  - paragraph [ref=f64e399]: Tonight's Rate IDR 608,000
+                  - generic [ref=f64e400]:
+                    - heading "Deluxe B King" [level=3] [ref=f64e401]
+                    - list [ref=f64e402]:
+                      - listitem [ref=f64e403]:
+                        - generic [aria-hidden] [ref=f64e404]: 
+                        - text: 4m2 x 8m2
+                    - paragraph [ref=f64e405]:
+                      - text: More Details
+                      - generic [ref=f64e406]: 
+              - link "Tonight's Rate IDR 666,900 Executive Suite Twin 4m2 x 8m2 More Details " [ref=f64e408] [cursor=pointer]:
+                - /url: https://grandpasundanhotel.com/room/executive-suite-twin/
+                - generic [ref=f64e410]:
+                  - paragraph [ref=f64e412]: Tonight's Rate IDR 666,900
+                  - generic [ref=f64e413]:
+                    - heading "Executive Suite Twin" [level=3] [ref=f64e414]
+                    - list [ref=f64e415]:
+                      - listitem [ref=f64e416]:
+                        - generic [aria-hidden] [ref=f64e417]: 
+                        - text: 4m2 x 8m2
+                    - paragraph [ref=f64e418]:
+                      - text: More Details
+                      - generic [ref=f64e419]: 
+              - link "Tonight's Rate IDR 666,900 Executive Suite King 4m2 x 8m2 More Details " [ref=f64e421] [cursor=pointer]:
+                - /url: https://grandpasundanhotel.com/room/executive-suite-king/
+                - generic [ref=f64e423]:
+                  - paragraph [ref=f64e425]: Tonight's Rate IDR 666,900
+                  - generic [ref=f64e426]:
+                    - heading "Executive Suite King" [level=3] [ref=f64e427]
+                    - list [ref=f64e428]:
+                      - listitem [ref=f64e429]:
+                        - generic [aria-hidden] [ref=f64e430]: 
+                        - text: 4m2 x 8m2
+                    - paragraph [ref=f64e431]:
+                      - text: More Details
+                      - generic [ref=f64e432]: 
+              - link "Tonight's Rate IDR 666,900 Executive Twin 4m2 x 8m2 More Details " [ref=f64e434] [cursor=pointer]:
+                - /url: https://grandpasundanhotel.com/room/executive-twin/
+                - generic [ref=f64e436]:
+                  - paragraph [ref=f64e438]: Tonight's Rate IDR 666,900
+                  - generic [ref=f64e439]:
+                    - heading "Executive Twin" [level=3] [ref=f64e440]
+                    - list [ref=f64e441]:
+                      - listitem [ref=f64e442]:
+                        - generic [aria-hidden] [ref=f64e443]: 
+                        - text: 4m2 x 8m2
+                    - paragraph [ref=f64e444]:
+                      - text: More Details
+                      - generic [ref=f64e445]: 
+              - link "Tonight's Rate IDR 666,900 Executive King 4m2 x 8m2 More Details " [ref=f64e447] [cursor=pointer]:
+                - /url: https://grandpasundanhotel.com/room/executive-king/
+                - generic [ref=f64e449]:
+                  - paragraph [ref=f64e451]: Tonight's Rate IDR 666,900
+                  - generic [ref=f64e452]:
+                    - heading "Executive King" [level=3] [ref=f64e453]
+                    - list [ref=f64e454]:
+                      - listitem [ref=f64e455]:
+                        - generic [aria-hidden] [ref=f64e456]: 
+                        - text: 4m2 x 8m2
+                    - paragraph [ref=f64e457]:
+                      - text: More Details
+                      - generic [ref=f64e458]: 
+              - link "Tonight's Rate IDR 1,406,000 Premiere Suite Room 8m2 x 15m2 More Details " [ref=f64e460] [cursor=pointer]:
+                - /url: https://grandpasundanhotel.com/room/premiere-suite-rooms/
+                - generic [ref=f64e462]:
+                  - paragraph [ref=f64e464]: Tonight's Rate IDR 1,406,000
+                  - generic [ref=f64e465]:
+                    - heading "Premiere Suite Room" [level=3] [ref=f64e466]
+                    - list [ref=f64e467]:
+                      - listitem [ref=f64e468]:
+                        - generic [aria-hidden] [ref=f64e469]: 
+                        - text: 8m2 x 15m2
+                    - paragraph [ref=f64e470]:
+                      - text: More Details
+                      - generic [ref=f64e471]: 
+              - link "Tonight's Rate IDR 1,900,000 Grand Family Suite 8m2 x 6m2 2 Twins More Details " [ref=f64e473] [cursor=pointer]:
+                - /url: https://grandpasundanhotel.com/room/grand-family-suite/
+                - generic [ref=f64e475]:
+                  - paragraph [ref=f64e477]: Tonight's Rate IDR 1,900,000
+                  - generic [ref=f64e478]:
+                    - heading "Grand Family Suite" [level=3] [ref=f64e479]
+                    - list [ref=f64e480]:
+                      - listitem [ref=f64e481]:
+                        - generic [aria-hidden] [ref=f64e482]: 
+                        - text: 8m2 x 6m2
+                      - listitem [ref=f64e483]:
+                        - generic [aria-hidden] [ref=f64e484]: 
+                        - text: 2 Twins
+                    - paragraph [ref=f64e485]:
+                      - text: More Details
+                      - generic [ref=f64e486]: 
+              - link "Tonight's Rate IDR 2,660,000 3-Bedroom Pasundan Suite 17m2 x 16m2 1 Kings More Details " [ref=f64e488] [cursor=pointer]:
+                - /url: https://grandpasundanhotel.com/room/3-bedroom-pasundan-suite/
+                - generic [ref=f64e490]:
+                  - paragraph [ref=f64e492]: Tonight's Rate IDR 2,660,000
+                  - generic [ref=f64e493]:
+                    - heading "3-Bedroom Pasundan Suite" [level=3] [ref=f64e494]
+                    - list [ref=f64e495]:
+                      - listitem [ref=f64e496]:
+                        - generic [aria-hidden] [ref=f64e497]: 
+                        - text: 17m2 x 16m2
+                      - listitem [ref=f64e498]:
+                        - generic [aria-hidden] [ref=f64e499]: 
+                        - text: 1 Kings
+                    - paragraph [ref=f64e500]:
+                      - text: More Details
+                      - generic [ref=f64e501]: 
+              - link "Standard Twin 3m2 x 5m2 More Details " [ref=f64e503] [cursor=pointer]:
+                - /url: https://grandpasundanhotel.com/room/standard-twin/
+                - generic [ref=f64e506]:
+                  - heading "Standard Twin" [level=3] [ref=f64e507]
+                  - list [ref=f64e508]:
+                    - listitem [ref=f64e509]:
+                      - generic [aria-hidden] [ref=f64e510]: 
+                      - text: 3m2 x 5m2
+                  - paragraph [ref=f64e511]:
+                    - text: More Details
+                    - generic [ref=f64e512]: 
+              - link "Standard King 3m2 x 5m2 More Details " [ref=f64e514] [cursor=pointer]:
+                - /url: https://grandpasundanhotel.com/room/standard-king/
+                - generic [ref=f64e517]:
+                  - heading "Standard King" [level=3] [ref=f64e518]
+                  - list [ref=f64e519]:
+                    - listitem [ref=f64e520]:
+                      - generic [aria-hidden] [ref=f64e521]: 
+                      - text: 3m2 x 5m2
+                  - paragraph [ref=f64e522]:
+                    - text: More Details
+                    - generic [ref=f64e523]: 
+              - link "Tonight's Rate IDR 608,000 Deluxe Room A Twin 4m2 x 8m2 More Details " [ref=f64e525] [cursor=pointer]:
+                - /url: https://grandpasundanhotel.com/room/deluxe-room-a-twin/
+                - generic [ref=f64e527]:
+                  - paragraph [ref=f64e529]: Tonight's Rate IDR 608,000
+                  - generic [ref=f64e530]:
+                    - heading "Deluxe Room A Twin" [level=3] [ref=f64e531]
+                    - list [ref=f64e532]:
+                      - listitem [ref=f64e533]:
+                        - generic [aria-hidden] [ref=f64e534]: 
+                        - text: 4m2 x 8m2
+                    - paragraph [ref=f64e535]:
+                      - text: More Details
+                      - generic [ref=f64e536]: 
+            - button "Previous" [ref=f64e537] [cursor=pointer]
+            - button "Next" [ref=f64e538] [cursor=pointer]
+        - text: • • • • • •   • • • •   • • • • • • • •   • • • • • • •   • • • • • •   • • • • • • • • • •   • • • • • • •   • • • • • • •   • • • • • •   • • • • • •   • • • • • • • • • •   • • • • • • • •   • • • • • • • • • • • • • • • • • •   
+  - contentinfo [ref=f64e539]:
+    - generic [ref=f64e542]:
+      - generic [ref=f64e543]:
+        - link [ref=f64e545] [cursor=pointer]:
+          - /url: https://grandpasundanhotel.com/wp-content/themes/Alaric/img/logo-hotel/logo-color-footer.png)
+          - img "Grand Pasundan Hotel" [ref=f64e546]
+        - generic [ref=f64e547]:
+          - strong [ref=f64e548]: Grand Pasundan Hotel & Convention
+          - text: Jl. Peta No.147 - 149, Suka Asih, Kec. Bojongloa Kaler, Kota Bandung, Jawa Barat 40232 - Indonesia Telp. 022 6043135 Email. reservation@grandpasundanhotel.com
+      - list [ref=f64e551]:
+        - listitem [ref=f64e552]:
+          - link "Home" [ref=f64e553] [cursor=pointer]:
+            - /url: https://grandpasundanhotel.com/
+        - listitem [ref=f64e554]:
+          - link "Facilities" [ref=f64e555] [cursor=pointer]:
+            - /url: https://grandpasundanhotel.com/facilities/
+        - listitem [ref=f64e556]:
+          - link "Meetings & Convention" [ref=f64e557] [cursor=pointer]:
+            - /url: https://grandpasundanhotel.com/meetings/
+        - listitem [ref=f64e558]:
+          - link "Weddings" [ref=f64e559] [cursor=pointer]:
+            - /url: https://grandpasundanhotel.com/weddings/
+        - listitem [ref=f64e560]:
+          - link "News" [ref=f64e561] [cursor=pointer]:
+            - /url: https://grandpasundanhotel.com/news/
+        - listitem [ref=f64e562]:
+          - link "Contact" [ref=f64e563] [cursor=pointer]:
+            - /url: https://grandpasundanhotel.com/contact/
+      - generic [ref=f64e564]:
+        - list [ref=f64e565]:
+          - listitem [ref=f64e566]: Stay Connected
+          - listitem [ref=f64e567]:
+            - link "" [ref=f64e568] [cursor=pointer]:
+              - /url: https://www.instagram.com/grandpasundan
+          - listitem [ref=f64e570]:
+            - link "" [ref=f64e571] [cursor=pointer]:
+              - /url: https://www.facebook.com/grandpasundanhotel
+          - listitem [ref=f64e573]:
+            - link "" [ref=f64e574] [cursor=pointer]:
+              - /url: https://wa.me/08112266959
+        - separator [ref=f64e576]: "*"
+        - list [ref=f64e577]:
+          - listitem [ref=f64e578]
+          - listitem [ref=f64e580]
+          - listitem [ref=f64e582]
+          - listitem [ref=f64e584]
+  - text:     
+  - link "Whatsapp" [ref=f64e588] [cursor=pointer]:
+    - /url: https://web.whatsapp.com/send?phone=628112266959&text=
+    - paragraph [ref=f64e596]: Contact us

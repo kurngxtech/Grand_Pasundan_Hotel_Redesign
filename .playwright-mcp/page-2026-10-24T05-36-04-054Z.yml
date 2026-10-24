@@ -1,0 +1,352 @@
+- generic [active] [ref=f35e1]:
+  - generic:
+    - link "×" [ref=f35e2] [cursor=pointer]:
+      - /url: javascript:void(0)
+    - generic [ref=f35e3]:
+      - navigation:
+        - generic:
+          - list:
+            - listitem:
+              - link "Home":
+                - /url: https://grandpasundanhotel.com/
+            - listitem:
+              - link "Facilities":
+                - /url: https://grandpasundanhotel.com/facilities/
+            - listitem:
+              - link "Meetings & Convention":
+                - /url: https://grandpasundanhotel.com/meetings/
+            - listitem:
+              - link "Weddings":
+                - /url: https://grandpasundanhotel.com/weddings/
+            - listitem:
+              - link "News":
+                - /url: https://grandpasundanhotel.com/news/
+            - listitem:
+              - link "Contact":
+                - /url: https://grandpasundanhotel.com/contact/
+  - generic [ref=f35e4]:
+    - link "×" [ref=f35e5] [cursor=pointer]:
+      - /url: javascript:void(0)
+    - generic [ref=f35e8]:
+      - heading "Your Booking" [level=3] [ref=f35e10]
+      - generic [ref=f35e11]:
+        - generic [ref=f35e12]:
+          - table [ref=f35e17]:
+            - rowgroup [ref=f35e18]:
+              - row "october 2026" [ref=f35e19]:
+                - columnheader [ref=f35e20]:
+                  - generic [ref=f35e21] [cursor=pointer]
+                - columnheader "october 2026" [ref=f35e23]:
+                  - generic [ref=f35e24]: october
+                  - generic [ref=f35e25]: "2026"
+                - columnheader [ref=f35e26]:
+                  - generic [ref=f35e27] [cursor=pointer]
+              - row [ref=f35e29]:
+                - columnheader "su" [ref=f35e30]
+                - columnheader "mo" [ref=f35e31]
+                - columnheader "tu" [ref=f35e32]
+                - columnheader "we" [ref=f35e33]
+                - columnheader "th" [ref=f35e34]
+                - columnheader "fr" [ref=f35e35]
+                - columnheader "sa" [ref=f35e36]
+            - rowgroup [ref=f35e37]:
+              - row [ref=f35e38]:
+                - cell [ref=f35e39]
+                - cell [ref=f35e40]
+                - cell [ref=f35e41]
+                - cell [ref=f35e42]
+                - cell "1" [ref=f35e43]
+                - cell "2" [ref=f35e45]
+                - cell "3" [ref=f35e47]
+              - row [ref=f35e49]:
+                - cell "4" [ref=f35e50]
+                - cell "5" [ref=f35e52]
+                - cell "6" [ref=f35e54]
+                - cell "7" [ref=f35e56]
+                - cell "8" [ref=f35e58]
+                - cell "9" [ref=f35e60]
+                - cell "10" [ref=f35e62]
+              - row [ref=f35e64]:
+                - cell "11" [ref=f35e65]
+                - cell "12" [ref=f35e67]
+                - cell "13" [ref=f35e69]
+                - cell "14" [ref=f35e71]
+                - cell "15" [ref=f35e73]
+                - cell "16" [ref=f35e75]
+                - cell "17" [ref=f35e77]
+              - row [ref=f35e79]:
+                - cell "18" [ref=f35e80]
+                - cell "19" [ref=f35e82]
+                - cell "20" [ref=f35e84]
+                - cell "21" [ref=f35e86]
+                - cell "22" [ref=f35e88]
+                - cell "23" [ref=f35e90]
+                - cell "24 608K" [ref=f35e92]
+              - row [ref=f35e94]:
+                - cell "25 395.2K" [ref=f35e95]
+                - cell "26 395.2K" [ref=f35e97]
+                - cell "27 395.2K" [ref=f35e99]
+                - cell "28 395.2K" [ref=f35e101]
+                - cell "29 395.2K" [ref=f35e103]
+                - cell "30 494K" [ref=f35e105]
+                - cell "31 494K" [ref=f35e107]
+          - generic [ref=f35e110]:
+            - paragraph [ref=f35e111]:
+              - generic [ref=f35e112]: Checkin - Checkout
+            - generic [ref=f35e115]:
+              - generic [ref=f35e116]: Date
+              - strong [ref=f35e118]: Sat, Oct 24 2026 - Sun, Oct 25 2026
+          - generic [ref=f35e119]:
+            - paragraph [ref=f35e120]:
+              - generic [ref=f35e121]: Guest
+            - generic [ref=f35e124]:
+              - generic [ref=f35e125]:
+                - paragraph [ref=f35e126]: Adult
+                - paragraph [ref=f35e127]: Ages 18 or above
+              - generic [ref=f35e129]:
+                - generic [ref=f35e130] [cursor=pointer]: "-"
+                - generic [ref=f35e131]: "2"
+                - generic [ref=f35e132] [cursor=pointer]: +
+            - generic [ref=f35e133]:
+              - generic [ref=f35e134]:
+                - paragraph [ref=f35e135]: Children
+                - paragraph [ref=f35e136]: Ages 0 - 17
+              - generic [ref=f35e138]:
+                - generic [ref=f35e139] [cursor=pointer]: "-"
+                - generic [ref=f35e140]: "0"
+                - generic [ref=f35e141] [cursor=pointer]: +
+          - generic [ref=f35e142]:
+            - paragraph [ref=f35e143]:
+              - generic [ref=f35e144]: Promocode
+            - textbox "Enter promo code" [ref=f35e148]
+        - button "Check Availability" [ref=f35e150] [cursor=pointer]
+  - generic [ref=f35e151]:
+    - banner [ref=f35e152]:
+      - generic [ref=f35e153]:
+        - link "menu" [ref=f35e155] [cursor=pointer]:
+          - /url: "#"
+        - list [ref=f35e161]:
+          - listitem [ref=f35e162]:
+            - link "Rooms" [ref=f35e163] [cursor=pointer]:
+              - /url: https://grandpasundanhotel.com/rooms/
+          - listitem [ref=f35e164]:
+            - link "Offers" [ref=f35e165] [cursor=pointer]:
+              - /url: https://grandpasundanhotel.com/offers/
+          - listitem [ref=f35e166]:
+            - link "Gallery" [ref=f35e167] [cursor=pointer]:
+              - /url: https://grandpasundanhotel.com/gallery/
+        - link [ref=f35e170] [cursor=pointer]:
+          - /url: https://grandpasundanhotel.com/
+          - img "Grand Pasundan Hotel" [ref=f35e171]
+        - link "book now" [ref=f35e173] [cursor=pointer]:
+          - /url: "#"
+    - generic [ref=f35e174]:
+      - generic [ref=f35e175]:
+        - generic [ref=f35e176]:
+          - button "Previous" [ref=f35e186] [cursor=pointer]
+          - button "Next" [ref=f35e187] [cursor=pointer]
+          - list [ref=f35e188]:
+            - listitem [ref=f35e189] [cursor=pointer]:
+              - button "• 1" [ref=f35e190]
+            - listitem [ref=f35e191] [cursor=pointer]:
+              - button "• 2" [ref=f35e192]
+            - listitem [ref=f35e193] [cursor=pointer]:
+              - button "• 3" [ref=f35e194]
+            - listitem [ref=f35e195] [cursor=pointer]:
+              - button "• 4" [ref=f35e196]
+            - listitem [ref=f35e197] [cursor=pointer]:
+              - button "• 5" [ref=f35e198]
+        - link "Scroll Down":
+          - /url: "#main"
+          - generic [ref=f35e199] [cursor=pointer]
+      - text: • • • • •
+      - main [ref=f35e202]:
+        - heading "Meetings & Convention" [level=1] [ref=f35e204]
+        - generic [ref=f35e206]:
+          - paragraph [ref=f35e207]: From intimate gatherings to grand celebrations, our Malibu Dome Convention Hall and 13 fully equipped meeting rooms provide the perfect setting for any occasion. With professional services and modern technology, we ensure that every event is executed seamlessly and successfully.
+          - paragraph [ref=f35e208]:
+            - link "Request A Quotation" [ref=f35e209] [cursor=pointer]:
+              - /url: https://wa.me/
+          - heading "Capacity Chart" [level=3] [ref=f35e211]
+          - table [ref=f35e213]:
+            - rowgroup [ref=f35e214]:
+              - row [ref=f35e215]:
+                - columnheader "VENUE" [ref=f35e216]
+                - columnheader "ROOM SIZE (sqm)" [ref=f35e217]
+                - columnheader "DIMENSION (m)" [ref=f35e218]
+                - columnheader "CLASS ROOM" [ref=f35e219]
+                - columnheader "THEATER" [ref=f35e220]
+                - columnheader "U-SHAPE" [ref=f35e221]
+                - columnheader "ROUND TABLE" [ref=f35e222]
+            - rowgroup [ref=f35e223]:
+              - row [ref=f35e224]:
+                - cell "Malibu Dome" [ref=f35e225]
+                - cell "1152" [ref=f35e226]
+                - cell "48 × 24" [ref=f35e227]
+                - cell "600" [ref=f35e228]
+                - cell "1200" [ref=f35e229]
+                - cell "500" [ref=f35e230]
+                - cell "500" [ref=f35e231]
+              - row [ref=f35e232]:
+                - cell "Sangkuriang" [ref=f35e233]
+                - cell "88" [ref=f35e234]
+                - cell "11 × 8" [ref=f35e235]
+                - cell "60" [ref=f35e236]
+                - cell "100" [ref=f35e237]
+                - cell "50" [ref=f35e238]
+                - cell "50" [ref=f35e239]
+              - row [ref=f35e240]:
+                - cell "Dayang Sumbi" [ref=f35e241]
+                - cell "32" [ref=f35e242]
+                - cell "8 × 4" [ref=f35e243]
+                - cell "–" [ref=f35e244]
+                - cell "–" [ref=f35e245]
+                - cell "11" [ref=f35e246]
+                - cell "–" [ref=f35e247]
+              - row [ref=f35e248]:
+                - cell "Arimbi" [ref=f35e249]
+                - cell "152" [ref=f35e250]
+                - cell "19 × 8" [ref=f35e251]
+                - cell "20" [ref=f35e252]
+                - cell "80" [ref=f35e253]
+                - cell "40" [ref=f35e254]
+                - cell "30" [ref=f35e255]
+              - row [ref=f35e256]:
+                - cell "Jayagiri" [ref=f35e257]
+                - cell "272" [ref=f35e258]
+                - cell "17 × 16" [ref=f35e259]
+                - cell "130" [ref=f35e260]
+                - cell "200" [ref=f35e261]
+                - cell "100" [ref=f35e262]
+                - cell "120" [ref=f35e263]
+              - row [ref=f35e264]:
+                - cell "Layungwangi" [ref=f35e265]
+                - cell "21" [ref=f35e266]
+                - cell "7 × 3" [ref=f35e267]
+                - cell "–" [ref=f35e268]
+                - cell "–" [ref=f35e269]
+                - cell "–" [ref=f35e270]
+                - cell "–" [ref=f35e271]
+              - row [ref=f35e272]:
+                - cell "Niskala" [ref=f35e273]
+                - cell "170" [ref=f35e274]
+                - cell "17 × 10" [ref=f35e275]
+                - cell "50" [ref=f35e276]
+                - cell "100" [ref=f35e277]
+                - cell "40" [ref=f35e278]
+                - cell "40" [ref=f35e279]
+              - row [ref=f35e280]:
+                - cell "Wastukantjana" [ref=f35e281]
+                - cell "170" [ref=f35e282]
+                - cell "17 × 10" [ref=f35e283]
+                - cell "100" [ref=f35e284]
+                - cell "150" [ref=f35e285]
+                - cell "80" [ref=f35e286]
+                - cell "70" [ref=f35e287]
+              - row [ref=f35e288]:
+                - cell "Sri Baduga" [ref=f35e289]
+                - cell "119" [ref=f35e290]
+                - cell "17 × 7" [ref=f35e291]
+                - cell "60" [ref=f35e292]
+                - cell "100" [ref=f35e293]
+                - cell "50" [ref=f35e294]
+                - cell "50" [ref=f35e295]
+              - row [ref=f35e296]:
+                - cell "Citraganda" [ref=f35e297]
+                - cell "136" [ref=f35e298]
+                - cell "17 × 8" [ref=f35e299]
+                - cell "100" [ref=f35e300]
+                - cell "150" [ref=f35e301]
+                - cell "70" [ref=f35e302]
+                - cell "70" [ref=f35e303]
+              - row [ref=f35e304]:
+                - cell "Linggabumi" [ref=f35e305]
+                - cell "91" [ref=f35e306]
+                - cell "13 × 7" [ref=f35e307]
+                - cell "30" [ref=f35e308]
+                - cell "60" [ref=f35e309]
+                - cell "30" [ref=f35e310]
+                - cell "30" [ref=f35e311]
+              - row [ref=f35e312]:
+                - cell "Linggawarman" [ref=f35e313]
+                - cell "91" [ref=f35e314]
+                - cell "13 × 7" [ref=f35e315]
+                - cell "30" [ref=f35e316]
+                - cell "60" [ref=f35e317]
+                - cell "30" [ref=f35e318]
+                - cell "30" [ref=f35e319]
+              - row [ref=f35e320]:
+                - cell "Raga Suci" [ref=f35e321]
+                - cell "32" [ref=f35e322]
+                - cell "8 × 4" [ref=f35e323]
+                - cell "–" [ref=f35e324]
+                - cell "–" [ref=f35e325]
+                - cell "11" [ref=f35e326]
+                - cell "–" [ref=f35e327]
+          - heading "Venue Rental" [level=3] [ref=f35e328]
+          - generic [ref=f35e330]:
+            - tablist:
+              - tab "Jayagiri" [ref=f35e331] [cursor=pointer]
+              - tab "Half Malibu" [ref=f35e332] [cursor=pointer]
+              - tab "Dome Malibu" [ref=f35e333] [cursor=pointer]
+            - tabpanel "Jayagiri" [ref=f35e334]:
+              - paragraph [ref=f35e335]: "Max. capacity: 300 pax"
+              - paragraph [ref=f35e336]: "Size: 17×16 meters"
+              - paragraph [ref=f35e337]: "Ceiling height: 2.2 meters"
+              - paragraph [ref=f35e338]: "Dressing room: Available"
+              - paragraph [ref=f35e339]: "Electricity: 3,000 watts"
+              - paragraph [ref=f35e340]: "Stage: 4×2 meters"
+              - paragraph [ref=f35e341]: 100 pcs chairs
+              - paragraph [ref=f35e342]: "Price: Rp 20.000.000,-"
+          - heading "Meeting Facilities" [level=3] [ref=f35e343]
+          - paragraph [ref=f35e344]: – Screen – Projector – Standard Sound System – Pencils – Notepads – Stage – Green Plants – Flipchart – Mineral Water in Pitcher
+  - contentinfo [ref=f35e345]:
+    - generic [ref=f35e348]:
+      - generic [ref=f35e349]:
+        - link [ref=f35e351] [cursor=pointer]:
+          - /url: https://grandpasundanhotel.com/wp-content/themes/Alaric/img/logo-hotel/logo-color-footer.png)
+          - img "Grand Pasundan Hotel" [ref=f35e352]
+        - generic [ref=f35e353]:
+          - strong [ref=f35e354]: Grand Pasundan Hotel & Convention
+          - text: Jl. Peta No.147 - 149, Suka Asih, Kec. Bojongloa Kaler, Kota Bandung, Jawa Barat 40232 - Indonesia Telp. 022 6043135 Email. reservation@grandpasundanhotel.com
+      - list [ref=f35e357]:
+        - listitem [ref=f35e358]:
+          - link "Home" [ref=f35e359] [cursor=pointer]:
+            - /url: https://grandpasundanhotel.com/
+        - listitem [ref=f35e360]:
+          - link "Facilities" [ref=f35e361] [cursor=pointer]:
+            - /url: https://grandpasundanhotel.com/facilities/
+        - listitem [ref=f35e362]:
+          - link "Meetings & Convention" [ref=f35e363] [cursor=pointer]:
+            - /url: https://grandpasundanhotel.com/meetings/
+        - listitem [ref=f35e364]:
+          - link "Weddings" [ref=f35e365] [cursor=pointer]:
+            - /url: https://grandpasundanhotel.com/weddings/
+        - listitem [ref=f35e366]:
+          - link "News" [ref=f35e367] [cursor=pointer]:
+            - /url: https://grandpasundanhotel.com/news/
+        - listitem [ref=f35e368]:
+          - link "Contact" [ref=f35e369] [cursor=pointer]:
+            - /url: https://grandpasundanhotel.com/contact/
+      - generic [ref=f35e370]:
+        - list [ref=f35e371]:
+          - listitem [ref=f35e372]: Stay Connected
+          - listitem [ref=f35e373]:
+            - link "" [ref=f35e374] [cursor=pointer]:
+              - /url: https://www.instagram.com/grandpasundan
+          - listitem [ref=f35e376]:
+            - link "" [ref=f35e377] [cursor=pointer]:
+              - /url: https://www.facebook.com/grandpasundanhotel
+          - listitem [ref=f35e379]:
+            - link "" [ref=f35e380] [cursor=pointer]:
+              - /url: https://wa.me/08112266959
+        - separator [ref=f35e382]: "*"
+        - list [ref=f35e383]:
+          - listitem [ref=f35e384]
+          - listitem [ref=f35e386]
+          - listitem [ref=f35e388]
+          - listitem [ref=f35e390]
+  - text:     
+  - link "Whatsapp" [ref=f35e394] [cursor=pointer]:
+    - /url: https://web.whatsapp.com/send?phone=628112266959&text=
+    - paragraph [ref=f35e402]: Contact us

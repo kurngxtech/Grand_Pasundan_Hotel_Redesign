@@ -1,0 +1,460 @@
+- generic [active] [ref=f49e1]:
+  - generic:
+    - link "×" [ref=f49e2] [cursor=pointer]:
+      - /url: javascript:void(0)
+    - generic [ref=f49e3]:
+      - navigation:
+        - generic:
+          - list:
+            - listitem:
+              - link "Home":
+                - /url: https://grandpasundanhotel.com/
+            - listitem:
+              - link "Facilities":
+                - /url: https://grandpasundanhotel.com/facilities/
+            - listitem:
+              - link "Meetings & Convention":
+                - /url: https://grandpasundanhotel.com/meetings/
+            - listitem:
+              - link "Weddings":
+                - /url: https://grandpasundanhotel.com/weddings/
+            - listitem:
+              - link "News":
+                - /url: https://grandpasundanhotel.com/news/
+            - listitem:
+              - link "Contact":
+                - /url: https://grandpasundanhotel.com/contact/
+  - generic [ref=f49e4]:
+    - link "×" [ref=f49e5] [cursor=pointer]:
+      - /url: javascript:void(0)
+    - generic [ref=f49e8]:
+      - heading "Your Booking" [level=3] [ref=f49e10]
+      - generic [ref=f49e11]:
+        - generic [ref=f49e12]:
+          - table [ref=f49e17]:
+            - rowgroup [ref=f49e18]:
+              - row "october 2026" [ref=f49e19]:
+                - columnheader [ref=f49e20]:
+                  - generic [ref=f49e21] [cursor=pointer]
+                - columnheader "october 2026" [ref=f49e23]:
+                  - generic [ref=f49e24]: october
+                  - generic [ref=f49e25]: "2026"
+                - columnheader [ref=f49e26]:
+                  - generic [ref=f49e27] [cursor=pointer]
+              - row [ref=f49e29]:
+                - columnheader "su" [ref=f49e30]
+                - columnheader "mo" [ref=f49e31]
+                - columnheader "tu" [ref=f49e32]
+                - columnheader "we" [ref=f49e33]
+                - columnheader "th" [ref=f49e34]
+                - columnheader "fr" [ref=f49e35]
+                - columnheader "sa" [ref=f49e36]
+            - rowgroup [ref=f49e37]:
+              - row [ref=f49e38]:
+                - cell [ref=f49e39]
+                - cell [ref=f49e40]
+                - cell [ref=f49e41]
+                - cell [ref=f49e42]
+                - cell "1" [ref=f49e43]
+                - cell "2" [ref=f49e45]
+                - cell "3" [ref=f49e47]
+              - row [ref=f49e49]:
+                - cell "4" [ref=f49e50]
+                - cell "5" [ref=f49e52]
+                - cell "6" [ref=f49e54]
+                - cell "7" [ref=f49e56]
+                - cell "8" [ref=f49e58]
+                - cell "9" [ref=f49e60]
+                - cell "10" [ref=f49e62]
+              - row [ref=f49e64]:
+                - cell "11" [ref=f49e65]
+                - cell "12" [ref=f49e67]
+                - cell "13" [ref=f49e69]
+                - cell "14" [ref=f49e71]
+                - cell "15" [ref=f49e73]
+                - cell "16" [ref=f49e75]
+                - cell "17" [ref=f49e77]
+              - row [ref=f49e79]:
+                - cell "18" [ref=f49e80]
+                - cell "19" [ref=f49e82]
+                - cell "20" [ref=f49e84]
+                - cell "21" [ref=f49e86]
+                - cell "22" [ref=f49e88]
+                - cell "23" [ref=f49e90]
+                - cell "24 608K" [ref=f49e92]
+              - row [ref=f49e94]:
+                - cell "25 395.2K" [ref=f49e95]
+                - cell "26 395.2K" [ref=f49e97]
+                - cell "27 395.2K" [ref=f49e99]
+                - cell "28 395.2K" [ref=f49e101]
+                - cell "29 395.2K" [ref=f49e103]
+                - cell "30 494K" [ref=f49e105]
+                - cell "31 494K" [ref=f49e107]
+          - generic [ref=f49e110]:
+            - paragraph [ref=f49e111]:
+              - generic [ref=f49e112]: Checkin - Checkout
+            - generic [ref=f49e115]:
+              - generic [ref=f49e116]: Date
+              - strong [ref=f49e118]: Sat, Oct 24 2026 - Sun, Oct 25 2026
+          - generic [ref=f49e119]:
+            - paragraph [ref=f49e120]:
+              - generic [ref=f49e121]: Guest
+            - generic [ref=f49e124]:
+              - generic [ref=f49e125]:
+                - paragraph [ref=f49e126]: Adult
+                - paragraph [ref=f49e127]: Ages 18 or above
+              - generic [ref=f49e129]:
+                - generic [ref=f49e130] [cursor=pointer]: "-"
+                - generic [ref=f49e131]: "2"
+                - generic [ref=f49e132] [cursor=pointer]: +
+            - generic [ref=f49e133]:
+              - generic [ref=f49e134]:
+                - paragraph [ref=f49e135]: Children
+                - paragraph [ref=f49e136]: Ages 0 - 17
+              - generic [ref=f49e138]:
+                - generic [ref=f49e139] [cursor=pointer]: "-"
+                - generic [ref=f49e140]: "0"
+                - generic [ref=f49e141] [cursor=pointer]: +
+          - generic [ref=f49e142]:
+            - paragraph [ref=f49e143]:
+              - generic [ref=f49e144]: Promocode
+            - textbox "Enter promo code" [ref=f49e148]
+        - button "Check Availability" [ref=f49e150] [cursor=pointer]
+  - generic [ref=f49e151]:
+    - banner [ref=f49e152]:
+      - generic [ref=f49e153]:
+        - link "menu" [ref=f49e155] [cursor=pointer]:
+          - /url: "#"
+        - list [ref=f49e161]:
+          - listitem [ref=f49e162]:
+            - link "Rooms" [ref=f49e163] [cursor=pointer]:
+              - /url: https://grandpasundanhotel.com/rooms/
+          - listitem [ref=f49e164]:
+            - link "Offers" [ref=f49e165] [cursor=pointer]:
+              - /url: https://grandpasundanhotel.com/offers/
+          - listitem [ref=f49e166]:
+            - link "Gallery" [ref=f49e167] [cursor=pointer]:
+              - /url: https://grandpasundanhotel.com/gallery/
+        - link [ref=f49e170] [cursor=pointer]:
+          - /url: https://grandpasundanhotel.com/
+          - img "Grand Pasundan Hotel" [ref=f49e171]
+        - link "book now" [ref=f49e173] [cursor=pointer]:
+          - /url: "#"
+    - main [ref=f49e177]:
+      - heading "News" [level=1] [ref=f49e179]
+      - generic [ref=f49e181]:
+        - heading [level=2] [ref=f49e182]:
+          - strong [ref=f49e183]: GRAND PASUNDAN CONVENTION HOTEL HADIRKAN “OCTOBERHEMAT”, PROMO SPESIAL UNTUK STAYCATION DAN MEETING DI BANDUNG
+        - paragraph [ref=f49e184]
+        - heading [level=3] [ref=f49e185]:
+          - strong [ref=f49e186]: Nikmati Kamar Deluxe Mulai Rp610.100 Nett/Room/Night dan Paket Meeting Mulai Rp101.101 Nett/Pax
+        - paragraph [ref=f49e187]:
+          - strong [ref=f49e188]: Bandung, Oktober 2026
+          - text: — Menyambut bulan Oktober,
+          - strong [ref=f49e189]: Grand Pasundan Convention Hotel Bandung
+          - text: kembali menghadirkan penawaran spesial melalui program
+          - strong [ref=f49e190]: “
+          - strong [ref=f49e191]: OctoBERHEMAT”
+          - text: . Mengusung konsep hemat namun tetap memberikan pengalaman menginap dan pertemuan yang nyaman, promo ini menghadirkan dua pilihan penawaran menarik, yaitu
+          - strong [ref=f49e192]: Room Package
+          - text: dan
+          - strong [ref=f49e193]: Meeting Package
+          - text: .
+        - paragraph [ref=f49e194]:
+          - text: Melalui program “OctoberHemat”, masyarakat dapat menikmati pengalaman menginap di kamar Deluxe dengan harga mulai dari
+          - strong [ref=f49e195]: Rp610.100 nett/room/night
+          - text: ", sekaligus mendapatkan berbagai benefit yang dirancang untuk membuat pengalaman staycation di Bandung semakin lengkap."
+        - heading [level=2] [ref=f49e196]:
+          - strong [ref=f49e197]: Staycation Nyaman dengan Beragam Benefit
+        - paragraph [ref=f49e198]:
+          - text: Untuk pilihan
+          - strong [ref=f49e199]: Room Package
+          - text: ", tamu dapat menikmati pengalaman menginap di Deluxe Room yang sudah termasuk"
+          - strong [ref=f49e200]: sarapan untuk 2 orang
+          - text: .
+        - paragraph [ref=f49e201]:
+          - text: Tidak hanya itu, tamu juga akan mendapatkan
+          - strong [ref=f49e202]: Free 1 portion Peuyeum Goreng Haneuteun
+          - text: ", salah satu sajian yang dapat melengkapi pengalaman kuliner selama berada di Grand Pasundan Convention Hotel."
+        - paragraph [ref=f49e203]:
+          - text: Tamu juga dapat menikmati
+          - strong [ref=f49e204]: akses gratis ke seluruh fasilitas hotel
+          - text: ", sehingga waktu menginap dapat dimanfaatkan untuk bersantai dan menikmati berbagai fasilitas yang tersedia."
+        - paragraph [ref=f49e205]:
+          - text: Bagi tamu yang ingin memperpanjang masa tinggal,
+          - strong [ref=f49e206]: “OctoBERHEMAT”
+          - text: "juga menawarkan keuntungan tambahan berupa:"
+        - list [ref=f49e207]:
+          - listitem [ref=f49e208]:
+            - strong [ref=f49e209]: 10% off
+            - text: untuk malam tambahan pertama
+          - listitem [ref=f49e210]:
+            - strong [ref=f49e211]: 25% off
+            - text: untuk malam tambahan kedua
+        - paragraph [ref=f49e212]:
+          - text: Dengan kombinasi harga dan benefit tersebut,
+          - strong [ref=f49e213]: “OctoBERHEMAT”
+          - text: menjadi pilihan menarik bagi masyarakat yang ingin menikmati
+          - strong [ref=f49e214]: staycation di Bandung dengan lebih hemat tanpa mengurangi kenyamanan
+          - text: .
+        - heading [level=2] [ref=f49e215]:
+          - strong [ref=f49e216]
+        - heading [level=2] [ref=f49e217]:
+          - strong [ref=f49e218]: Meeting Package Mulai Rp101.101 Nett/Pax
+        - paragraph [ref=f49e219]:
+          - text: Tidak hanya menawarkan promo untuk kebutuhan leisure, Grand Pasundan Convention Hotel juga menghadirkan
+          - strong [ref=f49e220]: Meeting Package
+          - text: dalam program “OctoberHemat”.
+        - paragraph [ref=f49e221]:
+          - text: Paket meeting ditawarkan dengan harga mulai dari
+          - strong [ref=f49e222]: Rp101.101 nett/pax
+          - text: ", sehingga dapat menjadi alternatif bagi perusahaan, komunitas, instansi, maupun organisasi yang membutuhkan tempat meeting dengan fasilitas yang lengkap dan nyaman."
+        - paragraph [ref=f49e223]:
+          - text: Dengan paket tersebut, peserta mendapatkan
+          - strong [ref=f49e224]: 3 Hours Meeting Room Usage
+          - text: dengan ketentuan minimum reservasi sebanyak
+          - strong [ref=f49e225]: 20 pax
+          - text: .
+        - paragraph [ref=f49e226]:
+          - text: Untuk mendukung kelancaran presentasi dan kegiatan meeting, fasilitas yang tersedia meliputi
+          - strong [ref=f49e227]: infocus & screen serta Smart Board TV Interactive
+          - text: . Paket ini juga telah memperhitungkan
+          - strong [ref=f49e228]: 21% tax & service
+          - text: ", sehingga memberikan kemudahan bagi penyelenggara dalam mempersiapkan kebutuhan kegiatan."
+        - paragraph [ref=f49e229]:
+          - text: “Melalui program
+          - strong [ref=f49e230]: OctoBERHEMAT,
+          - text: kami ingin memberikan pilihan yang lebih fleksibel bagi masyarakat, baik untuk kebutuhan staycation maupun meeting. Kami berharap promo ini dapat memberikan pengalaman yang nyaman sekaligus memberikan nilai lebih bagi tamu yang memilih Grand Pasundan Convention Hotel,” ujar
+          - emphasis [ref=f49e231]: Irina Yusha Fadilah, Sales & Marketing Manager Grand Pasundan Convention Hotel.
+        - paragraph [ref=f49e232]:
+          - text: Program
+          - strong [ref=f49e233]: “
+          - strong [ref=f49e234]: OctoBERHEMAT”
+          - text: menjadi salah satu bentuk komitmen Grand Pasundan Convention Hotel untuk terus menghadirkan penawaran yang relevan dengan kebutuhan masyarakat, baik untuk perjalanan leisure, quality time bersama keluarga, maupun kebutuhan bisnis dan kegiatan perusahaan.
+        - paragraph [ref=f49e235]:
+          - text: Dengan lokasi yang strategis di Kota Bandung serta fasilitas yang mendukung kebutuhan
+          - strong [ref=f49e236]: accommodation, meeting, convention, dan event
+          - text: ", Grand Pasundan Convention Hotel menjadi salah satu pilihan bagi masyarakat yang mencari pengalaman hospitality dalam satu lokasi."
+        - heading [level=2] [ref=f49e237]:
+          - strong [ref=f49e238]
+        - heading [level=2] [ref=f49e239]:
+          - strong [ref=f49e240]: Tentang Grand Pasundan Convention Hotel
+        - paragraph [ref=f49e241]:
+          - strong [ref=f49e242]: Grand Pasundan Convention Hotel
+          - text: merupakan hotel bintang empat di Kota Bandung yang menawarkan pengalaman hospitality dengan konsep yang memadukan kenyamanan modern dan identitas Pasundan. Grand Pasundan Convention Hotel adalah hotel bintang empat yang dikenal sebagai salah satu ikon perhotelan di Kota Bandung, menawarkan 164 kamar terbaru 3 Bedroom Pasundan Suite, 15 ruang meeting, dan ballroom berkapasitas hingga 1.200 orang. Dengan akses mudah dari gerbang tol Pasir Koja dan dekat dengan pusat bisnis serta destinasi wisata, hotel ini menjadi pilihan strategis bagi tamu local maupun internasional.
+        - heading [level=3] [ref=f49e243]:
+          - strong [ref=f49e244]: Informasi & Reservasi
+        - paragraph [ref=f49e245]:
+          - strong [ref=f49e246]: Grand Pasundan Convention Hotel
+          - text: Jalan Peta No. 147–149, Bandung 40233
+          - strong [ref=f49e247]: "WhatsApp:"
+          - text: 0811-2266-959
+          - strong [ref=f49e248]: "Telepon:"
+          - text: (022) 6043135
+          - strong [ref=f49e249]: "Email:"
+          - text: reservation@grandpasundanhotel.com
+          - strong [ref=f49e250]: "Website:"
+          - link "www.grandpasundanhotel.com" [ref=f49e251] [cursor=pointer]:
+            - /url: https://grandpasundanhotel.com/?utm_source=chatgpt.com
+        - paragraph [ref=f49e252]:
+          - strong [ref=f49e253]: Terms & Conditions apply.
+        - paragraph [ref=f49e254]
+        - paragraph [ref=f49e255]
+        - separator [ref=f49e256]
+        - heading [level=2] [ref=f49e257]:
+          - strong [ref=f49e258]: GRAND PASUNDAN CONVENTION HOTEL DUKUNG HARI JADI KOTA BANDUNG KE-216 TINGKAT KECAMATAN BOJONGLOA KALER
+        - paragraph [ref=f49e259]
+        - paragraph [ref=f49e260]:
+          - strong [ref=f49e261]: Memperkuat Komitmen Melestarikan Budaya Pasundan melalui Dukungan terhadap Kegiatan Masyarakat
+        - paragraph [ref=f49e262]:
+          - strong [ref=f49e263]: Bandung, September 2026
+          - text: — Dalam rangka memperingati
+          - strong [ref=f49e264]: Hari Jadi Kota Bandung (HJKB) ke-216 Tahun 2026
+          - text: ", Grand Pasundan Convention Hotel turut berpartisipasi mendukung rangkaian kegiatan tingkat"
+          - strong [ref=f49e265]: Kecamatan Bojongloa Kaler
+          - text: melalui dukungan sponsorship.
+        - paragraph [ref=f49e266]: Partisipasi ini merupakan bentuk komitmen Grand Pasundan Convention Hotel dalam mendukung kegiatan positif yang melibatkan masyarakat sekaligus menjadi bagian dari upaya menjaga dan memperkenalkan kekayaan budaya lokal Kota Bandung dan Jawa Barat.
+        - paragraph [ref=f49e267]:
+          - text: Pemilihan Kecamatan Bojongloa Kaler sebagai salah satu kegiatan yang didukung oleh Grand Pasundan Convention Hotel tidak terlepas dari konsep rangkaian acara yang menghadirkan
+          - strong [ref=f49e268]: beragam perlombaan dan aktivitas yang sarat dengan unsur budaya dan kearifan lokal
+          - text: .
+        - paragraph [ref=f49e269]:
+          - text: Hal tersebut dinilai sangat sejalan dengan identitas dan nilai yang diusung Grand Pasundan Convention Hotel melalui slogan
+          - strong [ref=f49e270]: “Preserve Pasundan Tradition.”
+        - paragraph [ref=f49e271]:
+          - strong [ref=f49e272]: “Kami melihat kegiatan Hari Jadi Kota Bandung ke-216 tingkat Kecamatan Bojongloa Kaler memiliki nilai yang sangat positif, khususnya karena banyak kegiatan dan perlombaan yang mengangkat budaya serta kearifan lokal. Hal ini sangat relevan dengan semangat Grand Pasundan untuk terus menjaga dan melestarikan tradisi Pasundan melalui slogan kami, ‘Preserve Pasundan Tradition’,”
+          - text: ujar Irina Yusha Fadilah sebagai Sales Marketing Manager Grand Pasundan Convention Hotel.
+        - paragraph [ref=f49e273]: Menurut Grand Pasundan Convention Hotel, pelestarian budaya tidak hanya dilakukan melalui kegiatan formal, tetapi juga dapat diwujudkan melalui dukungan terhadap aktivitas masyarakat yang memberikan ruang bagi generasi muda untuk mengenal, menikmati, dan ikut melestarikan budaya daerah.
+        - paragraph [ref=f49e274]: Rangkaian kegiatan HJKB ke-216 di tingkat Kecamatan Bojongloa Kaler diharapkan dapat menjadi momentum untuk mempererat kebersamaan masyarakat sekaligus menumbuhkan rasa bangga terhadap identitas dan budaya Kota Bandung.
+        - paragraph [ref=f49e275]: Melalui sponsorship ini, Grand Pasundan Convention Hotel berharap dapat terus membangun hubungan yang baik dengan masyarakat dan berbagai pemangku kepentingan di wilayah Bandung, sekaligus mengambil bagian dalam kegiatan yang memberikan dampak positif bagi lingkungan sekitar.
+        - paragraph [ref=f49e276]:
+          - text: Sebagai hotel yang membawa nama
+          - strong [ref=f49e277]: Pasundan
+          - text: ", Grand Pasundan Convention Hotel berkomitmen untuk tidak hanya menjadi bagian dari perkembangan industri hospitality di Bandung, tetapi juga turut menjaga nilai-nilai budaya dan kearifan lokal yang menjadi bagian dari identitas Jawa Barat."
+        - paragraph [ref=f49e278]:
+          - strong [ref=f49e279]: “Preserve Pasundan Tradition”
+          - text: bukan sekadar slogan, tetapi menjadi semangat Grand Pasundan Convention Hotel untuk terus hadir, mendukung, dan berkontribusi dalam berbagai kegiatan yang memiliki nilai budaya serta memberikan manfaat bagi masyarakat.
+          - strong [ref=f49e280]: ”
+        - paragraph [ref=f49e281]
+        - separator [ref=f49e282]
+        - heading [level=2] [ref=f49e283]:
+          - strong [ref=f49e284]: September Bersama” Hadir di Grand Pasundan Convention Hotel, Nikmati Staycation Lengkap dengan Beragam Benefit Menarik
+        - paragraph [ref=f49e285]:
+          - strong [ref=f49e286]
+        - paragraph [ref=f49e287]:
+          - text: Bandung, September 2026 — Menyambut bulan September, Grand Pasundan Convention Hotel Bandung menghadirkan program spesial bertajuk
+          - strong [ref=f49e288]: “SeptemBersama”,
+          - text: sebuah promo yang dirancang untuk memberikan pengalaman menginap yang lebih lengkap dan menyenangkan bagi para tamu, khususnya keluarga maupun wisatawan yang ingin menikmati momen liburan di Kota Bandung.
+        - paragraph [ref=f49e289]: Melalui program ini, tamu dapat menikmati harga spesial mulai dari Rp688.818 nett/room/night, dengan berbagai keuntungan yang telah dipersiapkan untuk melengkapi pengalaman menginap.
+        - paragraph [ref=f49e290]:
+          - text: Dengan harga tersebut, tamu akan mendapatkan kamar Deluxe termasuk sarapan untuk 2 orang, akses gratis ke swimming pool dan fitness center, serta Free Fettuccine Al Forno untuk 2 orang. Tidak hanya itu, program “Septem
+          - strong [ref=f49e291]: Bersama
+          - text: ” juga memberikan berbagai benefit tambahan yang semakin menarik.
+        - paragraph [ref=f49e292]: Bagi tamu yang sedang merayakan ulang tahun selama periode menginap, Grand Pasundan Convention Hotel memberikan kesempatan untuk merayakan birthday dengan special 10% discount. Tamu juga dapat menikmati diskon 10% untuk seluruh menu Food & Beverage di outlet hotel, serta kesempatan mendapatkan free room upgrade dengan ketentuan berdasarkan ketersediaan kamar.
+        - paragraph [ref=f49e293]: Yang membuat program ini semakin istimewa, tamu juga berkesempatan mendapatkan Free Ticket The Lodge Maribaya, destinasi wisata alam populer di kawasan Bandung yang menawarkan pengalaman menikmati suasana sejuk dan keindahan alam.
+        - paragraph [ref=f49e294]:
+          - strong [ref=f49e295]: “Melalui program September Bersama, kami ingin memberikan lebih dari sekadar pengalaman menginap. Kami ingin tamu dapat menikmati berbagai fasilitas, kuliner, rekreasi, sekaligus menghabiskan quality time bersama keluarga maupun orang-orang terdekat selama berada di Bandung,”
+          - text: ujar Irina Yusha Fadilah, Sales & Marketing Manager Grand Pasundan Convention Hotel.
+        - paragraph [ref=f49e296]: Program “September Bersama” berlaku untuk stay period selama bulan September 2026, dengan syarat dan ketentuan yang berlaku. Promo ini menjadi pilihan menarik bagi masyarakat yang ingin menikmati staycation di Bandung dengan berbagai benefit dalam satu paket.
+        - paragraph [ref=f49e297]
+        - paragraph [ref=f49e298]:
+          - strong [ref=f49e299]: Tentang Grand Pasundan Convention Hotel
+        - paragraph [ref=f49e300]: Grand Pasundan Convention Hotel adalah hotel bintang empat yang dikenal sebagai salah satu ikon perhotelan di Kota Bandung, menawarkan 164 kamar terbaru 3 Bedroom Pasundan Suite, 15 ruang meeting, dan ballroom berkapasitas hingga 1.200 orang. Dengan akses mudah dari gerbang tol Pasir Koja dan dekat dengan pusat bisnis serta destinasi wisata, hotel ini menjadi pilihan strategis bagi tamu local maupun internasional.
+        - paragraph [ref=f49e301]
+        - paragraph [ref=f49e302]:
+          - strong [ref=f49e303]: "Informasi & Reservasi :"
+        - paragraph [ref=f49e304]:
+          - text: "Grand Pasundan Convention Hotel Jalan Peta No. 147-149 Bandung Email:"
+          - link "reservation@grandpasundanhotel.com" [ref=f49e305] [cursor=pointer]:
+            - /url: mailto:info@grandpasundanhotel.com
+          - text: "Hotline Whatsapp : 0811-2266-959 Telepon: (022) 6043135 Website: www.grandpasundanhotel.com"
+        - paragraph [ref=f49e306]
+        - separator [ref=f49e307]
+        - heading [level=2] [ref=f49e308]:
+          - strong [ref=f49e309]: GRAND PASUNDAN CONVENTION HOTEL HADIRKAN “KAMPUNG RAMADHAN” JEJAK RASA KULINER NUSANTARA
+        - heading [level=2] [ref=f49e310]:
+          - strong [ref=f49e311]: UNTUK MOMEN IFTAR ISTIMEWA
+        - paragraph [ref=f49e312]
+        - paragraph [ref=f49e313]:
+          - generic [ref=f49e314]:
+            - text: Bandung, Februari 2026 — Dalam semangat menyambut bulan suci Ramadan 2026, Grand Pasundan Convention Hotel kembali menghadirkan program buka puasa tematik bertajuk
+            - emphasis [ref=f49e315]: "Kampung Ramadhan: Jejak Rasa Kuliner Nusantara"
+            - text: . Mengangkat kekayaan cita rasa tradisional Indonesia, program ini menjadi wujud komitmen hotel dalam menghadirkan pengalaman iftar yang tidak hanya lezat, tetapi juga sarat makna kebersamaan dan budaya. Konsep ini menjadikan Kampung Ramadhan sebagai pilihan ideal untuk acara buka puasa bersama keluarga besar, komunitas, hingga gathering perusahaan yang mengutamakan kenyamanan dan kualitas pelayanan.
+        - paragraph [ref=f49e316]:
+          - text: Berlokasi di
+          - strong [ref=f49e317]: Coffeeshop Restaurant, Lantai Lobby
+          - text: ", para tamu dapat menikmati beragam sajian tradisional mulai dari takjil khas Nusantara, aneka gorengan, jajanan pasar, hingga hidangan utama yang menggugah selera. Konsep Kampung Ramadhan dihadirkan untuk membawa nostalgia kuliner Indonesia sekaligus menciptakan momen berbuka puasa yang berkesan bersama keluarga, kolega, maupun sahabat."
+        - paragraph [ref=f49e318]:
+          - text: Program iftar ini ditawarkan dengan harga Rp150.000 nett per pax, dilengkapi berbagai penawaran spesial selama periode Ramadan, seperti promo
+          - strong [ref=f49e319]: buy 4 get 1 free
+          - text: pada 20 hingga 27 Februari 2026 serta
+          - strong [ref=f49e320]: buy 10 get 1 free
+          - text: yang berlaku mulai 28 Februari hingga 16 Maret 2026. Sebagai bentuk apresiasi kepada para tamu, hotel turut menghadirkan
+          - strong [ref=f49e321]: program undian berhadiah satu ekor kambing
+          - text: yang dapat diikuti sepanjang periode Kampung Ramadhan berlangsung. Program ini diharapkan dapat menambah antusiasme serta memberikan pengalaman Ramadan yang semakin berkesan.
+        - paragraph [ref=f49e322]: “Melalui Kampung Ramadhan, kami ingin menghadirkan pengalaman iftar yang tidak hanya lezat, tetapi juga penuh makna dan nuansa kebersamaan khas Ramadan, dengan mengangkat kekayaan kuliner Nusantara,” ujar Food & Beverage Manager, Dani Kurniawan.
+        - paragraph [ref=f49e323]:
+          - strong [ref=f49e324]: Tentang Grand Pasundan Convention Hotel
+        - paragraph [ref=f49e325]: Grand Pasundan Convention Hotel adalah hotel bintang empat yang dikenal sebagai salah satu ikon perhotelan di Kota Bandung, menawarkan 155 Kamar, 7 Suites, kamar terbaru 3 Bedroom Pasundan Suite, 15 ruang meeting, dan ballroom berkapasitas hingga 1.200 orang. Dengan akses mudah dari gerbang tol Pasir Koja dan dekat dengan pusat bisnis serta destinasi wisata, hotel ini menjadi pilihan strategis bagi tamu local maupun internasional.
+        - paragraph [ref=f49e326]:
+          - strong [ref=f49e327]: "Informasi & Reservasi :"
+        - paragraph [ref=f49e328]:
+          - text: "Grand Pasundan Convention Hotel Jalan Peta No. 147-149 Bandung Email:"
+          - link "reservation@grandpasundanhotel.com" [ref=f49e330] [cursor=pointer]:
+            - /url: mailto:info@grandpasundanhotel.com
+          - text: "Hotline Whatsapp : 0811-2266-959 Telepon: (022) 6043135 Website: www.grandpasundanhotel.com"
+        - separator [ref=f49e331]
+        - heading [level=2] [ref=f49e332]:
+          - strong [ref=f49e333]: Waktunya Olahraga! Akses sehat
+        - heading [level=2] [ref=f49e334]:
+          - strong [ref=f49e335]: Tanpa harus menginap di Grand Pasundan Convention Hotel.
+        - paragraph [ref=f49e336]
+        - paragraph [ref=f49e339]: Fitness Center
+        - paragraph [ref=f49e342]: Swimming Pool
+        - paragraph [ref=f49e343]:
+          - strong [ref=f49e344]: Bandung,
+          - strong [ref=f49e345]: "10"
+          - strong [ref=f49e346]: November 2025
+          - text: — Menjawab kebutuhan tamu
+          - generic [ref=f49e347]:
+            - text: akan gaya hidup sehat dan aktif,
+            - strong [ref=f49e348]: Grand Pasundan Convention Hotel
+          - text: memberikan program
+          - strong [ref=f49e349]: Membership Swimming Pool dan Fitness Center
+          - text: dengan harga yang lebih terjangkau dan fleksibel untuk berbagai periode keanggotaan tanpa harus menginap.
+        - paragraph [ref=f49e350]: Program ini memungkinkan masyarakat umum untuk menikmati fasilitas olahraga hotel dengan biaya yang ramah di kantong. Dengan suasana yang tenang, bersih, dan nyaman, Grand Pasundan Convention Hotel menjadi pilihan ideal bagi siapa pun yang ingin menjaga kebugaran tubuh di tengah kesibukan aktivitas harian.
+        - paragraph [ref=f49e351]:
+          - generic [ref=f49e352]:
+            - text: Untuk
+            - strong [ref=f49e353]: Swimming Pool Membership
+            - text: ", harga keanggotaan dimulai dari"
+            - strong [ref=f49e354]: Rp300.000 untuk 1 bulan
+            - text: ", Rp700.000 untuk 3 bulan, Rp1.100.000 untuk 6 bulan, hingga Rp2.000.000 untuk 12 bulan. Sementara untuk"
+            - strong [ref=f49e355]: Fitness Membership
+            - text: ", tersedia pilihan mulai dari"
+            - strong [ref=f49e356]: Rp150.000 untuk 1 bulan
+            - text: ", Rp350.000 untuk 3 bulan, Rp650.000 untuk 6 bulan, hingga Rp1.100.000 untuk 12 bulan."
+        - paragraph [ref=f49e357]: Dengan menjadi anggota, pengguna dapat menikmati fasilitas kolam renang yang luas dan bersih, ideal untuk berolahraga maupun bersantai bersama keluarga. Sementara fasilitas fitness center dilengkapi dengan peralatan yang mendukung berbagai jenis latihan, mulai dari cardio hingga strength training.
+        - paragraph [ref=f49e358]: “Program membership ini kami hadirkan sebagai bentuk komitmen Grand Pasundan Covention Hotel dalam mendukung gaya hidup sehat bagi masyarakat umum. Kami ingin menjadikan fasilitas hotel kami lebih terbuka dan mudah diakses, bukan hanya bagi tamu menginap, tapi juga bagi warga sekitar,” ujar Irawan Trimulia/General Manager Grand Pasundan Convention Hotel.
+        - paragraph [ref=f49e359]:
+          - strong [ref=f49e360]: Tentang Grand Pasundan Convention Hotel
+        - paragraph [ref=f49e361]: Grand Pasundan adalah hotel bintang empat yang dikenal sebagai salah satu ikon perhotelan di Bandung, menawarkan 155 Kamar, 7 Suites, kamar terbaru 3 Bedroom Pasundan Suite, 15 ruang meeting, dan ballroom berkapasitas hingga 1.200 orang. Dengan akses mudah dari gerbang tol Pasir Koja dan dekat dengan pusat bisnis serta destinasi wisata, hotel ini menjadi pilihan strategis bagi tamu lokal maupun internasional.
+        - paragraph [ref=f49e362]:
+          - strong [ref=f49e363]: "Informasi & Reservasi :"
+        - paragraph [ref=f49e364]:
+          - text: "Grand Pasundan Convention Hotel Jalan Peta No. 147-149 Bandung Email:"
+          - link "reservation@grandpasundanhotel.com" [ref=f49e365] [cursor=pointer]:
+            - /url: mailto:info@grandpasundanhotel.com
+          - text: "Hotline Whatsapp : 0811-2266-959 Telepon: (022) 6043135 Website: www.grandpasundanhotel.com"
+        - paragraph [ref=f49e366]
+        - paragraph [ref=f49e367]
+  - contentinfo [ref=f49e368]:
+    - generic [ref=f49e371]:
+      - generic [ref=f49e372]:
+        - link [ref=f49e374] [cursor=pointer]:
+          - /url: https://grandpasundanhotel.com/wp-content/themes/Alaric/img/logo-hotel/logo-color-footer.png)
+          - img "Grand Pasundan Hotel" [ref=f49e375]
+        - generic [ref=f49e376]:
+          - strong [ref=f49e377]: Grand Pasundan Hotel & Convention
+          - text: Jl. Peta No.147 - 149, Suka Asih, Kec. Bojongloa Kaler, Kota Bandung, Jawa Barat 40232 - Indonesia Telp. 022 6043135 Email. reservation@grandpasundanhotel.com
+      - list [ref=f49e380]:
+        - listitem [ref=f49e381]:
+          - link "Home" [ref=f49e382] [cursor=pointer]:
+            - /url: https://grandpasundanhotel.com/
+        - listitem [ref=f49e383]:
+          - link "Facilities" [ref=f49e384] [cursor=pointer]:
+            - /url: https://grandpasundanhotel.com/facilities/
+        - listitem [ref=f49e385]:
+          - link "Meetings & Convention" [ref=f49e386] [cursor=pointer]:
+            - /url: https://grandpasundanhotel.com/meetings/
+        - listitem [ref=f49e387]:
+          - link "Weddings" [ref=f49e388] [cursor=pointer]:
+            - /url: https://grandpasundanhotel.com/weddings/
+        - listitem [ref=f49e389]:
+          - link "News" [ref=f49e390] [cursor=pointer]:
+            - /url: https://grandpasundanhotel.com/news/
+        - listitem [ref=f49e391]:
+          - link "Contact" [ref=f49e392] [cursor=pointer]:
+            - /url: https://grandpasundanhotel.com/contact/
+      - generic [ref=f49e393]:
+        - list [ref=f49e394]:
+          - listitem [ref=f49e395]: Stay Connected
+          - listitem [ref=f49e396]:
+            - link "" [ref=f49e397] [cursor=pointer]:
+              - /url: https://www.instagram.com/grandpasundan
+          - listitem [ref=f49e399]:
+            - link "" [ref=f49e400] [cursor=pointer]:
+              - /url: https://www.facebook.com/grandpasundanhotel
+          - listitem [ref=f49e402]:
+            - link "" [ref=f49e403] [cursor=pointer]:
+              - /url: https://wa.me/08112266959
+        - separator [ref=f49e405]: "*"
+        - list [ref=f49e406]:
+          - listitem [ref=f49e407]
+          - listitem [ref=f49e409]
+          - listitem [ref=f49e411]
+          - listitem [ref=f49e413]
+  - text:     
+  - link "Whatsapp" [ref=f49e417] [cursor=pointer]:
+    - /url: https://web.whatsapp.com/send?phone=628112266959&text=
+    - paragraph [ref=f49e425]: Contact us

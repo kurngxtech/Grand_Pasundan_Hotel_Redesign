@@ -1,0 +1,398 @@
+- generic [active] [ref=f7e1]:
+  - generic:
+    - link "×" [ref=f7e2] [cursor=pointer]:
+      - /url: javascript:void(0)
+    - generic [ref=f7e3]:
+      - navigation:
+        - generic:
+          - list:
+            - listitem:
+              - link "Home":
+                - /url: https://grandpasundanhotel.com/
+            - listitem:
+              - link "Facilities":
+                - /url: https://grandpasundanhotel.com/facilities/
+            - listitem:
+              - link "Meetings & Convention":
+                - /url: https://grandpasundanhotel.com/meetings/
+            - listitem:
+              - link "Weddings":
+                - /url: https://grandpasundanhotel.com/weddings/
+            - listitem:
+              - link "News":
+                - /url: https://grandpasundanhotel.com/news/
+            - listitem:
+              - link "Contact":
+                - /url: https://grandpasundanhotel.com/contact/
+  - generic [ref=f7e4]:
+    - link "×" [ref=f7e5] [cursor=pointer]:
+      - /url: javascript:void(0)
+    - generic [ref=f7e8]:
+      - heading "Your Booking" [level=3] [ref=f7e10]
+      - generic [ref=f7e11]:
+        - generic [ref=f7e12]:
+          - table [ref=f7e17]:
+            - rowgroup [ref=f7e18]:
+              - row "october 2026" [ref=f7e19]:
+                - columnheader [ref=f7e20]:
+                  - generic [ref=f7e21] [cursor=pointer]
+                - columnheader "october 2026" [ref=f7e23]:
+                  - generic [ref=f7e24]: october
+                  - generic [ref=f7e25]: "2026"
+                - columnheader [ref=f7e26]:
+                  - generic [ref=f7e27] [cursor=pointer]
+              - row [ref=f7e29]:
+                - columnheader "su" [ref=f7e30]
+                - columnheader "mo" [ref=f7e31]
+                - columnheader "tu" [ref=f7e32]
+                - columnheader "we" [ref=f7e33]
+                - columnheader "th" [ref=f7e34]
+                - columnheader "fr" [ref=f7e35]
+                - columnheader "sa" [ref=f7e36]
+            - rowgroup [ref=f7e37]:
+              - row [ref=f7e38]:
+                - cell [ref=f7e39]
+                - cell [ref=f7e40]
+                - cell [ref=f7e41]
+                - cell [ref=f7e42]
+                - cell "1" [ref=f7e43]
+                - cell "2" [ref=f7e45]
+                - cell "3" [ref=f7e47]
+              - row [ref=f7e49]:
+                - cell "4" [ref=f7e50]
+                - cell "5" [ref=f7e52]
+                - cell "6" [ref=f7e54]
+                - cell "7" [ref=f7e56]
+                - cell "8" [ref=f7e58]
+                - cell "9" [ref=f7e60]
+                - cell "10" [ref=f7e62]
+              - row [ref=f7e64]:
+                - cell "11" [ref=f7e65]
+                - cell "12" [ref=f7e67]
+                - cell "13" [ref=f7e69]
+                - cell "14" [ref=f7e71]
+                - cell "15" [ref=f7e73]
+                - cell "16" [ref=f7e75]
+                - cell "17" [ref=f7e77]
+              - row [ref=f7e79]:
+                - cell "18" [ref=f7e80]
+                - cell "19" [ref=f7e82]
+                - cell "20" [ref=f7e84]
+                - cell "21" [ref=f7e86]
+                - cell "22" [ref=f7e88]
+                - cell "23" [ref=f7e90]
+                - cell "24 608K" [ref=f7e92]
+              - row [ref=f7e94]:
+                - cell "25 395.2K" [ref=f7e95]
+                - cell "26 395.2K" [ref=f7e97]
+                - cell "27 395.2K" [ref=f7e99]
+                - cell "28 395.2K" [ref=f7e101]
+                - cell "29 395.2K" [ref=f7e103]
+                - cell "30 494K" [ref=f7e105]
+                - cell "31 494K" [ref=f7e107]
+          - generic [ref=f7e110]:
+            - paragraph [ref=f7e111]:
+              - generic [ref=f7e112]: Checkin - Checkout
+            - generic [ref=f7e115]:
+              - generic [ref=f7e116]: Date
+              - strong [ref=f7e118]: Sat, Oct 24 2026 - Sun, Oct 25 2026
+          - generic [ref=f7e119]:
+            - paragraph [ref=f7e120]:
+              - generic [ref=f7e121]: Guest
+            - generic [ref=f7e124]:
+              - generic [ref=f7e125]:
+                - paragraph [ref=f7e126]: Adult
+                - paragraph [ref=f7e127]: Ages 18 or above
+              - generic [ref=f7e129]:
+                - generic [ref=f7e130] [cursor=pointer]: "-"
+                - generic [ref=f7e131]: "2"
+                - generic [ref=f7e132] [cursor=pointer]: +
+            - generic [ref=f7e133]:
+              - generic [ref=f7e134]:
+                - paragraph [ref=f7e135]: Children
+                - paragraph [ref=f7e136]: Ages 0 - 17
+              - generic [ref=f7e138]:
+                - generic [ref=f7e139] [cursor=pointer]: "-"
+                - generic [ref=f7e140]: "0"
+                - generic [ref=f7e141] [cursor=pointer]: +
+          - generic [ref=f7e142]:
+            - paragraph [ref=f7e143]:
+              - generic [ref=f7e144]: Promocode
+            - textbox "Enter promo code" [ref=f7e148]
+        - button "Check Availability" [ref=f7e150] [cursor=pointer]
+  - generic [ref=f7e151]:
+    - banner [ref=f7e152]:
+      - generic [ref=f7e153]:
+        - link "menu" [ref=f7e155] [cursor=pointer]:
+          - /url: "#"
+        - list [ref=f7e161]:
+          - listitem [ref=f7e162]:
+            - link "Rooms" [ref=f7e163] [cursor=pointer]:
+              - /url: https://grandpasundanhotel.com/rooms/
+          - listitem [ref=f7e164]:
+            - link "Offers" [ref=f7e165] [cursor=pointer]:
+              - /url: https://grandpasundanhotel.com/offers/
+          - listitem [ref=f7e166]:
+            - link "Gallery" [ref=f7e167] [cursor=pointer]:
+              - /url: https://grandpasundanhotel.com/gallery/
+        - link [ref=f7e170] [cursor=pointer]:
+          - /url: https://grandpasundanhotel.com/
+          - img "Grand Pasundan Hotel" [ref=f7e171]
+        - link "book now" [ref=f7e173] [cursor=pointer]:
+          - /url: "#"
+    - generic [ref=f7e174]:
+      - generic [ref=f7e175]:
+        - generic [ref=f7e176]:
+          - button "Previous" [ref=f7e190] [cursor=pointer]
+          - button "Next" [ref=f7e191] [cursor=pointer]
+          - list [ref=f7e192]:
+            - listitem [ref=f7e193] [cursor=pointer]:
+              - button "• 1" [ref=f7e194]
+            - listitem [ref=f7e195] [cursor=pointer]:
+              - button "• 2" [ref=f7e196]
+            - listitem [ref=f7e197] [cursor=pointer]:
+              - button "• 3" [ref=f7e198]
+            - listitem [ref=f7e199] [cursor=pointer]:
+              - button "• 4" [ref=f7e200]
+            - listitem [ref=f7e201] [cursor=pointer]:
+              - button "• 5" [ref=f7e202]
+            - listitem [ref=f7e203] [cursor=pointer]:
+              - button "• 6" [ref=f7e204]
+            - listitem [ref=f7e205] [cursor=pointer]:
+              - button "• 7" [ref=f7e206]
+            - listitem [ref=f7e207] [cursor=pointer]:
+              - button "• 8" [ref=f7e208]
+            - listitem [ref=f7e209] [cursor=pointer]:
+              - button "• 9" [ref=f7e210]
+        - link "Scroll Down":
+          - /url: "#main"
+          - generic [ref=f7e211] [cursor=pointer]
+      - generic [ref=f7e212]:
+        - main [ref=f7e214]:
+          - heading "Rooms" [level=1] [ref=f7e216]
+          - paragraph [ref=f7e217]:
+            - text: Bringing contemporary accommodation, the 155 guestrooms and 7 suites have been designed with a savvy way of life in mind. Functional and comfortable, each space uses natural tones and pastel
+            - generic [ref=f7e218]: soft furnishings to provide a residential backdrop for both business and vacation guests. Intuitive, state-of-the-art technology brings super-fast WiFi and adjustable air conditioning and heating to
+        - generic [ref=f7e221]:
+          - generic [ref=f7e224]:
+            - heading "Standard King" [level=2] [ref=f7e225]
+            - list [ref=f7e226]:
+              - listitem [ref=f7e227]:
+                - generic [aria-hidden] [ref=f7e228]: 
+                - text: 2 guests
+              - listitem [ref=f7e229]:
+                - generic [aria-hidden] [ref=f7e230]: 
+                - text: 3m2 x 5m2
+            - paragraph [ref=f7e231]: A comfortable residential type room, with modern simplistic design and luxury. Provide with rooms on two floors. With its modern wooden feature and polished wooden floor, and shower bathroom, our superior flat creates its own unique nature experience.
+            - link "Discover More" [ref=f7e232] [cursor=pointer]:
+              - /url: https://grandpasundanhotel.com/room/standard-king/
+          - generic [ref=f7e239]:
+            - heading "Standard Twin" [level=2] [ref=f7e240]
+            - list [ref=f7e241]:
+              - listitem [ref=f7e242]:
+                - generic [aria-hidden] [ref=f7e243]: 
+                - text: 2 guests
+              - listitem [ref=f7e244]:
+                - generic [aria-hidden] [ref=f7e245]: 
+                - text: 3m2 x 5m2
+            - paragraph [ref=f7e246]: A comfortable residential type room, with modern simplistic design and luxury. Provide with rooms on two floors. With its modern wooden feature and polished wooden floor, and shower bathroom, our superior flat creates its own unique nature experience.
+            - link "Discover More" [ref=f7e247] [cursor=pointer]:
+              - /url: https://grandpasundanhotel.com/room/standard-twin/
+          - generic [ref=f7e250]:
+            - heading "Deluxe Room A King" [level=2] [ref=f7e251]
+            - list [ref=f7e252]:
+              - listitem [ref=f7e253]:
+                - generic [aria-hidden] [ref=f7e254]: 
+                - text: 2 guests
+              - listitem [ref=f7e255]:
+                - generic [aria-hidden] [ref=f7e256]: 
+                - text: 4m2 x 8m2
+            - paragraph [ref=f7e257]: Spaciously room which is located in Main Building with charming and beautifully decorated interior, offering great accommodation with a double or twin beds for up to two persons with great view of the city and mountain. Consist of 4 x 8 square meters
+            - link "Discover More" [ref=f7e258] [cursor=pointer]:
+              - /url: https://grandpasundanhotel.com/room/deluxe-room-a-king/
+          - generic [ref=f7e265]:
+            - heading "Deluxe Room A Twin" [level=2] [ref=f7e266]
+            - list [ref=f7e267]:
+              - listitem [ref=f7e268]:
+                - generic [aria-hidden] [ref=f7e269]: 
+                - text: 2 guests
+              - listitem [ref=f7e270]:
+                - generic [aria-hidden] [ref=f7e271]: 
+                - text: 4m2 x 8m2
+            - paragraph [ref=f7e272]: Spaciously room which is located in Main Building with charming and beautifully decorated interior, offering great accommodation with a double or twin beds for up to two persons with great view of the city and mountain. Consist of 4 x 8 square meters
+            - link "Discover More" [ref=f7e273] [cursor=pointer]:
+              - /url: https://grandpasundanhotel.com/room/deluxe-room-a-twin/
+          - generic [ref=f7e276]:
+            - heading "Deluxe B King" [level=2] [ref=f7e277]
+            - list [ref=f7e278]:
+              - listitem [ref=f7e279]:
+                - generic [aria-hidden] [ref=f7e280]: 
+                - text: 2 guests
+              - listitem [ref=f7e281]:
+                - generic [aria-hidden] [ref=f7e282]: 
+                - text: 4m2 x 8m2
+            - paragraph [ref=f7e283]: Spaciously room which is located in West Building with charming and beautifully decorated interior, offering great accommodation with a double or twin beds for up to two persons with great view of the city and mountain. Consist of 4 x 8 square meters
+            - link "Discover More" [ref=f7e284] [cursor=pointer]:
+              - /url: https://grandpasundanhotel.com/room/deluxe-b-king/
+          - generic [ref=f7e291]:
+            - heading "Deluxe B Twin" [level=2] [ref=f7e292]
+            - list [ref=f7e293]:
+              - listitem [ref=f7e294]:
+                - generic [aria-hidden] [ref=f7e295]: 
+                - text: 2 guests
+              - listitem [ref=f7e296]:
+                - generic [aria-hidden] [ref=f7e297]: 
+                - text: 4m2 x 8m2
+            - paragraph [ref=f7e298]: Spaciously room which is located in West Building with charming and beautifully decorated interior, offering great accommodation with a double or twin beds for up to two persons with great view of the city and mountain. Consist of 4 x 8 square meters
+            - link "Discover More" [ref=f7e299] [cursor=pointer]:
+              - /url: https://grandpasundanhotel.com/room/deluxe-b-twin/
+          - generic [ref=f7e302]:
+            - heading "Executive Suite King" [level=2] [ref=f7e303]
+            - list [ref=f7e304]:
+              - listitem [ref=f7e305]:
+                - generic [aria-hidden] [ref=f7e306]: 
+                - text: 2 guests
+              - listitem [ref=f7e307]:
+                - generic [aria-hidden] [ref=f7e308]: 
+                - text: 4m2 x 8m2
+            - paragraph [ref=f7e309]: Located on the high floor of Main Building, design with modern and minimalist accommodation for a modern businessman who would like having a work in room while also feel the comfort of rest. Consist of 4 x 8 square meters.
+            - link "Discover More" [ref=f7e310] [cursor=pointer]:
+              - /url: https://grandpasundanhotel.com/room/executive-suite-king/
+          - generic [ref=f7e317]:
+            - heading "Executive Suite Twin" [level=2] [ref=f7e318]
+            - list [ref=f7e319]:
+              - listitem [ref=f7e320]:
+                - generic [aria-hidden] [ref=f7e321]: 
+                - text: 2 guests
+              - listitem [ref=f7e322]:
+                - generic [aria-hidden] [ref=f7e323]: 
+                - text: 4m2 x 8m2
+            - paragraph [ref=f7e324]: Located on the high floor of Main Building, design with modern and minimalist accommodation for a modern businessman who would like having a work in room while also feel the comfort of rest. Consist of 4 x 8 square meters.
+            - link "Discover More" [ref=f7e325] [cursor=pointer]:
+              - /url: https://grandpasundanhotel.com/room/executive-suite-twin/
+          - generic [ref=f7e328]:
+            - heading "Executive King" [level=2] [ref=f7e329]
+            - list [ref=f7e330]:
+              - listitem [ref=f7e331]:
+                - generic [aria-hidden] [ref=f7e332]: 
+                - text: 2 guests
+              - listitem [ref=f7e333]:
+                - generic [aria-hidden] [ref=f7e334]: 
+                - text: 4m2 x 8m2
+            - paragraph [ref=f7e335]: Located on the high floor of West Building, design with modern and minimalist accommodation for a modern businessman who would like having a work in room while also feel the comfort of rest. Consist of 4 x 8 square meters.
+            - link "Discover More" [ref=f7e336] [cursor=pointer]:
+              - /url: https://grandpasundanhotel.com/room/executive-king/
+          - generic [ref=f7e343]:
+            - heading "Executive Twin" [level=2] [ref=f7e344]
+            - list [ref=f7e345]:
+              - listitem [ref=f7e346]:
+                - generic [aria-hidden] [ref=f7e347]: 
+                - text: 2 guests
+              - listitem [ref=f7e348]:
+                - generic [aria-hidden] [ref=f7e349]: 
+                - text: 4m2 x 8m2
+            - paragraph [ref=f7e350]: Located on the high floor of West Building, design with modern and minimalist accommodation for a modern businessman who would like having a work in room while also feel the comfort of rest. Consist of 4 x 8 square meters.
+            - link "Discover More" [ref=f7e351] [cursor=pointer]:
+              - /url: https://grandpasundanhotel.com/room/executive-twin/
+          - generic [ref=f7e354]:
+            - heading "Premiere Suite Room" [level=2] [ref=f7e355]
+            - list [ref=f7e356]:
+              - listitem [ref=f7e357]:
+                - generic [aria-hidden] [ref=f7e358]: 
+                - text: 2 Guests
+              - listitem [ref=f7e359]:
+                - generic [aria-hidden] [ref=f7e360]: 
+                - text: 8m2 x 15m2
+            - paragraph [ref=f7e361]: The Premier Suite is a private retreat with a master bedroom and separate living Room. Featuring full home comforts, it is ideal for a VIP traveler seeking extra space to work in privacy or honeymooners choosing to be left alone. Consist of 8 x 15 square meters
+            - link "Discover More" [ref=f7e362] [cursor=pointer]:
+              - /url: https://grandpasundanhotel.com/room/premiere-suite-rooms/
+          - generic [ref=f7e369]:
+            - heading "Grand Family Suite" [level=2] [ref=f7e370]
+            - list [ref=f7e371]:
+              - listitem [ref=f7e372]:
+                - generic [aria-hidden] [ref=f7e373]: 
+                - text: 8m2 x 6m2
+              - listitem [ref=f7e374]:
+                - generic [aria-hidden] [ref=f7e375]: 
+                - text: 2 Twins
+            - paragraph [ref=f7e376]: Located on the West Wing Building, the Grand Family Suite covers with one bedroom with a separate living room. It has been designed to incorporate full home comforts and the perfect alternative for a family to spend quality time together in a spacious environment. Consist of 8 x 6 square meters
+            - link "Discover More" [ref=f7e377] [cursor=pointer]:
+              - /url: https://grandpasundanhotel.com/room/grand-family-suite/
+          - generic [ref=f7e380]:
+            - heading "President Suite" [level=2] [ref=f7e381]
+            - list [ref=f7e382]:
+              - listitem [ref=f7e383]:
+                - generic [aria-hidden] [ref=f7e384]: 
+                - text: 6 Guests
+              - listitem [ref=f7e385]:
+                - generic [aria-hidden] [ref=f7e386]: 
+                - text: 17m2 x 23m2
+            - paragraph [ref=f7e387]: Located on the 11 floor of Main Building, President Suite offers fully detail furnished with a large master bedroom and separate living room. You can also accommodate an important meeting with valuable client in it’s separated Meeting Room. With the astonishing view of Bandung City, The President Suite is a truly dedicated for a very special guest like you. Consist of 17 x 23 square meters
+            - link "Discover More" [ref=f7e388] [cursor=pointer]:
+              - /url: https://grandpasundanhotel.com/room/president-suite/
+          - generic [ref=f7e395]:
+            - heading "3-Bedroom Pasundan Suite" [level=2] [ref=f7e396]
+            - list [ref=f7e397]:
+              - listitem [ref=f7e398]:
+                - generic [aria-hidden] [ref=f7e399]: 
+                - text: 4 Guests
+              - listitem [ref=f7e400]:
+                - generic [aria-hidden] [ref=f7e401]: 
+                - text: 17m2 x 16m2
+              - listitem [ref=f7e402]:
+                - generic [aria-hidden] [ref=f7e403]: 
+                - text: 1 Kings
+            - paragraph [ref=f7e404]: Located on the 11 floor of Main Building, 3-Bedroom Pasundan Suite offers fully detail furnished with a large master bedroom, 2 Kids Room and separate living room. You can also accommodate . With the astonishing view of Bandung City, The 3-Bedroom Pasundan Suite is a truly dedicated for a very special guest like you. Consist of 17 x 16 square meters
+            - link "Discover More" [ref=f7e405] [cursor=pointer]:
+              - /url: https://grandpasundanhotel.com/room/3-bedroom-pasundan-suite/
+        - text: • • • • • •   • • • •   • • • • • • • •   • • • • • • •   • • • • • •   • • • • • • • • • •   • • • • • • •   • • • • • • •   • • • • • •   • • • • • •   • • • • • • • • • •   • • • • • • • •   • • • • • • • • • • • • • • •   • • • • • • • • • • • • • • • • • •   
+  - contentinfo [ref=f7e406]:
+    - generic [ref=f7e409]:
+      - generic [ref=f7e410]:
+        - link [ref=f7e412] [cursor=pointer]:
+          - /url: https://grandpasundanhotel.com/wp-content/themes/Alaric/img/logo-hotel/logo-color-footer.png)
+          - img "Grand Pasundan Hotel" [ref=f7e413]
+        - generic [ref=f7e414]:
+          - strong [ref=f7e415]: Grand Pasundan Hotel & Convention
+          - text: Jl. Peta No.147 - 149, Suka Asih, Kec. Bojongloa Kaler, Kota Bandung, Jawa Barat 40232 - Indonesia Telp. 022 6043135 Email. reservation@grandpasundanhotel.com
+      - list [ref=f7e418]:
+        - listitem [ref=f7e419]:
+          - link "Home" [ref=f7e420] [cursor=pointer]:
+            - /url: https://grandpasundanhotel.com/
+        - listitem [ref=f7e421]:
+          - link "Facilities" [ref=f7e422] [cursor=pointer]:
+            - /url: https://grandpasundanhotel.com/facilities/
+        - listitem [ref=f7e423]:
+          - link "Meetings & Convention" [ref=f7e424] [cursor=pointer]:
+            - /url: https://grandpasundanhotel.com/meetings/
+        - listitem [ref=f7e425]:
+          - link "Weddings" [ref=f7e426] [cursor=pointer]:
+            - /url: https://grandpasundanhotel.com/weddings/
+        - listitem [ref=f7e427]:
+          - link "News" [ref=f7e428] [cursor=pointer]:
+            - /url: https://grandpasundanhotel.com/news/
+        - listitem [ref=f7e429]:
+          - link "Contact" [ref=f7e430] [cursor=pointer]:
+            - /url: https://grandpasundanhotel.com/contact/
+      - generic [ref=f7e431]:
+        - list [ref=f7e432]:
+          - listitem [ref=f7e433]: Stay Connected
+          - listitem [ref=f7e434]:
+            - link "" [ref=f7e435] [cursor=pointer]:
+              - /url: https://www.instagram.com/grandpasundan
+          - listitem [ref=f7e437]:
+            - link "" [ref=f7e438] [cursor=pointer]:
+              - /url: https://www.facebook.com/grandpasundanhotel
+          - listitem [ref=f7e440]:
+            - link "" [ref=f7e441] [cursor=pointer]:
+              - /url: https://wa.me/08112266959
+        - separator [ref=f7e443]: "*"
+        - list [ref=f7e444]:
+          - listitem [ref=f7e445]
+          - listitem [ref=f7e447]
+          - listitem [ref=f7e449]
+          - listitem [ref=f7e451]
+  - text:     
+  - link "Whatsapp" [ref=f7e455] [cursor=pointer]:
+    - /url: https://web.whatsapp.com/send?phone=628112266959&text=
+    - paragraph [ref=f7e463]: Contact us
